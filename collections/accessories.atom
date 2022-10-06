@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehouse-theme-metal.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehouse-theme-metal.myshopify.com/collections/accessories.atom"/>
+  <title>Warehouse - Metal</title>
+  <updated>2019-05-28T12:32:49-04:00</updated>
+  <author>
+    <name>Warehouse - Metal</name>
+  </author>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916215623731</id>
+    <published>2019-05-28T12:32:49-04:00</published>
+    <updated>2019-05-28T12:32:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/shure-sb900a-lithium-ion-rechargeable-battery"/>
+    <title>Shure SB900A Lithium-Ion Rechargeable Battery</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Shure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15843_381__1_2a065c71-0e7d-4891-9785-e33622579f67.jpg?v=1559061174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shure<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            118.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rechargeable lithium-ion battery makes powering Shure wireless systems easy. Features include compatibility with Axient Digital (AD1/AD2), ULX-D, QLX-D, UR5, P3RA, P9R, and P10R systems.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:253</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Shure</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916215623731</id>
+      <title>Default Title</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>SHU-261149-SB9-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916215492659</id>
+    <published>2019-05-28T12:32:43-04:00</published>
+    <updated>2019-05-28T12:32:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/shure-rmce-ltg-remote-mic-lightning-accessory-cable-se-earphones"/>
+    <title>Shure RMCE-LTG Remote + Mic Lightning Accessory Cable SE Earphones</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Shure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15573_250__3_e2492549-c72a-40b6-89f1-fa1d8b8c4c37.jpg?v=1559061168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shure<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lightning cable enables SE Sound Isolating™ Earphones with detachable cables to connect with iOS devices with lightning connector for high-quality audio and communication control.</p>
+
+<h6>Product Details</h6>
+<p>The RMCE-LTG provides a major performance upgrade for all Apple iOS devices with a Lightning® connector in combination with Shure SE model Sound Isolating™ Earphones with detachable cables.</p>
+<p>Incorporating a digital-to-analog convertor (DAC) and amplifier, the RMCE-LTG features state-of-the-art circuitry matched to the specific sonic and performance characteristics of SE Sound Isolating™ earphones.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Sleek, integrated remote/DAC-in-one design</li>
+<li>Microphone placement optimized for clarity of speech and intelligibility of voice commands</li>
+<li>Simple, plug-and-play operation for Apple iOS devices</li>
+<li>Firmware upgradable with the ShurePlus™ MOTIV App</li>
+<li>Certified via the Apple MFI program</li>
+<li>High-quality digital audio playback (up to 24-bit/48 kHz) over Apple’s Lightning® connector</li>
+<li>Voice transmission</li>
+<li>Phone control</li>
+<li>The Lightning Audio Module supports 3-button remote control functionality</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:267</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Shure</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916215492659</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>SHU-454632-RMC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916214542387</id>
+    <published>2019-05-28T12:32:05-04:00</published>
+    <updated>2019-05-28T12:32:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sennheiser-mke-440-professional-stereo-shotgun-microphone-mke-440"/>
+    <title>Sennheiser MKE 440 Professional Stereo Shotgun Microphone (MKE 440)</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Sennheiser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/14029_525__1_f4ccf51b-4aa2-45dd-a1f2-25a4591eb846.jpg?v=1559061130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sennheiser<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            349.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The MKE 440 has two aligned and matched mini shotgun mics ensuring that the MKE 440 captures the audio you want while rejecting off-axis noise. This feature sets it apart from conventional stereo microphones. With its optimized acoustic characteristics and adjustable sensitivity, the MKE 440 is ideally suited for speech, music or ambience. The stainless steel micro-mesh wind protection reduces wind noise and protects the fine high frequency details in your sound.</p>
+
+<ul>
+<li>Dual mini shotgun mics create frontal focus</li>
+<li>Suppression of ambience and background noise</li>
+<li>Built-in elastic suspension and wind protection</li>
+<li>3-level sensitivity adjustment and low-cut</li>
+<li>Compact, all-metal construction that fits on Standard size camera shoe mount</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:198</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Sennheiser</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916214542387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">349.95</s:price>
+      <s:sku>SEN-574111-MKE-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916213395507</id>
+    <published>2019-05-28T12:30:41-04:00</published>
+    <updated>2019-05-28T12:30:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sennheiser-clipmic-digital-mobile-recording-microphone-for-ios-devices"/>
+    <title>Sennheiser ClipMic Digital Mobile Recording Microphone for iOS Devices</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Sennheiser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/14031_997__1_046d4bea-a336-4fa2-8109-4a898ef3d416.jpg?v=1559061044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sennheiser<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether you are a journalist looking for an easy audio solution for field interviews, a lecturer that wants to record a talk or even a parent recording their child reciting a poem – the new digital clip-on microphones from Sennheiser and Apogee help you to capture sound professionally. ClipMic digital combines Apogee’s A/D conversion expertise with Sennheiser’s microphone design knowledge to give users optimum sound quality for their recordings – especially designed for iOS-devices with Lightning connector.</p>
+
+<h6>High Quality Recording</h6>
+<p>When paired with a modern Apple (iOS) device, ClipMic digital delivers exceptional audio quality. The ME 2 omni-directional lavalier microphone captures the sound source while screening out unwanted background noise. Then the in-line, high resolution signal converter developed by Apogee digitally transmits the sound via the Lightning connector with exceptional clarity.</p>
+
+<h6>Simplified Audio and Video Editing</h6>
+<p>MetaRecorder allows the application of metadata tags to your audio files while recording in the field. When these files are imported into Final Cut Pro on a Mac, the captured metadata greatly simplifies the process of organizing and editing your media to accelerate postproduction workflow. (Apple, iOS, iPad, iPhone, iPod and Final Cut Pro are registered trademarks of Apple Inc.)</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Plug and play - connect ClipMic digital to the Lightning port on your iOS device and begin recording!</li>
+<li>Sennheiser ME 2 microphone - omni-directional capsule delivers superb clarity and speech intelligibility</li>
+<li>Lightning connector - is Apple MFi Certified to insure reliability</li>
+<li>Digital interface - Apogee 24 bit/96 kHz digital interface designed specifically for Apple devices (iPhone, iPad or iPod touch) provides exceptional audio performance</li>
+<li>Apogee MetaRecorder app – is a free download from the App Store making recording, tagging and organizing audio in the field simple and efficient</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:209</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Sennheiser</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916213395507</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>SEN-269132-CLI-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916213100595</id>
+    <published>2019-05-28T12:30:29-04:00</published>
+    <updated>2019-05-28T12:30:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-wmn-m22eb-za-no-gap-wall-mount-for-75-q-series-tv"/>
+    <title>Samsung WMN-M22EB/ZA No Gap Wall Mount for 75-Inch Q Series TV</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/711qzhbm6zl._sl1500.jpg?v=1559061035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            177.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With our specially designed No Gap Wall Mount, your compatible Samsung TV fits snug to the wall and blends naturally into your room design, leaving nothing to distract you from the amazing picture quality on screen.</p>
+
+<h6>Tiltable wall mount</h6>
+<p>Worried about getting that perfect angle? The tiltable wall-mount solution lets you adjust the angle of your compatible Samsung TV after mounting it. Now you can enjoy a great view wherever you sit.</p>
+
+<h6>Installation simplified</h6>
+<p>It's never been easier to mount your compatible Samsung TV on the wall. With easy-to-follow steps, you can hang your TV in just minutes. Watch the quick installation video below to see how.</p>
+
+<h6>Well-harmonized everywhere</h6>
+<p>Elevate your décor with a range of TV accessories. It is stunning from any angle and fits in seamlessly with your living space.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:262</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>TV Accessories</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916213100595</id>
+      <title>Default Title</title>
+      <s:price currency="USD">177.99</s:price>
+      <s:sku>SAM-814850-WMN-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916212838451</id>
+    <published>2019-05-28T12:30:18-04:00</published>
+    <updated>2019-05-28T12:30:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-vg-stsm11b-studio-stand-for-65-55-qled-the-frame-tvs"/>
+    <title>Samsung VG-STSM11B Studio Stand for 65-Inch &amp; 55-Inch QLED &amp; The Frame TVs</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/46df09c5a6f819f3be563933631f3494.jpg?v=1559061021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            597.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stylish and sturdy easel design. Transform and style your room into a gallery with an elegant easel design which offers a clean cable management solution.</p><em>Tuck away cable within stand for clean look.</em>
+
+<h6>Bringing beauty and elegance</h6>
+<p>The Studio Stand gives your room a unique, elegant look and feel. Even when you are not watching TV, it functions as an attractive interior item.</p>
+
+<h6>Unique design and premium material</h6>
+<p>Featuring innovation in aesthetics, the Studio Stand oozes sophistication with a unique, dark brown, full-metal easel design. Wherever you put your TV, the Studio Stand accentuates your interior décor.</p>
+
+<h6>Attention to detail</h6>
+<p>Tidy up your living room with the Studio Stand’s smart cable management. There is no need for messy cables around your TV ― keep your space clean with the One Connect Box and Invisible Connection.</p>
+
+<h6>Well-harmonized everywhere</h6>
+<p>Elevate your décor with a range of TV accessories. It is stunning from any angle and fits in seamlessly with your living space.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:235</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$500 to $800</s:tag>
+    <s:tag>TV Accessories</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916212838451</id>
+      <title>Default Title</title>
+      <s:price currency="USD">597.99</s:price>
+      <s:sku>SAM-452912-WAM-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916212609075</id>
+    <published>2019-05-28T12:30:07-04:00</published>
+    <updated>2019-05-28T12:30:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-vg-socm05u-za-one-connect-in-wall-cable-for-qled-frame-tvs"/>
+    <title>Samsung VG-SOCM05U/ZA One Connect In-Wall Cable for QLED &amp; Frame TVs</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vg-socm15-001-front-gray-20171019-2_1_dee2c69c-6ed6-4da3-81a3-0af1645b8e7a.jpg?v=1559061012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            197.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avoid cable mess and clutter behind the TV with this In-Wall certified cable.</p>
+<em>UL approval type OFNP FT6 (NEC, Article 770/UL 1651) USA and Canada</em>
+
+<p>Enjoy a clean and clutter-free cable solution with Samsung's One Connect In Wall Cable with sufficient length for setup.</p>
+
+<h6>In-Wall Connection</h6>
+<p>The One Connect In-Wall Cable allows for a clutter free solution with sufficient length for setup between the TV and the One Connect Box and is UL listed for in-wall installation.</p>
+
+<h6>Free your space</h6>
+<p>Make more space for you. Take advantage of the long, 5m One Connect In-Wall Cable to put your connected device nearly anywhere in the room.</p>
+
+<h6>The secret of the cable</h6>
+<p>Enjoy seamless entertainment. The One Connect In-Wall Connection cable ensures ultra-high performance, delivering fast images, video and IR signals.</p>
+
+<h6>Well-harmonized everywhere</h6>
+<p>Elevate your décor with a range of TV accessories. It is stunning from any angle and fits in seamlessly with your living space.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:251</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>TV Accessories</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916212609075</id>
+      <title>Default Title</title>
+      <s:price currency="USD">197.99</s:price>
+      <s:sku>SAM-908394-VG--DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916211462195</id>
+    <published>2019-05-28T12:28:49-04:00</published>
+    <updated>2019-05-28T12:28:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-tv-mount-samsung-55-65-no-gap-wall-mount-wmn-m12eb-za"/>
+    <title>Samsung TV Mount Samsung No Gap Wall Mount</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/17084_505__1_559e8bc6-85f6-427b-8205-8bd78cf7731d.jpg?v=1559060935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            147.99 - 217.99
+            <a href="https://warehouse-theme-metal.myshopify.com/products/samsung-tv-mount-samsung-55-65-no-gap-wall-mount-wmn-m12eb-za">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With our specially designed No Gap Wall Mount, your compatible Samsung TV fits snug to the wall and blends naturally into your room design, leaving nothing to distract you from the amazing picture quality on screen.</p>
+
+<h6>Tiltable wall mount</h6>
+<p>Worried about getting that perfect angle? The tiltable wall-mount solution lets you adjust the angle of your compatible Samsung TV after mounting it. Now you can enjoy a great view wherever you sit.</p>
+
+<h6>Installation simplified</h6>
+<p>It's never been easier to mount your compatible Samsung TV on the wall. With easy-to-follow steps, you can hang your TV in just minutes. Watch the quick installation video below to see how.</p>
+
+<h6>Well harmonized everywhere</h6>
+<p>Elevate your décor with a range of TV accessories. It is stunning from any angle and fits in seamlessly with your living space.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Distance from wall: Min 0 (Q7CN / Q7FN)</li>
+<li>Number of holes in the wall: 4(min) to 6(max)</li>
+<li>Safe working load: 35</li>
+<li>Accessory size: 20.47” x 10.9” x 0.61”</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:273</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>TV Accessories</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916211462195</id>
+      <title>55&quot;</title>
+      <s:price currency="USD">147.99</s:price>
+      <s:sku>SAM-302228-TV--55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916211462195</id>
+      <title>65&quot;</title>
+      <s:price currency="USD">177.99</s:price>
+      <s:sku>SAM-198086-TV--65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916211462195</id>
+      <title>75&quot;</title>
+      <s:price currency="USD">217.99</s:price>
+      <s:sku>SAM-526449-TV--75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916211232819</id>
+    <published>2019-05-28T12:28:36-04:00</published>
+    <updated>2019-05-28T12:28:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-the-frame-customizable-bezel"/>
+    <title>Samsung The Frame Customizable Bezel</title>
+    <s:type>TV Accessories</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15095_262__1_95c94238-9a3c-4fd1-91f3-27ad186960fa.jpg?v=1559060925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>TV Accessories<br>
+        <strong>Price: </strong>
+            249.99 - 349.99
+            <a href="https://warehouse-theme-metal.myshopify.com/products/samsung-the-frame-customizable-bezel">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing The Frame from Samsung - a revolutionary way to think about your TV. When you're not watching the brilliant 4K UHD TV with HDR, it turns into a beautiful work of art on your wall. With an array of paintings, prints, photos, and frames to suit every mood and style, The Frame TV goes beyond entertainment and becomes an expression of you.</p>
+
+<h6>Choose from one hundred works of art</h6>
+<p>The Frame includes a gallery of professionally curated art, with one hundred free pieces worth thousands of dollars from ten different categories.</p>
+
+<h6>Expand your collection</h6>
+<p>Buy individual pieces or subscribe to an ever-increasing library of established and emerging artists’ work.</p>
+
+<h6>Customize The Frame to fit your style</h6>
+<p>Our Customizable Frame has the flexibility to fit into any home’s decor. You can change the black bezel to a wood, white or black frame, perfectly complementing your home.</p>
+
+<h6>The Frame hangs flush to the wall</h6>
+<p>Our No Gap Wall Mount, included with purchase of The Frame, means just that. The Frame hangs flush to the wall just like a real picture frame. It’s easy to tilt and adjust, and blends seamlessly with your decor.</p>
+
+<h6>Enjoy your art whatever the lighting</h6>
+<p>The Frame features a light sensor, which intelligently detects ambient light. It adjusts the color and brightness settings so your art always looks natural regardless of where it is or what the time of day.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Art Mode</li>
+<li>Samsung Collection</li>
+<li>Premium UHD TV</li>
+<li>4K HDR Pro</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:144</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>TV Accessories</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916211232819</id>
+      <title>43&quot;</title>
+      <s:price currency="USD">249.99</s:price>
+      <s:sku>SAM-606970-THE-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916211232819</id>
+      <title>55&quot;</title>
+      <s:price currency="USD">299.99</s:price>
+      <s:sku>SAM-813830-THE-55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916211232819</id>
+      <title>65&quot;</title>
+      <s:price currency="USD">349.99</s:price>
+      <s:sku>SAM-791379-THE-65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916207824947</id>
+    <published>2019-05-28T12:25:15-04:00</published>
+    <updated>2019-05-28T12:25:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-no-gap-wall-mount-for-65-and-55-q-series-tvs"/>
+    <title>Samsung No Gap Wall Mount for 65-Inch and 55-Inch Q Series TVs</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15527_679__1.jpg?v=1559060721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            147.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With our specially designed No Gap Wall Mount, your compatible QLED TV fits snug to the wall and blends naturally into your room design, leaving nothing to distract you from the amazing picture quality on screen.</p>
+
+<h6>Mount your TV close to the wall</h6>
+<p>No Gap Wall Mount is custom-designed to let you install your compatible QLED TV close to the wall, leaving you with a thin profile and a clean look.</p>
+
+<h6>Intuitive design</h6>
+<p>It's never been easier to mount your compatible QLED TV on the wall. With easy-to-follow steps, you can hang your TV in just minutes.You can even adjust the angle after mounting it. Watch the quick installation video below to see how.</p>
+
+<h6>Well harmonized everywhere</h6>
+<p>Elevate your décor with the custom-designed No Gap Wall Mount¹. Your QLED TV will look stunning from any angle and fit in seamlessly with your living space.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Distance from wall: Min 0mm, Max 7mm</li>
+<li>Number of holes in the wall: 6</li>
+<li>Tilt: Yes</li>
+<li>Safe working load: 35</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:201</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>TV Accessories</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916207824947</id>
+      <title>Default Title</title>
+      <s:price currency="USD">147.99</s:price>
+      <s:sku>SAM-549494-NO--DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916206841907</id>
+    <published>2019-05-28T12:24:17-04:00</published>
+    <updated>2019-05-28T12:24:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-gravity-stand-vg-sgsm11s-za"/>
+    <title>Samsung Gravity Stand (VG-SGSM11S/ZA)</title>
+    <s:type>TV Accessories</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15459_001__1_6e85d1b3-23c8-4550-9b05-b53fe4f4fdce.jpg?v=1559060663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>TV Accessories<br>
+        <strong>Price: </strong>
+            697.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience style and elegance with extended viewing angles on the Gravity Stand with clean cable management solution. Easily tuck away cables within the stand for a clean look. The Gravity Stand is designed to look great wherever you put it. Its full-metal build seamlessly matches with its settings, adding brilliant visual appeal to your living space. A circular design also exudes a sleek, yet cozy look and feel.</p>
+
+<h6>Swivel with ease</h6>
+<p>With the Gravity Stand, you can turn your TV* screen by about 70 degrees (up to 35° left or right), so you can watch from wherever suits you. When you turn it, feel the sound and touch you can experience with a wind-up clock.</p>
+
+<h6>Attention to details</h6>
+<p>Tidy up your living room with the Gravity Stand’s smart cable management. There is no need for messy cables around your TV ― keep your space clean with the One Connect Box and Invisible Connection™ cable.</p>
+
+<h6>Well-harmonized everywhere</h6>
+<p>Elevate your décor with a range of TV accessories. It is stunning from any angle and fits in seamlessly with your living space.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Accessory size: 13.58" x 15.73" x 13.58"</li>
+<li>Compatible models: 65" &amp; 55" Q Series TVs</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:235</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Price_$500 to $800</s:tag>
+    <s:tag>TV Accessories</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916206841907</id>
+      <title>Default Title</title>
+      <s:price currency="USD">697.99</s:price>
+      <s:sku>SAM-567412-GRA-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916206710835</id>
+    <published>2019-05-28T12:24:05-04:00</published>
+    <updated>2019-05-28T12:24:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-customizable-frame"/>
+    <title>Samsung Customizable Frame</title>
+    <s:type>TV Accessories</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15084_683__1_b9c842d7-a7d2-4618-9ca1-a382eca9a72e.jpg?v=1559060653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>TV Accessories<br>
+        <strong>Price: </strong>
+            177.99 - 247.99
+            <a href="https://warehouse-theme-metal.myshopify.com/products/samsung-customizable-frame">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Customizable Frame has the flexibility to fit into any home’s décor. You can change the black bezel to a beige, brown, white or black frame, perfectly complementing your home. It's effortless to refresh The Frame's appearance: the customizable frames adhere with magnets. Snap on the frame of your choice to update the view.</p>
+
+<h6>Simple and harmonious design</h6>
+<p>Each customizable frame fits The Frame seamlessly, accentuating its sleek, clean lines, and crisp angles. Just pick the finish that best suits your style.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Accessory size: 48.8" x 1.7" x 0.6" (Top/Bottom)</li>
+<li>Shipping dimensions: 52.2" x 3.5" x 3.7"</li>
+<li>Product weight: 2.6 lbs</li>
+<li>Compatible models: 55" The Frame TVs</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:187</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>TV Accessories</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916206710835</id>
+      <title>Beige / Light Wood / 43&quot;</title>
+      <s:price currency="USD">177.99</s:price>
+      <s:sku>SAM-975697-CUS-BE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916206710835</id>
+      <title>Beige / Light Wood / 55&quot;</title>
+      <s:price currency="USD">197.99</s:price>
+      <s:sku>SAM-717835-CUS-BE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916206710835</id>
+      <title>Beige / Light Wood / 65&quot;</title>
+      <s:price currency="USD">247.99</s:price>
+      <s:sku>SAM-180829-CUS-BE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916206710835</id>
+      <title>White Metal / 43&quot;</title>
+      <s:price currency="USD">177.99</s:price>
+      <s:sku>SAM-526242-CUS-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916206710835</id>
+      <title>White Metal / 55&quot;</title>
+      <s:price currency="USD">197.99</s:price>
+      <s:sku>SAM-420644-CUS-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916206710835</id>
+      <title>White Metal / 65&quot;</title>
+      <s:price currency="USD">247.99</s:price>
+      <s:sku>SAM-617874-CUS-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916201926707</id>
+    <published>2019-05-28T12:21:19-04:00</published>
+    <updated>2019-05-28T12:21:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/marantz-tt-15s1-reference-belt-drive-turntable-with-cartridge"/>
+    <title>Marantz TT-15S1 Reference Belt Drive Turntable with Cartridge</title>
+    <s:type>Turntables</s:type>
+    <s:vendor>Marantz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/51tge77swjl._sl1280_b0ce4a0d-b818-4bad-af83-8ee389c48eaf.jpg?v=1559060482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marantz<br>
+        <strong>Type: </strong>Turntables<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Analog recording is still very alive. Quality turntables are still in demand. Digital discs simply set new performance standards that turntables must meet. Many cherished records may never be issued on digital formats. Good turntables are now more important than ever. Marantz embraces an audiophile quality turntable with AC servo belt-drive and low-coloration tone arm to answer the need for a high performance source component for the analog record.</p>
+<h6>General specifications:</h6>
+<ul>
+<li>Low-Resonance High-Density Acrylic Chassis and Platter</li>
+<li>Floating Motor Mount Construction</li>
+<li>Asynchronous AC Motor</li>
+<li>Belt Drive System with Endless Silicon Belt</li>
+<li>Anodized Aluminum Straight Type Tone Arm</li>
+<li>Magnetic Type Anti-Skating Mechanism</li>
+<li>Fine Adjustable Counter Weight</li>
+<li>Solid Aluminum 3 points Support Feet</li>
+<li>Wood Base, High Quality MM Cartridge</li>
+<li>"Clever Clamp" by Souther Engineering</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:298</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Marantz</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$800 to $1500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916201926707</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1499.00</s:price>
+      <s:sku>MAR-632313-TT4-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916198551603</id>
+    <published>2019-05-28T12:19:10-04:00</published>
+    <updated>2019-05-28T12:19:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/lg-otw420b-ez-slim-wall-mount"/>
+    <title>LG OTW420B EZ Slim Wall Mount</title>
+    <s:type>TV Accessories</s:type>
+    <s:vendor>LG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/51a8accsfkl._sl1000_2a32f0e8-b4df-4164-b83d-d995faa35ca2.jpg?v=1559060355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LG<br>
+        <strong>Type: </strong>TV Accessories<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mount your stunning OLED or Premium UHD LED TV on the wall with the LG OTW420B tilting wall mount. Developed specifically for the 2016/2017 OLED and Premium UHD LED TVs, this wall mount will help highlight the surprisingly slim TV design.</p>
+
+<h6>Notes:</h6>
+<ul>
+<li>Specifically designed for 65G7P, 65G6P, E6/E7 series, C6/C7 series, B6/B7/B7A series, 65SJ9500, and 65UH9500</li>
+<li>Low-profile design + extension</li>
+<li>Tilt &amp; swivel features</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:291</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_LG</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>TV Accessories</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916198551603</id>
+      <title>Default Title</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>LG--193602-OTW-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916166799411</id>
+    <published>2019-05-28T11:54:58-04:00</published>
+    <updated>2019-05-28T11:54:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/focal-cms-40-carrying-bag"/>
+    <title>Focal CMS 40 Carrying Bag</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Focal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/ad596e04e59897ebdc1aa8c3700c9c29.jpg?v=1559058901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Focal<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Got a pair of Focal CMS 40 studio monitors? Want to take them everywhere you go? Naturally you do! And with this Focal CMS 40 Bag, you've got the perfect way to transport your favorite monitors wherever your music-production work takes you. Made of rugged black nylon, this CMS 40 Bag offers your monitors a tough layer of protection against scrapes, bumps, dings, and the general wear and tear of transportation. It's the perfect fit for two CMS 40s, plus there's a large storage pocket for your cables and other essential gear made into the Focal CMS 40 Bag.</p>
+
+<ul>
+<li>Suitable for 2 pieces of Focal CMS40 loudspeakers</li>
+<li>Robust workmanship</li>
+<li>Extra space for accessories and cables</li>
+<li>Colour: Black</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:162</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Focal</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916166799411</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>FOC-128053-DOM-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916166012979</id>
+    <published>2019-05-28T11:54:05-04:00</published>
+    <updated>2019-05-28T11:54:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/devialet-vy510us-accessory-dialog-wireless-smart-hub-for-phantom"/>
+    <title>Devialet VY510US Accessory Dialog Wireless Smart Hub for Phantom</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Devialet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/smthub.jpg?v=1559058849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Devialet<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dialog is the hub that allows you to connect several Phantom together wirelessly, from 2 Phantom to 24 Phantom, to create Hi-Fi or Multi-Room systems.</p><p>Dialog is necessary to connect more than one Phantom for a multi-room or stereo experience. Dialog is not necessary to play online streaming services through Bluetooth to one Phantom.</p>
+<em>Designed and assembled in France. Only works with Phantom Premier: Phantom Gold (4500W), Phantom Silver (3000W), Classic Phantom (1200W).</em>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:187</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Devialet</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916166012979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku>DEV-664241-VY5-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916165718067</id>
+    <published>2019-05-28T11:53:57-04:00</published>
+    <updated>2019-05-28T11:53:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/devialet-phantom-remote-super-power-control"/>
+    <title>Devialet Phantom Remote Super Power Control</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Devialet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/29f57be200c6c3e9ac9e9a42aa594e5a.jpg?v=1559058840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Devialet<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Remote is designed with the same technological requirements and materials as Phantom. Its satin-finish stainless steel control wheel is a sublime piece of craftsmanship in its own right.</p>
+<ul>
+<li>Each one is molded individually. Super intuitive. Assembled with extremely skilled precision.</li>
+<li>Connect several Remote to Phantom at any one time.</li>
+<li>100% French designed and made.</li>
+<li>Dimensions: 66 mm x 67 mm</li>
+<li>Weight: 190g</li>
+<li>
+</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:193</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Devialet</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916165718067</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>DEV-534813-SIL-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916165259315</id>
+    <published>2019-05-28T11:53:38-04:00</published>
+    <updated>2019-05-28T11:53:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/devialet-care-phantoms-insurance-me355aa-aa"/>
+    <title>Devialet Care 3 Year Insurance for Devialet Phantom</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Devialet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/insurd.jpg?v=1559058821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Devialet<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Protect your investment</em>
+<p>With Devialet Care, your Phantom Premier investment is protected with an extra year of warranty and can be replaced once at a preferential price in case of accidental damage (see Devialet Care replacement prices below).</p>
+<ul>
+<li>3 years Guarantee Extension</li>
+<li>Protect your Phantom up to 30 days after its purchase</li>
+<li>Covers one accidental Incident</li>
+</ul>
+<h6>Why signup for Devialet Care?</h6>
+<p>Our three-year insurance policy makes sure you’re covered. Instantly. For one instance of accidental damage or breakage. Gold standard, guaranteed.</p>
+<h6>How do I activate Devialet Care</h6>
+<p>To activate Devialet Care, head on over to your user account. In just a few clicks, you're all covered.</p>
+<h6>Do I have to purchase Devialet Care at the same time as Phantom</h6>
+<p>You've got 30 days to buy Devialet Care from the moment you purchase Phantom. Make sure you get covered before it's too late...!</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:167</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Devialet</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916165259315</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>DEV-731007-GOL-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916163063859</id>
+    <published>2019-05-28T11:51:19-04:00</published>
+    <updated>2019-05-28T11:51:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn70sp-replacement-stylus"/>
+    <title>Audio-Technica VMN70SP Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn70sp_1_sq.jpg?v=1559058682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM670SP</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Conical (3mil) stylus</li>
+<li>Nude Rectangular Shank construction</li>
+<li>Grey</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:297</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916163063859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>CAM-685854-AUD-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162998323</id>
+    <published>2019-05-28T11:51:16-04:00</published>
+    <updated>2019-05-28T11:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn60slc-replacement-stylus"/>
+    <title>Audio-Technica VMN60SLC Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn60slc_1_sq.jpg?v=1559058678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM760SLC</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Special Line Contact stylus</li>
+<li>Nude Rectangular Shank construction</li>
+<li>Black</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:225</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$500 to $800</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162998323</id>
+      <title>Default Title</title>
+      <s:price currency="USD">529.00</s:price>
+      <s:sku>AUD-466375-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162965555</id>
+    <published>2019-05-28T11:51:12-04:00</published>
+    <updated>2019-05-28T11:51:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn50sh-replacement-stylus"/>
+    <title>Audio-Technica VMN50SH Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn50sh_1_sq.jpg?v=1559058674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM750SH</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Shibata stylus</li>
+<li>Nude Square Shank construction</li>
+<li>Brown</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:250</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162965555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku>AUD-386631-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162900019</id>
+    <published>2019-05-28T11:51:08-04:00</published>
+    <updated>2019-05-28T11:51:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn40ml-replacement-stylus"/>
+    <title>Audio-Technica VMN40ML Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn40ml_1_sq.jpg?v=1559058671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            209.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM740ML &amp; VM540ML</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Microlinear stylus</li>
+<li>Nude Rectangular Shank construction</li>
+<li>Red</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:261</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162900019</id>
+      <title>Default Title</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>AUD-580506-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162867251</id>
+    <published>2019-05-28T11:51:04-04:00</published>
+    <updated>2019-05-28T11:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn30en-replacement-stylus"/>
+    <title>Audio-Technica VMN30EN Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn30en_1_sq.jpg?v=1559058667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM530EN</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Elliptical Nude stylus</li>
+<li>Nude Round Shank construction</li>
+<li>Orange</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:224</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162867251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>AUD-760350-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162670643</id>
+    <published>2019-05-28T11:51:01-04:00</published>
+    <updated>2019-05-28T11:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn20eb-replacement-stylus"/>
+    <title>Audio-Technica VMN20EB Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn20eb_1_sq.jpg?v=1559058663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM520EB</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Elliptical Bonded stylus</li>
+<li>Bonded Round Shank construction</li>
+<li>Blue</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:188</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162670643</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>AUD-228159-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162572339</id>
+    <published>2019-05-28T11:50:57-04:00</published>
+    <updated>2019-05-28T11:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn10cb-replacement-stylus"/>
+    <title>Audio-Technica VMN10CB Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn10cb_1_sq.jpg?v=1559058660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM510CB &amp; VM610MONO</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Conical Bonded stylus</li>
+<li>Bonded Round Shank construction</li>
+<li>Blue</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:149</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Light Blue</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162572339</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>AUD-591241-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

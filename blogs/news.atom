@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehouse-theme-metal.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://warehouse-theme-metal.myshopify.com/blogs/news.atom"/>
+  <title>Warehouse - Metal - News</title>
+  <updated>2019-04-15T10:13:00-04:00</updated>
+  <author>
+    <name>Warehouse - Metal</name>
+  </author>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/blogs/news/setup-your-surround-sound-speaker</id>
+    <published>2019-04-15T10:13:00-04:00</published>
+    <updated>2019-07-14T05:34:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/blogs/news/setup-your-surround-sound-speaker"/>
+    <title>Setup your Surround sound speaker</title>
+    <author>
+      <name>Michaël Gallego</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>I will make the assumption that you have a surround sound or home theater receiver and start from there. There are 3 main home theater speaker setups which you will see termed 5.1, 6.1, and 7.1 channel surround. You will also see mentioned the terms Dolby Digital, DTS, and Dolby Pro Logic. Let's dispense with the latter first: if your receiver is only Pro Logic (only older receivers at this point) you do not need to worry about 6.1 or 7.1 surround. There are some other formats such as Dolby Digital EX, Dolby Pro-logic IIx, Dolby TrueHD, DTS neo:6.1, DTS-ES, True-Surround XT, and undoubtedly more.</p>
+<h1>A world of compromise</h1>
+<p>The two factors to consider are:</p>
+<ol>
+<li>How many channels does your system permit</li>
+<li>Do you want to buy that many speakers?</li>
+</ol>
+<p>All the receivers that support more than 5.1 channels will also work fine with a 5.1 channel setup. Obviously, 7.1 will provide better surround sound than 5.1, but at the expense of two extra speakers. If you have a limited budget you will have to decide whether to buy 5.1 higher quality speakers, or go for cheaper speakers to allow for 7.1 channels. By the way, the .1 channel is the home theater sub-woofer. The sub-woofer is, in my opinion, really needed for home theater. A system will work without it, but I don't recommend going without for home theater. The center channel is also very important for home theater, serving to anchor the sound to the video screen. If you go to our site by the link at the bottom of this article you can see images for the descriptions following. These are the recommended placements according to Dolby Labs.</p>
+<h1>Sub-woofer Setup</h1>
+<p>Your sub-woofer may have a switch for Dolby Digital / Pro Logic. If you have a Dolby Digital capable receiver set it to that even if you are using Pro Logic. The same goes if you have multiple inputs on your sub. If your input is labeled LFE it is the equivalent of a Dolby Digital input. You want to use the input to the RCA style plug (or plugs) if you are using the sub-woofer in a surround system.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0065/3095/7363/files/R-10SWi_R-12SWi_Lifestyle_horizontal_1024x1024.jpg?v=1555337751" alt=""></p>
+<p>If you have speaker level binding post inputs, these are almost always for using the sub-woofer in a non surround sound speaker setup. Preset the sub-woofer level control to about halfway before running the white noise test tone to calibrate your receiver speaker levels. You absolutely must run the test and balance your speaker levels to have the surround system perform properly.</p>
+<p>Don't worry about the crossover frequency control on the sub for Dolby Digital or better systems. For Pro Logic set it to the point where bass in your main speakers drops off, which will require looking at the documentation for your speakers.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/blogs/news/hook-up-a-receiver-for-your-home-theater</id>
+    <published>2019-04-15T10:08:00-04:00</published>
+    <updated>2019-07-14T05:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/blogs/news/hook-up-a-receiver-for-your-home-theater"/>
+    <title>Hook up a receiver for your home theater</title>
+    <author>
+      <name>Michaël Gallego</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>A receiver is that big, heavy thing that you plug your speakers and other components into (like a DVD player, TV, CD player, Xbox, PlayStation, iPod, and etc.). It's the "brain" of the show, really. The idea of connecting all your components to a receiver is the concept of audio/video switching, allowing you to switch to different video sources (like TV, DVD, camcorder) on your TV and thus changing the audio source accordingly - all without touching anything but the receiver.</p>
+<meta charset="utf-8">
+<blockquote>
+<p><span>It's the "brain" of the show, really.</span></p>
+</blockquote>
+<p>Of course, the main purpose behind audio/video switching with a receiver is to drive audio to external speakers, like surround sound or stereo speakers.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0065/3095/7363/files/fingers-turning-dial-on-dj-board_1024x1024.jpg?v=1555337294" alt=""></p>
+<p>Most receivers have a plethora of inputs; up to 8 speakers and a subwoofer (more commonly, 5.1, or five speakers and a subwoofer), several video inputs, and even HDMI inputs. You could plug your Xbox, Plasma, and DVD player into the receiver and use one remote to switch between all the different video sources (games, TV, DVD video) and have your speakers pump out surround-sound. Let's start with inputs and outputs. If you don't understand something, read through the entire How-To as most of it will be explained in detail.</p>
+<p>Keep in mind that a receiver is the hub of your entire home theatre, so this How-To will actually guide you through the basics of connecting your complete home theater.</p>
+<h1>The heck on the back of your receiver?</h1>
+<p>I'm going to go over just about anything that you would find on the back of your receiver. The one I'm basing this guide off of is a Harman Kardon AVR-247 I'm going to start from the top left of the unit and work my way to the right, then I'll start at the left of the next row and so on.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0065/3095/7363/files/audio-wires-in-sound-board_1024x1024.jpg?v=1555337334" alt=""></p>
+<p>The first three inputs are for antennas. An FM antenna cable would slide on to the first jack while two speaker wires would plug into the remaining slots for AM. Of course, you don't have to plug your antennas in, but if you'd like AM/FM reception through your speakers, you'll want to go ahead and do that. These are standard connections, so if you lose one of your antennas, just go buy another for a few bucks.</p>
+<p>You've probably heard of composite video. It's a very basic video connection used by most any component (TV, DVD, VCR especially). It's common and its cheap. As such, its very low quality.</p>
+<p>Composite uses an RCA cable for video (yellow) and two more RCA cables for audio (red and white, stereo). The problem is that a composite video cable combines luminance and chrominance in the same cable, reducing the quality of the picture. You lose a lot of sharpness, and the color begins to degrade from the original source. It's useful when you need the extra input or the device you're connecting only has composite video. Otherwise, use something else, like component video. Sounds similar; very different.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/blogs/news/top-most-comfortable-headphones</id>
+    <published>2019-04-15T10:00:00-04:00</published>
+    <updated>2019-04-15T10:01:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/blogs/news/top-most-comfortable-headphones"/>
+    <title>Top most comfortable headphones</title>
+    <author>
+      <name>Michaël Gallego</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Music somehow has a way of influencing just how we actually think and feel. The right kind of music can make us feel invincible and let us take actions that would normally be difficult, or at least challenging to us, while the wrong kind can make us feel inferior and sometimes even powerless. And unlike most other forms of stimulants that can alter perception, music seems like a better alternative, considering that we just need to listen to it.</p>
+<p> </p>
+<p>Anyway, to this effect, people in the modern age have come to rely on headphones and headsets to make their musical experience even more worthwhile. After all, keeping your music to yourself can have two benefits. One, you reduce the chance of being a nuisance to others in case the music you're actually listening to isn't the kind that the people around you might not want to hear. Second, by keeping your favorite music focused on yourself, you get more of its power-up effect to yourself.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0065/3095/7363/files/woman-wearing-headphones_1024x1024.jpg?v=1555336745" alt=""></p>
+<p>So now we're going to discuss the top five most comfortable over-ear headphones that are out there, right now. We have the Sol Republic Master Tracks Over-Ear Headphones, AKG K 240 MK II Stereo Studio Headphones, Bowers &amp; Wilkins P7 Over Ear Headphones, Polk Audio AM5118-A Buckle Over-Ear Headphones and BeoPlay H6 Natural Leather Headphones. We're going to measure each of them according to the standards of comfort (how well they fit around your head and ears), durability (how long they actually last and how much bending and stretching they can take before breaking) and, of course, overall quality (do the sounds they make actually match their reputation etc.).</p>
+<h1>Sol Republic Master Tracks Over-Ear Headphones</h1>
+<p>We'll start with the Sol Republic Master Tracks Over-Ear Headphones, a product by Sol Republic and by far one of the more popular brands of headphones out there. Thanks to its clear and crisp system for sound and overall comfort, it's probably one of the more prolific of headsets out there. It's fairly easy to operate and, since it's also quite tough, they are also a number one choice for comfort and traveling.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0065/3095/7363/files/waiting-for-metro_1024x1024.jpg?v=1555336783" alt=""></p>
+<h1>AKG K 240 MK II Stereo Studio Headphones</h1>
+<p>Yet another strong contender for the most comfortable over-ear headphones. The AKG K 240 MK II Stereo Studio Headphones boasts some really great qualities that make it comfortable to wear on those long waits or walks. Its sound quality and durability also make it quite popular for people commuting to work or just taking a walk around town, they are also an excellent pair of DJ headphones.</p>
+<p> </p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,1804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehouse-theme-metal.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehouse-theme-metal.myshopify.com/collections/all.atom"/>
+  <title>Warehouse - Metal</title>
+  <updated>2019-06-02T08:33:47-04:00</updated>
+  <author>
+    <name>Warehouse - Metal</name>
+  </author>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1923385524275</id>
+    <published>2019-06-02T08:33:47-04:00</published>
+    <updated>2019-06-02T08:33:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/gift-wrap"/>
+    <title>Gift wrap</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/gift-wrap-metal.png?v=1564407236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__gift</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1923385524275</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>GIF-147136-XB950</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916224307251</id>
+    <published>2019-05-28T12:41:46-04:00</published>
+    <updated>2019-05-28T12:41:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/yamaha-ysp-5600-musiccast-sound-bar-with-dolby-atmos-and-dts-x"/>
+    <title>Yamaha YSP-5600 MusicCast Sound Bar with Dolby Atmos and DTS:X</title>
+    <s:type>Sound Bars</s:type>
+    <s:vendor>Yamaha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/8d6af0e53489232d341c0c4ff0719d01.jpg?v=1559061710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yamaha<br>
+        <strong>Type: </strong>Sound Bars<br>
+        <strong>Price: </strong>
+            1599.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take your TV sound to a new dimension. The YSP-5600 employs a remarkable 46 speaker drivers and Yamaha exclusive Digital Sound Projector technology to deliver Dolby Atmos and DTS:X* multi-dimensional listening experiences. It can also provide wireless multiroom audio playback using your existing Wi-Fi network by adding other MusicCast speakers, sound bars or AV receivers in other rooms.</p>
+<h6>General Specifications:</h6>
+<ul>
+<li>World's first sound bar with 7.1.2-channel multidimensional sound</li>
+<li>HDMI® inputs with 4K Ultra HD pass-through and HDCP 2.2</li>
+<li>Versatile connectivity – Wi-Fi, Bluetooth, AirPlay and Spotify Connect</li>
+<li>MusicCast provides access to Pandora®, Napster, TIDAL, Deezer, Spotify, SiriusXM Internet Radio and more</li>
+<li>Add audio in up to 9 additional rooms with MusicCast</li>
+<li>Voice control using your Alexa device like Echo or Echo Dot</li>
+<li>Subwoofer and wireless transmission kit sold separately</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:173</s:tag>
+    <s:tag>Brand_Yamaha</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:tag>Sound Bars</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916224307251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1599.95</s:price>
+      <s:sku>YAM-171708-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916224208947</id>
+    <published>2019-05-28T12:41:38-04:00</published>
+    <updated>2019-05-28T12:41:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/yamaha-wx-030-musiccast-wireless-speaker"/>
+    <title>Yamaha WX-030 MusicCast Wireless Speaker</title>
+    <s:type>Portable Speakers</s:type>
+    <s:vendor>Yamaha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/A1Cet8zvhXL._SL1500.jpg?v=1559727616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yamaha<br>
+        <strong>Type: </strong>Portable Speakers<br>
+        <strong>Price: </strong>
+            249.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Wi-Fi-enabled streaming speaker is so compact you can put it just about anywhere for instant listening. It’s compatible with MusicCast, a new system that lets you connect other MusicCast devices via your home’s wireless network to deliver music whenever and wherever you like.</p>
+<h6>Features:</h6>
+<ul>
+<li>Wifi, Bluetooth Airplay &amp; DLNA</li>
+<li>30 Watts - 9cm Woofer 3cm tweeter</li>
+<li>Wall Mounting solution built-in</li>
+<li>Touch sensitive buttons</li>
+<li>Supports streaming services including Spotify</li>
+</ul>
+<h6>Package Contains:</h6>
+<ul>
+<li>1 x WX030 Speaker</li>
+<li>1 x Power Cable</li>
+<li>4 x Cushion stickers for use when wall mounting</li>
+<li>1 x Cable Cover</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:196</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Yamaha</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916224208947</id>
+      <title>Black</title>
+      <s:price currency="USD">249.95</s:price>
+      <s:sku>YAM-575382-WX-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916224208947</id>
+      <title>White</title>
+      <s:price currency="USD">249.95</s:price>
+      <s:sku>YAM-564761-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916224143411</id>
+    <published>2019-05-28T12:41:32-04:00</published>
+    <updated>2019-05-28T12:41:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/yamaha-wx-010bl-musiccast-multiroom-digital-music-system"/>
+    <title>Yamaha WX-010 MusicCast Multiroom Digital Music System</title>
+    <s:type>Portable Speakers</s:type>
+    <s:vendor>Yamaha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/yamaha_wx_010bl_wx_010_musiccast_wireless_speaker_1268448.jpg?v=1559061695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yamaha<br>
+        <strong>Type: </strong>Portable Speakers<br>
+        <strong>Price: </strong>
+            179.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With a stylish, space-saving design that fits anywhere in your home, this MusicCast speaker lets you stream music wirelessly using your existing Wi-Fi® network. Use it as a stand-alone streaming music system or add more MusicCast products like additional speakers, AV receivers or sound bars over time and control them all with a simple app. In addition to Wi-Fi, this speaker also supports Bluetooth® and AirPlay®, allowing for greater wireless connection flexibility. Two units can be used in stereo mode for a more expansive and lifelike listening experience.</p>
+<h6>Stylish, Space-Saving Design</h6>
+<p>The small footprint of this speaker makes it perfect for use in the kitchen, bedside or anywhere space is limited. You can even mount it on a wall with commercially available speaker mounts using the integrated 1/4 inch, 20 threaded mounting hole.</p>
+<h6>Features:</h6>
+<ul>
+<li>Compact design that fits anywhere in your home</li>
+<li>Access to your music library, Pandora®, Napster, TIDAL, Deezer, Spotify, SiriusXM Internet Radio and more</li>
+<li>Versatile connectivity – Wi-Fi, Bluetooth, AirPlay and Spotify Connect</li>
+<li>Free MusicCast Controller app for Apple® iOS and Android™ devices</li>
+<li>Add audio in up to 9 additional rooms with MusicCast</li>
+<li>Voice control using your Alexa device like Echo or Echo Dot</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:149</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Yamaha</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916224143411</id>
+      <title>Black</title>
+      <s:price currency="USD">179.95</s:price>
+      <s:sku>YAM-810733-WX-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916224143411</id>
+      <title>White</title>
+      <s:price currency="USD">179.95</s:price>
+      <s:sku>YAM-456365-WX-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916224012339</id>
+    <published>2019-05-28T12:41:27-04:00</published>
+    <updated>2019-05-28T12:41:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/yamaha-ns-sw300-subwoofer"/>
+    <title>Yamaha NS-SW300 Subwoofer</title>
+    <s:type>Subwoofers</s:type>
+    <s:vendor>Yamaha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/2c05017e693ad594772a02d9ce682099.jpg?v=1559061690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yamaha<br>
+        <strong>Type: </strong>Subwoofers<br>
+        <strong>Price: </strong>
+            499.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A design combining superior operability and beauty. And introducing a new technology, Twisted Flare Port, for clear and tight bass. A subwoofer that will match a wide range of speakers and interiors.</p>
+<h6>Features:</h6>
+<ul>
+<li>PWM digital drive high efficiency amplifier and dual feedback circuit</li>
+<li>New Twisted Flare Port contributes to clear and tight bass</li>
+<li>Advanced YST II (Yamaha Active Servo Technology II)</li>
+<li>25 cm (10”) cone woofer with square wire voice coil</li>
+<li>Beautiful design will match a wide range of speakers and interiors</li>
+<li>Front control panel for easy control</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:172</s:tag>
+    <s:tag>Brand_Yamaha</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Subwoofers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916224012339</id>
+      <title>Default Title</title>
+      <s:price currency="USD">499.95</s:price>
+      <s:sku>YAM-970216-NS-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916223848499</id>
+    <published>2019-05-28T12:41:13-04:00</published>
+    <updated>2019-05-28T12:41:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/yamaha-musiccast-20-wireless-speaker"/>
+    <title>Yamaha MusicCast 20 Wireless Speaker</title>
+    <s:type>Portable Speakers</s:type>
+    <s:vendor>Yamaha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/35d28a903362db03b42feacf5b788176.jpg?v=1559061684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yamaha<br>
+        <strong>Type: </strong>Portable Speakers<br>
+        <strong>Price: </strong>
+            229.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It’s how we connect. The MusicCast 20 delivers versatile listening with ease - able to be used as a standalone speaker, paired, or acting as surround speakers with a compatible MusicCast AV receiver or sound bar.</p>
+<p>The MusicCast 20 makes your music and movies more enjoyable - maybe in ways you never imagined. It's a perfect fit for any space, any decor, and can even be wall-mounted. Pair two together to create a powerful wireless stereo sound. The MusicCast app makes your MusicCast 20 even more versatile. Add a pair to a MusicCast surround-capable AV receiver to provide wireless surrounds for a 5.1-Channel home theater system. Or listen to music in any room in your home with a MusicCast multi-room setup. Voice control with Alexa through any echo device adds more flexibility for your life.</p>
+<ul>
+<li>Music streaming services built-in</li>
+<li>MusicCast multi-room technology</li>
+<li>Alexa voice control compatibility</li>
+<li>High-Resolution Audio</li>
+<li>Stereo pairing (requires 2 units)</li>
+<li>Ability to be used as surround speakers with an AV receiver or sound bar (Select MusicCast models only)</li>
+<li>Soft-touch, simple presets for instant playback</li>
+</ul>
+<h6>Create a Home Stereo</h6>
+<p>Pair two MusicCast 20 speakers to create a space-saving yet powerful setup.</p>
+<h6>Get Music in Your Whole House</h6>
+<p>Use multiple MusicCast speakers to play music throughout your whole home. Stream and control multiple rooms with the MusicCast app for iOS, Android.</p>
+<h6>Create a Home Theater</h6>
+<p>Add a pair to a MusicCast Surround-capable AV receiver to provide wireless surrounds for a 5.1-channel home theater experience.</p>
+<h6>Connect with Your Music</h6>
+<p>Play to your MusicCast 50 speaker through Bluetooth, Wi-Fi, AirPlay, Spotify Connect, or connect directly to your TV. The choice is yours.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:66</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Yamaha</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916223848499</id>
+      <title>Black</title>
+      <s:price currency="USD">229.95</s:price>
+      <s:sku>YAM-393732-MUSICCAST-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916223848499</id>
+      <title>White</title>
+      <s:price currency="USD">229.95</s:price>
+      <s:sku>YAM-146444-MUSICCAST-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916223553587</id>
+    <published>2019-05-28T12:40:59-04:00</published>
+    <updated>2019-05-28T12:40:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/yamaha-multicast-50-wireless-speaker-wx-051"/>
+    <title>Yamaha MultiCast 50 Wireless Speaker WX-051</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>Yamaha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/71APfN3f-0L._SL1500.jpg?v=1559727556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yamaha<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            499.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The powerful wireless speaker that matches your enthusiasm for music and entertainment. Great on its own or as a part of a MusicCast stereo, home theater or wireless multi-room audio setup. Works with Amazon Alexa.</p>
+<p>The musician 50 has the power to make your music more amazing - maybe in ways you never imagined. With a simple, artistic design, it fits in with any decor. Use one or two together to create a powerful wireless stereo sound. The musician app makes your musical 50 even more versatile. Add either a single speaker or a pair to a musical surround-capable AV receiver to provide wireless surrounds for 5.1-Channel home theater system. Or listen to music in any room in your home with a musical multi-room setup. And voice control with Alexa adds more flexibility for your life.</p>
+<h6>Create a Home Theater</h6>
+<p>Add one or two MusicCast 50 speakers to a MusicCast Surround-capable AV receiver to provide wireless surrounds for a 5.1-ch home theater experience.</p>
+<h6>Get Music in Every Room</h6>
+<p>Use multiple MusicCast speakers to play music through your entire home. Stream and control multiple rooms with the MusicCast app for iOS and Android.</p>
+<h6>Create a Home Stereo</h6>
+<p>Pair one or two MusicCast 50 speakers to create a space-saving yet powerful stereo setup. Add a MusicCast SUB 100 for a bass boost.</p>
+<h6>Connect with Your Music</h6>
+<p>Play to your MusicCast 50 speaker through Bluetooth, Wi-Fi, AirPlay, Spotify Connect, or connect directly to your TV. The choice is yours.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:282</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Yamaha</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916223553587</id>
+      <title>Black</title>
+      <s:price currency="USD">499.95</s:price>
+      <s:sku>YAM-228341-MULTICAST-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916223553587</id>
+      <title>White</title>
+      <s:price currency="USD">499.95</s:price>
+      <s:sku>YAM-103715-MULTICAST-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916223258675</id>
+    <published>2019-05-28T12:40:50-04:00</published>
+    <updated>2019-05-28T12:40:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/yamaha-eph-m100-high-performance-earphones-with-remote-and-mic"/>
+    <title>Yamaha EPH-M100 High-performance Earphones with Remote and Mic</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>Yamaha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/e37ce629976ec5daf62751f8b2343fa9_511cb500-c111-4b14-9e88-673fb745d62e.jpg?v=1559727496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yamaha<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            99.95 - 149.95
+            <a href="https://warehouse-theme-metal.myshopify.com/products/yamaha-eph-m100-high-performance-earphones-with-remote-and-mic">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Employing large-caliber drivers, these in-ear headphones deliver full-range sound with powerful bass, clear mids and crisp, sparkling highs. A lightweight, ergonomic design provides an ultra-comfortable fit and a tangle-resistant cable offers a built-in remote/mic that puts control at your fingertips.</p>
+<h6>Features:</h6>
+<ul>
+<li>Outstanding clarity, detail and tonal accuracy</li>
+<li>Large-caliber dynamic drivers for clear, full-range sound</li>
+<li>Five ear tip sizes for custom fit with excellent noise-isolation</li>
+<li>Tangle-resistant cable with remote and mic</li>
+<li>Carrying case included</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:267</s:tag>
+    <s:tag>Brand_Yamaha</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916223258675</id>
+      <title>Black</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>YAM-117074-EPH-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916223258675</id>
+      <title>Blue</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>YAM-122104-EPH-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916223258675</id>
+      <title>White</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>YAM-557620-EPH-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916223258675</id>
+      <title>Red</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>YAM-730717-EPH-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916223160371</id>
+    <published>2019-05-28T12:40:41-04:00</published>
+    <updated>2019-05-28T12:40:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/yamaha-a-s3000-natural-sound-integrated-amplifier"/>
+    <title>Yamaha A-S3000 Natural Sound Integrated Amplifier</title>
+    <s:type>Amplifiers</s:type>
+    <s:vendor>Yamaha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/67E0B30443FB4D82BACC24E85032C37D_12073_3022x1467_d7336515811f8b83d420f265d2aa87e2_9debdd33-d911-4087-b2f6-bee11354dcc0.jpg?v=1559061648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yamaha<br>
+        <strong>Type: </strong>Amplifiers<br>
+        <strong>Price: </strong>
+            6999.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A piano comes into this world through the perfect synergy of advanced technical skill and artistry. Such a piano can create sound that truly reflects the player's feelings. The final stage in piano production is called “voicing.” This breathes life into the instrument and truly makes it musical. To accomplish this, highly skilled experts focus their concentration and sensitivity completely on each note and delicately adjust the hardness and resilience of the hammers that strike the strings, establishing the perfect, consistent sound for the entire instrument and determining its tonal personality.</p>
+<p>Yamaha brings this exact same approach and process to its audio products. Our experienced technicians perform exhaustive listening tests and strictly consider every single element and component, to draw closer — step by meticulous step — to the ideal sound. Introducing the S3000 Series, the absolute culmination of hi-fidelity audio. Yamaha knows all about sound and even more about music, and has brought all its rich artistic sensitivity into the creation of this line.</p>
+<p>All the energy and finely nuanced technique of the artist, all the power and subtlety of the original music is fully reproduced, with absolutely nothing left out. The result is a remarkably pure sound—powerfully expressive and exquisitely profound. Beautiful and elegant in appearance, sturdy and reliable in construction, created with the latest, innovative technology and genuine craftsmanship—all nurtured by our long experience in the manufacture of musical instruments. Yamaha proudly offers this new high-end lineup, delivering supreme quality in every way. This is the manifestation of our passion to give music lovers the ultimate in listening enjoyment—a tradition we've been carrying on and advancing for more than 125 years.</p>
+<h6>A-S3000</h6>
+<p>Profoundly accurate sound with the full expressive power of the music. Exceptional sonic purity, elimination of signal loss — in an exquisite, elegant design.The supreme culmination of the Yamaha line — the A-S3000.</p>
+<ul>
+<li>Rigid Streamlined Construction: provides strict anti-vibration protection, and enables shortest cabling routes</li>
+<li>Large toroidal transformer, solidly mounted with independent three-dimensional inner frame</li>
+<li>Comprehensive low impedance design, shortened signal paths and copper-plated chassis</li>
+<li>Six mm thick top panel made of non-magnetic aluminium plate</li>
+<li>Left-right symmetrical design for independent pre amp and power amp blocks</li>
+<li>Floating and Balanced Power Amplifier with MOSFETs</li>
+<li>All-stage balanced transmission</li>
+<li>Direct drawing toroidal transformer for complete elimination of signal transmission loss</li>
+<li>Exceptionally low impedance through secure screw connections</li>
+<li>Superior quality electronic volume control for optimum sound</li>
+<li>Discretely configured phono amp</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:260</s:tag>
+    <s:tag>Amplifiers</s:tag>
+    <s:tag>Brand_Yamaha</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916223160371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6999.95</s:price>
+      <s:sku>YAM-684282-A-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916222898227</id>
+    <published>2019-05-28T12:40:35-04:00</published>
+    <updated>2019-05-28T12:40:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/yamaha-a-s2100-natural-sound-integrated-amplifier"/>
+    <title>Yamaha A-S2100 Natural Sound Integrated Amplifier</title>
+    <s:type>Amplifiers</s:type>
+    <s:vendor>Yamaha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/71ezTEadE7L._SL1500_f1593074-52f1-490c-89cc-d5c281062297.jpg?v=1559061640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yamaha<br>
+        <strong>Type: </strong>Amplifiers<br>
+        <strong>Price: </strong>
+            3499.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h6>Relentless Pursuit of Musicality</h6>
+<p>Audio is not just sound. If there’s music in it, that's an entirely different universe. For audio deserving the name “Hi-Fi” the need for high-definition sound is a given, and even more than that, high expressive power is demanded. Supreme quality sound, and dynamic expressive power are things we at Yamaha, as a premier musical instrument maker, have always pursued. This is the rich musicality of listening enjoyment. High-grade Hi-Fi components. The S2100 Series. An airy, open sound in which the most minute sounds reach the listener. Expressive power that conveys even the subtlest nuances which the artist pours into the music. A realistic sensation that you are directly in front of the performer. These are the goals and overriding philosophy behind the sound and sophisticated technologies inherited from the flagship S3000 Series. Emotional &amp; Dynamic. The sound created by the S2100 Series, reverberating vibrantly in the ears, and reverberating vibrantly in your ears, and resonating in your heart.</p>
+<h6>A-S2100</h6>
+<p>This high-grade integrated amplifier has inherited the natural sound of Yamaha in the pursuit of rich musicality. Advanced original amplifier circuitry and elimination of signal loss has resulted in a truly dynamic, affecting sound.</p>
+<ul>
+<li>Floating and balanced power amplifier with MOSFETs</li>
+<li>All-stage fully discrete construction, balanced transmission and low impedance design</li>
+<li>Superior quality electronic volume control for optimum sound</li>
+<li>Large capacity power supply unit delivers energetic, dynamic sound with fast response</li>
+<li>Symmetrical design in pursuit of ideal stereo reproduction</li>
+<li>Discretely configured phono amp</li>
+<li>Headphone amp with fully discrete configuration</li>
+<li>Level meters visually reflect the dynamics in the music</li>
+<li>Elegant design with luxurious real wood panels</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:53</s:tag>
+    <s:tag>Amplifiers</s:tag>
+    <s:tag>Brand_Yamaha</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916222898227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3499.95</s:price>
+      <s:sku>YAM-416238-A-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916222767155</id>
+    <published>2019-05-28T12:40:25-04:00</published>
+    <updated>2019-05-28T12:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr85x850f-85-inch-4k-ultra-hd-smart-led-tv"/>
+    <title>Sony XBR-85X850F 85-Inch 4K Ultra HD Smart LED TV</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16166_125__1_3c0a96d8-25e7-49a6-aba5-b34307b651a9.jpg?v=1559061634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            3498.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Armed with a stunning array of technologies like the X1 Extreme Processor, X-Tended Dynamic Range PRO, and X-Motion Clarity, the Sony X850F 4K HDR LED displays an awe-inspiring 4K HDR picture with stunning clarity, contrast, and color. It’s more than just a LED - It’s what 4K HDR LEDs aspire to be.</p>
+<h6>Everything you watch is sharper and more refined</h6>
+<p>See how our processor, picture upscaling and color reproduction technologies come together for amazingly realistic 4K HDR entertainment on this large screen TV.</p>
+<h6>One chip, incredibly real</h6>
+<p>With Object-based HDR remaster and Super Bit Mapping 4K HDR technology, our 4K HDR Processor X1™ reproduces enhanced depth, textures and natural colors. You'll see pure colors at higher brightness levels for exceptionally realistic pictures.</p>
+<h6>Rediscover every detail in 4K</h6>
+<p>With 4K X-Reality PRO, images are upscaled closer to true 4K quality for remarkable clarity. The picture is sharpened and refined in real time, revealing extra detail in the books and architecture of the library.</p>
+<h6>Life's brilliance, revealed with extra colors</h6>
+<p>See vivid real-world colors all around you. A TRILUMINOS Display maps colors from a wider palette, faithfully reproducing every shade and hue in the umbrellas.</p>
+<h6>Make smart even smarter</h6>
+<p>With the Google Assistant built in, Sony TV offers the ultimate viewing experience. Quickly access your favorite movies or TV shows, get answers, and control your Sony TV and other connected devices around your home, simply by using your voice.</p>
+<h6>Designed to keep your focus on the picture</h6>
+<p>No distractions, just beautiful pictures. The narrow, exquisitely designed aluminum frame keeps you focused on the screen, while cables stay cleverly hidden at the back and the front.</p>
+<h6>Specifications and features:</h6>
+<p>Enjoy ultra clear pictures with real world colors on this 4K Android TV featuring the 4K HDR Processor X1 and TRILUMINOS™ Display. Fine details are perfectly reproduced for a true-to-life experience.</p>
+<ul>
+<li>Available in 65" class (64.5" diag), 75" class (74.5" diag), 85" class (84.6" diag)</li>
+<li>4K High Dynamic Range</li>
+<li>4K HDR Processor X1™</li>
+<li>4K X-Reality™ PRO</li>
+<li>Android TV™</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:298</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Led Tvs</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916222767155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3498.00</s:price>
+      <s:sku>SON-181588-XBR85X850F-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916222668851</id>
+    <published>2019-05-28T12:40:15-04:00</published>
+    <updated>2019-05-28T12:40:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr77a1e-77-inch-4k-ultra-hd-smart-bravia-oled-tv-works-with-alexa"/>
+    <title>Sony XBR-77A1E 77-Inch 4K Ultra HD Smart BRAVIA OLED TV, Works with Alexa</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16195_014__1_3d60c3b2-ae17-4aa0-9615-ff806ea5218e.jpg?v=1559061623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            7998.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface.</p>
+<h6>Precise contrast, absolute blacks</h6>
+<p>True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.</p>
+<h6>The greatest sound you've never seen</h6>
+<p>Unlike most TV speakers, sound comes to you from the entire screen, immersing you in exciting new entertainment experiences. It's pictures and sound in perfect harmony.</p>
+<h6>360 degrees of sophistication</h6>
+<p>This OLED TV is more than just beautiful. It's designed so that the stand and speakers virtually disappear—appearing as if it's floating—leaving only the brilliance of its picture.</p>
+<h6>Make smart even smarter</h6>
+<p>With the Google Assistant built in, Sony TV offers the ultimate viewing experience. Quickly access your favorite movies or TV shows, get answers, and control your Sony TV and other connected devices around your home, simply by using your voice.</p>
+<h6>General specifications:</h6>
+<p>Discover incredible contrast on an OLED 4K HDR TV with 8 million self-emitting pixels. Pictures are amazingly real with the deepest blacks providing detailed shadow expression and vibrant color. Innovative Acoustic Surface™ technology delivers engaging sound directly from the screen.</p>
+<ul>
+<li>Available in 55" class (54.6" diag), 65" class (64.5" diag), 77" class (76.7" diag)</li>
+<li>4K HDR Processor X1™ Extreme</li>
+<li>OLED</li>
+<li>Acoustic Surface™ technology</li>
+<li>Works with Alexa for voice control (Alexa device sold separately)</li>
+<li>Dimensions (W x H x D): TV without stand: 57.3" x 32.9" x 3.5", TV with stand: 57.3" x 32.9" x 13.4"</li>
+<li>Smart functionality gives you access to your favorite apps and content using Sony’s Android TV. Power Requirements: (voltage):AC 120V for UL cUL AC 110-240V for other</li>
+<li>Pairs 4K Ultra HD picture clarity with the contrast, color, and detail of High Dynamic Range (HDR) for the most lifelike picture</li>
+<li>The OLED panel’s native 120Hz refresh rate is enhanced by Motionflow XR gives you the fast moving action scenes with no motion blur</li>
+<li>Currently supports HDR10 &amp; HLG (with latest software). Can support Dolby vision in future updates</li>
+<li>Inputs: 4 – HDMI, 2 - USB2.0, 1 – USB3.0, 1 – Composite</li>
+</ul>
+<h6>Package contains:</h6>
+<ul>
+<li>Voice Remote Control (RMF-TX201U)</li>
+<li>Batteries (R03)</li>
+<li>AC Power Cord Spec (US, 2pin, flat blades, Polarity)</li>
+<li>IR Blaster (1-849-161-12)</li>
+<li>Operating Instructions</li>
+<li>Quick Setup Guide / Supplement CUE (GA)</li>
+<li>Table Top Stand (Separate, assemble required)</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:97</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Oled Tvs</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916222668851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7998.00</s:price>
+      <s:sku>SON-604011-XBR77A1E-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916222406707</id>
+    <published>2019-05-28T12:40:06-04:00</published>
+    <updated>2019-05-28T12:40:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr75x850f-75-inch-4k-ultra-hd-smart-led-tv"/>
+    <title>Sony XBR-75X850F 75-Inch 4K Ultra HD Smart LED TV</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16165_405__1_bbd1086c-0dbd-404f-9d26-f74d2688c5b5.jpg?v=1559061614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            1998.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Armed with a stunning array of technologies like the X1 Extreme Processor, X-Tended Dynamic Range PRO, and X-Motion Clarity, the Sony X850F 4K HDR LED displays an awe-inspiring 4K HDR picture with stunning clarity, contrast, and color. It’s more than just a LED - It’s what 4K HDR LEDs aspire to be.</p>
+
+<h6>Everything you watch is sharper and more refined</h6>
+<p>See how our processor, picture upscaling and color reproduction technologies come together for amazingly realistic 4K HDR entertainment on this large screen TV.</p>
+
+<h6>One chip, incredibly real</h6>
+<p>With Object-based HDR remaster and Super Bit Mapping 4K HDR technology, our 4K HDR Processor X1™ reproduces enhanced depth, textures and natural colors. You'll see pure colors at higher brightness levels for exceptionally realistic pictures.</p>
+
+<h6>Rediscover every detail in 4K</h6>
+<p>With 4K X-Reality PRO, images are upscaled closer to true 4K quality for remarkable clarity. The picture is sharpened and refined in real time, revealing extra detail in the books and architecture of the library.</p>
+
+<h6>Life's brilliance, revealed with extra colors</h6>
+<p>See vivid real-world colors all around you. A TRILUMINOS Display maps colors from a wider palette, faithfully reproducing every shade and hue in the umbrellas.</p>
+
+<h6>Make smart even smarter</h6>
+<p>With the Google Assistant built in, Sony TV offers the ultimate viewing experience. Quickly access your favorite movies or TV shows, get answers, and control your Sony TV and other connected devices around your home, simply by using your voice.</p>
+
+<h6>Designed to keep your focus on the picture</h6>
+<p>No distractions, just beautiful pictures. The narrow, exquisitely designed aluminum frame keeps you focused on the screen, while cables stay cleverly hidden at the back and the front.</p>
+
+<h6>Specifications and features:</h6>
+<p>Enjoy ultra clear pictures with real world colors on this 4K Android TV featuring the 4K HDR Processor X1 and TRILUMINOS™ Display. Fine details are perfectly reproduced for a true-to-life experience.</p>
+<ul>
+<li>Available in 65" class (64.5" diag), 75" class (74.5" diag), 85" class (84.6" diag)</li>
+<li>4K High Dynamic Range</li>
+<li>4K HDR Processor X1™</li>
+<li>4K X-Reality™ PRO</li>
+<li>Android TV™</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:75</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Led Tvs</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916222406707</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1998.00</s:price>
+      <s:sku>SON-969666-XBR75X850F-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916222341171</id>
+    <published>2019-05-28T12:39:58-04:00</published>
+    <updated>2019-05-28T12:39:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr75x850e-75-inch-4k-ultra-hd-smart-led-tv-works-with-alexa"/>
+    <title>Sony XBR-75X850E 75-Inch 4K Ultra HD Smart LED TV, Works with Alexa</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16184_133__1_81334dd4-7155-4037-aa12-09f08a2f85b3.jpg?v=1559061605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            2498.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Go beyond what you’ve seen before with remarkable 4K HDR clarity, colour and contrast. Scenes are more detailed, more natural and more real with 4K HDR Processor X1, and life’s brilliance is revealed with extra smooth and vibrant colours. And with Android TV, find all the entertainment you want.</p>
+
+<h6>More detailed, more natural, more real</h6>
+<p>Like you're under the wave, waiting for the water to break over you, the 4K HDR Processor X1 reproduces every sparkling pattern and texture for incredible realism.</p>
+
+<h6>Designed to keep your focus on the picture</h6>
+<p>With its narrow, exquisitely designed aluminum frame, this beautiful TV keeps you focused on the screen. Its slim looks are complemented by clever cable management that hides wires within the stand.</p>
+
+<h6>Make smart even smarter</h6>
+<p>With the Google Assistant built in, Sony TV offers the ultimate viewing experience. Quickly access your favorite movies or TV shows, get answers, and control your Sony TV and other connected devices around your home, simply by using your voice.</p>
+
+<h6>Specifications and features:</h6>
+<p>Breathtaking pictures meet beautiful design. The new 4K HDR Processor X1 fills every scene with dynamic resolution, color, and brightness for true-to-life viewing. Enjoy all your entertainment, edged in a stunning aluminum frame.</p>
+<ul>
+<li>Available in 65" class (64.5" diag), 75" class (74.5" diag)</li>
+<li>4K High Dynamic Range</li>
+<li>4K HDR Processor X1™</li>
+<li>TRILUMINOS™ Display</li>
+<li>Android TV™</li>
+<li>Edge-lit LED produces great picture quality with sleek slim design</li>
+<li>Voice-control your TV with Amazon Alexa compatibility</li>
+<li>120Hz native refresh rate plus Motionflow XR gives you fast moving action scenes with virtually no motion blur</li>
+<li>Inputs: 4 – HDMI, 2 - USB2.0, 1 – USB3.0, 1 – Component/Composite Hybrid, 1 – Composite</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:205</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Led Tvs</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916222341171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2498.00</s:price>
+      <s:sku>SON-157506-XBR75X850E-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916222275635</id>
+    <published>2019-05-28T12:39:50-04:00</published>
+    <updated>2019-05-28T12:39:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr70x830f-70-inch-4k-ultra-hd-smart-led-tv"/>
+    <title>Sony XBR-70X830F 70-Inch 4K Ultra HD Smart LED TV</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/91iihyeiy9l._sl1500_87e8c3c8-d55a-4ee1-8cc1-4859d4969820.jpg?v=1559061596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            1998.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful scenery comes to life with the 4K HDR X1 Processor and TRILUMINOS Display in the X830F 4K HDR TV. Lifelike detail is revealed in your favorite entertainment with Dynamic Contrast Enhancement and 4K HDR Super Bit Mapping, displaying contrast and color gradation in stunning accuracy. It doesn’t just display content, it evokes emotion.</p>
+
+<h6>Every scene full of color, detail and texture</h6>
+<p>Discover how our processor, picture enhancement and color reproduction technologies combine to deliver lifelike 4K HDR pictures on this large screen TV.</p>
+
+<h6>One chip, incredibly real</h6>
+<p>With Object-based HDR remaster and Super Bit Mapping 4K HDR technology, our 4K HDR Processor X1™ reproduces enhanced depth, textures and natural colors. You'll see pure colors at higher brightness levels for exceptionally realistic pictures.</p>
+
+<h6>Rediscover every detail in 4K</h6>
+<p>With 4K X-Reality PRO, every image is upscaled closer to true 4K quality for remarkable clarity. Images are sharpened and refined in real time, revealing extra detail in the books and architecture of the library.</p>
+
+<h6>Life's brilliance, revealed with extra colors</h6>
+<p>See vivid real-world colors all around you. A TRILUMINOS Display maps colors from a wider palette, faithfully reproducing every shade and hue in the umbrellas.</p>
+
+<h6>Make smart even smarter</h6>
+<p>With the Google Assistant built in, Sony TV offers the ultimate viewing experience. Quickly access your favorite movies or TV shows, get answers, and control your Sony TV and other connected devices around your home, simply by using your voice.</p>
+
+<h6>Designed to keep your focus on the picture</h6>
+<p>Maximize your space, minimize your cables. This slimline 4K HDR TV is edged in a narrow aluminum effect frame for beautiful looks, allowing it to blend into your living space easily. Clever cable management keeps wires secured and hidden at the front.</p>
+
+
+
+<h6>Specifications and features:</h6>
+<p>Discover how Sony's 4K HDR Android TV delivers lifelike pictures. Enjoy purer colors with sharpened and refined images thanks to 4K X- Reality PRO technology.</p>
+<ul>
+<li>4K High Dynamic Range</li>
+<li>4K HDR Processor X1™</li>
+<li>TRILUMINOS™ Display</li>
+<li>Android TV™</li>
+<li>Dimensions (W x H x D): TV without stand: 61 3/4 x 35 3/4 x 3 1/8(7/16) inch, TV with stand: 61 3/4 x 38 3/8 x 12 1/2 inch</li>
+<li>Take non-HDR content to the next level with the X1 processor and 4K X-Reality PRO</li>
+<li>Voice-control your TV with Amazon Alexa compatibility. Android TV with Google Assistant technology gives you a genius TV.Wi-Fi Certified 802.11a/b/g/n/ac</li>
+<li>120Hz native refresh rate plus Motionflow XR technology gives you fast moving action scenes with virtually no motion blur</li>
+<li>Inputs: 4 – HDMI, 2 - USB2.0, 1 – USB3.0, 1 – Composite</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>Voice Remote Control (RMF-TX310U)</li>
+<li>Batteries (LR03)</li>
+<li>AC Power Cord Spec (US, 2pin, flat blades, Polarity)</li>
+<li>IR Blaster (1-849-161-12)</li>
+<li>Operating Instructions</li>
+<li>Quick Setup Guide / Supplement CUE (GA)</li>
+<li>Table Top Stand (Separate, assembly required)</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:113</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Led Tvs</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916222275635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1998.00</s:price>
+      <s:sku>SON-680577-XBR70X830F-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916222210099</id>
+    <published>2019-05-28T12:39:43-04:00</published>
+    <updated>2019-05-28T12:39:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr65x850f-65-inch-4k-ultra-hd-smart-led-tv"/>
+    <title>Sony XBR-65X850F 65-Inch 4K Ultra HD Smart LED TV</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16164_783__1_061510e5-0ceb-4072-83da-84fa5c21486b.jpg?v=1559061589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            1298.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Armed with a stunning array of technologies like the X1 Extreme Processor, X-Tended Dynamic Range PRO, and X-Motion Clarity, the Sony X850F 4K HDR LED displays an awe-inspiring 4K HDR picture with stunning clarity, contrast, and color. It’s more than just a LED - It’s what 4K HDR LEDs aspire to be.</p>
+
+<h6>Everything you watch is sharper and more refined</h6>
+<p>See how our processor, picture upscaling and color reproduction technologies come together for amazingly realistic 4K HDR entertainment on this large screen TV.</p>
+
+<h6>One chip, incredibly real</h6>
+<p>With Object-based HDR remaster and Super Bit Mapping 4K HDR technology, our 4K HDR Processor X1™ reproduces enhanced depth, textures and natural colors. You'll see pure colors at higher brightness levels for exceptionally realistic pictures.</p>
+
+<h6>Rediscover every detail in 4K</h6>
+<p>With 4K X-Reality PRO, images are upscaled closer to true 4K quality for remarkable clarity. The picture is sharpened and refined in real time, revealing extra detail in the books and architecture of the library.</p>
+
+<h6>Life's brilliance, revealed with extra colors</h6>
+<p>See vivid real-world colors all around you. A TRILUMINOS Display maps colors from a wider palette, faithfully reproducing every shade and hue in the umbrellas.</p>
+
+<h6>Make smart even smarter</h6>
+<p>With the Google Assistant built in, Sony TV offers the ultimate viewing experience. Quickly access your favorite movies or TV shows, get answers, and control your Sony TV and other connected devices around your home, simply by using your voice.</p>
+
+<h6>Designed to keep your focus on the picture</h6>
+<p>No distractions, just beautiful pictures. The narrow, exquisitely designed aluminum frame keeps you focused on the screen, while cables stay cleverly hidden at the back and the front.</p>
+
+<h6>Specifications and features:</h6>
+<p>Enjoy ultra clear pictures with real world colors on this 4K Android TV featuring the 4K HDR Processor X1 and TRILUMINOS™ Display. Fine details are perfectly reproduced for a true-to-life experience.</p>
+<ul>
+<li>Available in 65" class (64.5" diag), 75" class (74.5" diag), 85" class (84.6" diag)</li>
+<li>4K High Dynamic Range</li>
+<li>4K HDR Processor X1™</li>
+<li>4K X-Reality™ PRO</li>
+<li>Android TV™</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:108</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Led Tvs</s:tag>
+    <s:tag>Price_$800 to $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916222210099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1298.00</s:price>
+      <s:sku>SON-400179-XBR65X850F-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916222144563</id>
+    <published>2019-05-28T12:39:33-04:00</published>
+    <updated>2019-05-28T12:39:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr65a8f-65-inch-4k-ultra-hd-smart-bravia-oled-tv"/>
+    <title>Sony XBR-65A8F 65-Inch 4K Ultra HD Smart BRAVIA OLED TV</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16037_175__1_28b2d8bc-8276-4a81-a733-d262d815a048.jpg?v=1559061582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            3498.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Power and finesse. Sony’s A8F BRAVIA OLED TV combines processing power with beautiful OLED picture and a sleek design to bring in a new standard of home entertainment. The X1 Extreme processor up converts your content to near-4K HDR quality, bringing stunning contrast and absolute blacks to your favorite shows and movies.</p>
+
+<h6>Step closer to reality</h6>
+<p>See how our latest OLED screen, processor and sound technologies come together for breathtaking 4K HDR TV entertainment.</p>
+
+<h6>Experience unbelievable contrast</h6>
+<p>True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1™ Extreme processor. Sony's 4K OLED TV creates exquisite, unprecedented contrast.</p>
+
+<h6>More power, more performance, more beauty</h6>
+<p>Our 4K HDR Processor X1™ Extreme includes powerful real-time image processing for ultra detailed pictures. Images are upscaled closer to true 4K HDR quality.</p>
+
+<h6>The greatest sound you've never seen</h6>
+<p>Unlike most TV speakers, sound comes to you from the entire screen, immersing you in exciting new entertainment experiences. It's pictures and sound in perfect harmony.</p>
+
+<h6>Life’s brilliance, revealed with extra colors</h6>
+<p>See vivid real-world colors all around you. A TRILUMINOS Display maps colors from a wider palette, faithfully reproducing every shade and hue in the umbrellas.</p>
+
+<h6>Discreetly designed for the screen</h6>
+<p>This 4K HDR OLED TV has a clean, minimalist design that keeps you focused on what’s important — the picture.</p>
+
+<h6>Make smart even smarter</h6>
+<p>With the Google Assistant built in, Sony TV offers the ultimate viewing experience. Quickly access your favorite movies or TV shows, get answers, and control your Sony TV and other connected devices around your home, simply by using your voice.</p>
+
+
+<h6>Specifications and features:</h6>
+<p>Experience this 4K HDR OLED TV, featuring Dolby Vision, Acoustic Surface and high contrast ratio with pure black.</p>
+<ul>
+<li>Available in 55" class (54.6" diag), 65" class (64.5" diag)</li>
+<li>4K High Dynamic Range</li>
+<li>4K HDR Processor X1™ Extreme</li>
+<li>OLED</li>
+<li>Acoustic Surface™ technology</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:281</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Oled Tvs</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916222144563</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3498.00</s:price>
+      <s:sku>SON-411606-XBR65A8F-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916222046259</id>
+    <published>2019-05-28T12:39:25-04:00</published>
+    <updated>2019-05-28T12:39:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr65a1e-65-inch-4k-ultra-hd-smart-bravia-oled-tv-works-with-alexa"/>
+    <title>Sony XBR-65A1E 65-Inch 4K Ultra HD Smart BRAVIA OLED TV, Works with Alexa</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16194_250__1_cee96397-0276-4480-9361-6640fdb80b54.jpg?v=1559061572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            3198.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True reality comes to life with perfect black and color. Sony's OLED TV creates exquisite, unprecedented contrast with over 8 million precisely and individually controlled self-illuminating pixels. Immerse yourself completely in the entertainment with sound that comes from the entire screen, with the world’s first Acoustic Surface.</p>
+
+<h6>Precise contrast, absolute blacks</h6>
+<p>True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1 Extreme™ processor. Sony's OLED TV creates exquisite, unprecedented contrast.</p>
+
+<h6>The greatest sound you've never seen</h6>
+<p>Unlike most TV speakers, sound comes to you from the entire screen, immersing you in exciting new entertainment experiences. It's pictures and sound in perfect harmony.</p>
+
+<h6>360 degrees of sophistication</h6>
+<p>This OLED TV is more than just beautiful. It's designed so that the stand and speakers virtually disappear—appearing as if it's floating—leaving only the brilliance of its picture.</p>
+
+<h6>Make smart even smarter</h6>
+<p>With the Google Assistant built in, Sony TV offers the ultimate viewing experience. Quickly access your favorite movies or TV shows, get answers, and control your Sony TV and other connected devices around your home, simply by using your voice.</p>
+
+<h6>General specifications:</h6>
+<p>Discover incredible contrast on an OLED 4K HDR TV with 8 million self-emitting pixels. Pictures are amazingly real with the deepest blacks providing detailed shadow expression and vibrant color. Innovative Acoustic Surface™ technology delivers engaging sound directly from the screen.</p>
+<ul>
+<li>Available in 55" class (54.6" diag), 65" class (64.5" diag), 77" class (76.7" diag)</li>
+<li>4K HDR Processor X1™ Extreme</li>
+<li>OLED</li>
+<li>Acoustic Surface™ technology</li>
+<li>Works with Alexa for voice control (Alexa device sold separately)</li>
+<li>Dimensions (W x H x D): TV without stand: 57.3" x 32.9" x 3.5", TV with stand: 57.3" x 32.9" x 13.4"</li>
+<li>Smart functionality gives you access to your favorite apps and content using Sony’s Android TV. Power Requirements: (voltage):AC 120V for UL cUL AC 110-240V for other</li>
+<li>Pairs 4K Ultra HD picture clarity with the contrast, color, and detail of High Dynamic Range (HDR) for the most lifelike picture</li>
+<li>The OLED panel’s native 120Hz refresh rate is enhanced by Motionflow XR gives you the fast moving action scenes with no motion blur</li>
+<li>Currently supports HDR10 &amp; HLG (with latest software). Can support Dolby vision in future updates</li>
+<li>Inputs: 4 – HDMI, 2 - USB2.0, 1 – USB3.0, 1 – Composite</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>Voice Remote Control (RMF-TX201U)</li>
+<li>Batteries (R03)</li>
+<li>AC Power Cord Spec (US, 2pin, flat blades, Polarity)</li>
+<li>IR Blaster (1-849-161-12)</li>
+<li>Operating Instructions</li>
+<li>Quick Setup Guide / Supplement CUE (GA)</li>
+<li>Table Top Stand (Separate, assemble required)</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:200</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Oled Tvs</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916222046259</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3198.00</s:price>
+      <s:sku>SON-765008-XBR65A1E-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916221947955</id>
+    <published>2019-05-28T12:39:16-04:00</published>
+    <updated>2019-05-28T12:39:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr55x930e-55-inch-4k-ultra-hd-smart-led-tv-works-with-alexa"/>
+    <title>Sony XBR-55X930E 55-Inch 4K Ultra HD Smart LED TV, Works with Alexa</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16832_740__1_0fa8c8f5-e3e8-4128-abd7-4c0290d884c7.jpg?v=1559061564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            1498.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy 4K HDR entertainment on our X930E with Android TV. With the new Slim Backlight Drive, this television offers extraordinary brightness in an ultra-thin design and with the incredible performance of the 4K HDR Processor X1 Extreme, everything you watch is improved to near 4K HDR quality.</p>
+
+<h6>Uncover The Detail With 4K HDR</h6>
+<p>High Dynamic Range (HDR) will change the way you look at TV. Combined with 4K Ultra HD resolution, HDR video content delivers exceptional detail, color and contrast, with a far wider range of brightness than other video formats. The result is the most lifelike picture TVs have ever been able to create, with brilliant highlights and fine detail.</p>
+
+<h6>Everything Should Look Like 4K HDR</h6>
+<p>Our newly developed 4K HDR Processor X1 Extreme outperforms our conventional 4K Processor X1 with 40% more real-time image processing power. It takes everything you watch and improves it to near 4K HDR quality. Object-based HDR Remaster technology can detect, analyze and optimize each object in the picture individually to adjust the overall contrast for a more natural and realistic picture on screen.</p>
+
+<h6>Extraordinary Brightness, Ultra Slim Design</h6>
+<p>Feel the sunlight burst through the trees. Our Slim Backlight Drive+ directs light where it’s needed, filling scenes with extra brightness and deep contrast, all in an ultra-slim TV.</p>
+
+<h6>Ten Times The Contrast</h6>
+<p>By precisely balancing the light output across the screen, dimming some areas and boosting others, X-tended Dynamic Range PRO 10x reveals a brightness range ten times that of a conventional LED-backlit TV. When combined with an HDR signal you’ll experience even greater brilliance in every scene as it increases the quality of HDR with finely-gradated bands of color and more vibrant hues.</p>
+
+<h6>Vibrant Colors, Smooth Gradations</h6>
+<p>Colors are as rich and vivid as nature’s own thanks to the Triluminos Display with more shades of red, green and blue than ever before. You’ll enjoy vibrant, authentic images that evoke the emotion in every scene. And, 4K HDR Super Bit Mapping reveals thousands of shades and gradations of light, for sunsets as bright and clear as real life.</p>
+
+<h6>Upscale to a more natural picture</h6>
+<p>The difference is clear. You’ll see lifelike detail and stunning clarity, no matter what you're watching. Two powerful image improvement databases work together, dynamically improving images in real time. 4K X-Reality PRO upscales images to near 4K clarity while a second database cleans the picture and reduce on-screen noise. Every single pixel is enhanced beautifully by the powerful 4K HDR Processor X1 Extreme.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Works with Alexa for voice control (Alexa device sold separately)</li>
+<li>Dimensions (W x H x D): TV without stand: 48.6" x 28.3" x 1.6", TV with stand: 48.6" x 31.1" x 11.1"</li>
+<li>Smart functionality gives you access to your favorite apps and content using Sony’s Android TV</li>
+<li>Pairs 4K Ultra HD picture clarity with the contrast, color, and detail of High Dynamic Range (HDR) for the most lifelike picture</li>
+<li>Slim Backlight Drive + (Grid Array Edge lit) directs light where it’s needed, filling scenes with extra brightness and deep contrast, all in an ultra-slim TV</li>
+<li>120Hz native refresh rate plus Motionflow XR gives you fast moving action scenes with virtually no motion blur</li>
+<li>Inputs: 4 – HDMI, 2 - USB2.0, 1 – USB3.0, 1 – Component/Composite Hybrid, 1 – Composite</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>Voice Remote Control (RMF-TX200U)</li>
+<li>Batteries (R03)</li>
+<li>AC Power Cord Spec (Pig-tail US 2Pin (flat blades))</li>
+<li>IR Blaster (1-849-161-12)</li>
+<li>Operating Instructions</li>
+<li>Quick Setup Guide / Supplement CUE (GA)</li>
+<li>Table Top Stand (Separate, assembly required)</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:275</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Led Tvs</s:tag>
+    <s:tag>Price_$800 to $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916221947955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1498.00</s:price>
+      <s:sku>SON-935335-XBR55X930E-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916221784115</id>
+    <published>2019-05-28T12:38:56-04:00</published>
+    <updated>2019-05-28T12:38:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr55a8f-55-inch-4k-ultra-hd-smart-bravia-oled-tv"/>
+    <title>Sony XBR-55A8F 55-Inch 4K Ultra HD Smart BRAVIA OLED TV</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16159_548__1_773731f5-656f-45f5-821f-46259c321c8e.jpg?v=1559061553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            2298.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Power and finesse. Sony’s A8F BRAVIA OLED TV combines processing power with beautiful OLED picture and a sleek design to bring in a new standard of home entertainment. The X1 Extreme processor up converts your content to near-4K HDR quality, bringing stunning contrast and absolute blacks to your favorite shows and movies.</p>
+
+<h6>Step closer to reality</h6>
+<p>See how our latest OLED screen, processor and sound technologies come together for breathtaking 4K HDR TV entertainment.</p>
+
+<h6>Experience unbelievable contrast</h6>
+<p>True reality comes to life with deep black and natural color. Over 8 million self-illuminating pixels are precisely and individually controlled by the X1™ Extreme processor. Sony's 4K OLED TV creates exquisite, unprecedented contrast.</p>
+
+<h6>More power, more performance, more beauty</h6>
+<p>Our 4K HDR Processor X1™ Extreme includes powerful real-time image processing for ultra detailed pictures. Images are upscaled closer to true 4K HDR quality.</p>
+
+<h6>The greatest sound you've never seen</h6>
+<p>Unlike most TV speakers, sound comes to you from the entire screen, immersing you in exciting new entertainment experiences. It's pictures and sound in perfect harmony.</p>
+
+<h6>Life’s brilliance, revealed with extra colors</h6>
+<p>See vivid real-world colors all around you. A TRILUMINOS Display maps colors from a wider palette, faithfully reproducing every shade and hue in the umbrellas.</p>
+
+<h6>Discreetly designed for the screen</h6>
+<p>This 4K HDR OLED TV has a clean, minimalist design that keeps you focused on what’s important — the picture.</p>
+
+<h6>Make smart even smarter</h6>
+<p>With the Google Assistant built in, Sony TV offers the ultimate viewing experience. Quickly access your favorite movies or TV shows, get answers, and control your Sony TV and other connected devices around your home, simply by using your voice.</p>
+
+
+<h6>Specifications and features:</h6>
+<p>Experience this 4K HDR OLED TV, featuring Dolby Vision, Acoustic Surface and high contrast ratio with pure black.</p>
+<ul>
+<li>Available in 55" class (54.6" diag), 65" class (64.5" diag)</li>
+<li>4K High Dynamic Range</li>
+<li>4K HDR Processor X1™ Extreme</li>
+<li>OLED</li>
+<li>Acoustic Surface™ technology</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:192</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Oled Tvs</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916221784115</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2298.00</s:price>
+      <s:sku>SON-271798-XBR55A8F-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916221587507</id>
+    <published>2019-05-28T12:38:49-04:00</published>
+    <updated>2019-05-28T12:38:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr-75z9d-75-4k-hdr-ultra-hd-led-tv"/>
+    <title>Sony XBR-75Z9D 75-Inch 4K HDR Ultra HD LED TV</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/xbr-75z9d_front_wall_screenfill.jpg?v=1559061535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            8998.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If TVs are measured on picture quality, then the Sony Z-series stands alone. Near perfect black levels combine with the ability to reproduce the brightness and color of the real world, while your favorites get up scaled to near-4K HDR brilliance. It’s a viewing experience that can’t be replicated.</p>
+
+<h6>Unrivaled picture quality</h6>
+<p>The all-new Backlight Master Drive can display an unprecedented dynamic range with near perfect black levels and dazzling brightness. How?</p>
+<ul>
+<li>Discrete LED Control: Backlight Master Drive uses a new, innovative algorithm to control the TV’s ultra-dense LED structure. Each LED is controlled individually for a picture even more precise than that of a standard full-array TV, which groups LEDs into larger zones.</li>
+<li>Calibrated Beam Design: Send light only where it is needed. Each LED emits a straight beam for greater brightness and more accurate contrast than ever before.</li>
+</ul>
+
+<h6>Upscaling to near 4K HDR</h6>
+<p>Our newly developed 4K HDR Processor X1 Extreme outperforms our conventional 4K Processor X1 with 40% more real-time image processing power. It takes everything you watch and improves it to near 4K HDR quality. Object-based HDR Remaster technology can detect, analyze and optimize each object in the picture individually to adjust the overall contrast for a more natural and realistic picture on screen.</p>
+
+<h6>Backlight brilliance</h6>
+<p>Experience greater brilliance in every scene. X-tended Dynamic Range PRO utilizes the discrete LED control of Backlight Master Drive to create images with brighter peaks and more shadow detail. When combined with HDR video, X-tended Dynamic Range PRO increases the quality of HDR so you experience even greater color and contrast.</p>
+
+<h6>Uncover the detail with 4K HDR</h6>
+<p>High Dynamic Range (HDR) will change the way you look at TV. Combined with 4K Ultra HD resolution, HDR video content delivers exceptional detail, color and contrast, with a far wider range of brightness. The result is the most lifelike picture TVs have ever been able to create, with brilliant highlights and fine detail.</p>
+
+<h6>Clear picture, smooth gradations</h6>
+<p>Sunsets are as bright and clear as real life. Super bit mapping 4K HDR, a feature of the 4K HDR Processor X1 Extreme, reveals thousands of shades and gradations of light. It creates a smooth, natural picture as you watch, without the 'banding'. 14-bit signal processing recognizes subtle color transitions and effectively smooths out the gradation between shades, to show 64 times the color levels of a conventional display.</p>
+
+<h6>More color, depth and realism</h6>
+<p>Colors are as rich and vivid as nature’s own thanks to the TRILUMINOS Display with more shades of red, green and blue than ever before. You’ll enjoy vibrant, authentic images that evoke the emotion in every scene. When combined with HDR video, TRILUMINOS Display further increases the color depth for noticeably brighter and more realistic colors.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+
+
+
+This 4K HDR TV will take your breath away with contrast, colors, textures, and detail never before possible on screen.
+Available in 65" class (64.5" diag), 75" class (74.5" diag), 100" class (99.5" diag)
+4K High Dynamic Range Learn More
+4K HDR Processor X1™ Extreme Learn More
+Backlight Master Drive™ Learn More
+Android TV Learn More
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:195</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Led Tvs</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916221587507</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8998.00</s:price>
+      <s:sku>SON-669527-XBR-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916221128755</id>
+    <published>2019-05-28T12:38:34-04:00</published>
+    <updated>2019-05-28T12:38:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr-65x950g-65-class-64-5-diag-bravia-4k-hdr-ultra-hd-tv"/>
+    <title>Sony XBR-950G BRAVIA 4K HDR Ultra HD TV</title>
+    <s:type>TVs</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/sonyxbr55front_f72cc8ff-fcd6-4141-b9cc-e1320f867785.jpg?v=1559061527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>TVs<br>
+        <strong>Price: </strong>
+            1398.00 - 2198.00
+            <a href="https://warehouse-theme-metal.myshopify.com/products/sony-xbr-65x950g-65-class-64-5-diag-bravia-4k-hdr-ultra-hd-tv">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unlock the world of ultimate colors and contrast with the X950G 4K HDR TV from Sony. Incredibly clear 4K HDR picture quality is powered by the Picture Processor X1 Ultimate, and content has never been brighter than with Full Array Local Dimming &amp; Boosting. X-Motion Clarity technology makes action scenes look like real life.</p>
+<h6>Make it real with lifelike pictures and sound</h6>
+<p>See how beautifully detailed 4K pictures with vibrant shades of color come together with our latest Sound-from-Picture Reality™ for enthralling 4K.</p>
+<h6>Pictures and sound in perfect harmony</h6>
+<p>Be in the moment with true-to-life pictures and acoustics to match. Beautifully detailed images combine with our Sound-from-Picture Reality™ for a captivating audio-visual performance.</p>
+<h6>Ultimate realism</h6>
+<p>With unmatched processing power, the Picture Processor X1™ Ultimate detects hundreds of different objects on-screen and intelligently enhances brightness, detail and color so everything you watch is clear, bright and incredibly realistic.</p>
+<h6>Sound-from-Picture Reality™</h6>
+<p>Our Acoustic Multi-Audio™ system adds two sound-positioning tweeters in the rear of the TV to the bass reflex speakers for Sound-from-Picture Reality™. With action and sound precisely aligned, your viewing becomes so much more immersive.</p>
+<h6>Big screen, dynamic experience</h6>
+<p>This Sony 4K HDR TV is designed for spectacular big screen viewing. Immersive pictures put you right at the heart of the action.</p>
+<h6>Embrace the thrills of the theater</h6>
+<p>See all your favorite movies in a completely new way with more drama and realism on a 4K Ultra HD TV that's designed to deliver an authentic theater experience at home.</p>
+<h6>Life’s brilliance, revealed with extra colors</h6>
+<p>See vivid, real-world colors all around you. A TRILUMINOS™ Display maps colors from a wider palette, faithfully reproducing every shade and hue in the umbrellas.</p>
+<h6>General specifications:</h6>
+<p>Discover a world rich in detail and color on this 4K HDR TV with Picture Processor X1™ Ultimate. Pictures are perfectly matched by our latest Acoustic Multi-Audio™.</p>
+<ul>
+<li>Available in 55" class (54.6" diag), 65" class (64.5" diag), 75" class (74.5" diag), 85" class (84.6" diag)</li>
+<li>4K High Dynamic Range</li>
+<li>Picture Processor X1™ Ultimate</li>
+<li>Acoustic Multi-Audio™</li>
+<li>Android TV™</li>
+<li>Dimensions: TV with stand - 48 3/8 x 30 5/8 x 10 7/8 inch; without stand - 48 3/8 x 28 x 2 3/4 inch</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:171</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Led Tvs</s:tag>
+    <s:tag>Price_$800 to $1500</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916221128755</id>
+      <title>55&quot;</title>
+      <s:price currency="USD">1398.00</s:price>
+      <s:sku>SON-695219-XBR-55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916221128755</id>
+      <title>65&quot;</title>
+      <s:price currency="USD">2198.00</s:price>
+      <s:sku>SON-985594-XBR-65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916220735539</id>
+    <published>2019-05-28T12:37:59-04:00</published>
+    <updated>2019-05-28T12:37:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-xb950-extra-bass-wireless-headphones-with-app-control"/>
+    <title>Sony XB-950B1 Extra Bass Wireless Headphones with App Control</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/13261_147__1_2e3211f9-de49-4919-9e67-006800a5c5a0.jpg?v=1559727794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            128.00 - 178.00
+            <a href="https://warehouse-theme-metal.myshopify.com/products/sony-xb950-extra-bass-wireless-headphones-with-app-control">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feel the freedom and love the bass with these Bluetooth headphones with EXTRA BASS that deliver powerful, clear sound and up to 18 hours of battery life. Find the perfect sound for each song with the Sony Headphones Connect app, while you enjoy broad frequency response for the ultimate listening experience. Even take hands-free calls with the built-in mic. Freedom has never sounded better.</p>
+<h6>Bass that moves you</h6>
+<p>Feel more than just the beat. EXTRA BASS™ enhances all your low-end frequencies for deep power on every track. Just touch the Bass Effect button to get started.</p>
+<h6>Long-lasting wireless freedom</h6>
+<p>Listen wirelessly over Bluetooth® technology with NFC™ one-touch pairing for up to 18 hours, even with EXTRA BASS™ turned on.</p>
+<h6>Fine-tuned by you</h6>
+<p>Set the perfect sound for every song. Sony | Headphones Connect app lets you adjust your bass levels and gives you presets for outdoor stage, club, hall, or arena-style sound.</p>
+<h6>Specifications and features:</h6>
+<ul>
+<li>Explore your favorite tracks in new depth with EXTRA BASS™ and listen wirelessly over Bluetooth® wireless technology for up to 18 hours</li>
+<li>EXTRA BASS™ for deep, punchy sound</li>
+<li>High-quality audio with Bluetooth® wireless technology</li>
+<li>Optimize your sound settings with Sony | Headphones Connect app</li>
+<li>18 hours of battery life</li>
+<li>USB rechargeable, cable included</li>
+<li>Driver Unit: 1.57", Dome</li>
+<li>
+</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:237</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916220735539</id>
+      <title>Blue</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>SON-544136-XB950-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916220735539</id>
+      <title>Red</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku>SON-791030-XB950-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916220735539</id>
+      <title>Black</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku>SON-781000-XB950-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916220637235</id>
+    <published>2019-05-28T12:37:49-04:00</published>
+    <updated>2019-05-28T12:37:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-wh1000xm3-wireless-industry-leading-noise-canceling-over-ear-headphones"/>
+    <title>Sony WH1000XM3 Wireless Industry Leading Noise Canceling Over-Ear Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16850_260__2_333029c0-868f-451c-9a9a-290b2e4dcd76.jpg?v=1559727709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sony industry-leading noise cancellation evolves to further immerse you in your music. The addition of Sony proprietary HD noise canceling processor Qn1 masterfully eliminates the noise around you. Listen all day with up to 30 hours of battery life. Quick charging gives five hours of playback with just a 10-minute charge.</p>
+
+<p>WH-1000XM3 headphones take you even deeper into silence with further improvements to our industry-leading noise cancellation, and smart listening that adjusts to your situation.</p>
+
+<h6>Experience the next level of silence</h6>
+<p>See what happens when it's just you and your music, with noise canceling that cuts more outside sound than ever before. And experience how smart headphones can be with advanced noise-canceling technology such as Adaptive Sound Control, and the convenience of smart features including Quick Attention, Voice Assistant compatibility and touch control.</p>
+
+<h6>More power = even less noise</h6>
+<p>With our new HD Noise-Canceling Processor QN1, noise-canceling power is greatly enhanced. Having a dedicated NC processor also ensures the reproduction of your music is never compromised due to processor performance.</p>
+
+<h6>Smart listening by SENSE ENGINE – automatically adjusts to your situation</h6>
+<p>See how Adaptive Sound Control automatically detects your activity such as traveling, walking, and waiting, then adjusts ambient sound settings to you. And with Quick Attention, you can communicate without removing your headphones — simply place your hand over the housing to turn the volume down for instant conversation.</p>
+
+<h6>Automatically adjusts to whatever you do</h6>
+<ul>
+<li>Traveling: take trips without interruption and lose yourself in music with no background noise</li>
+<li>Walking: be aware of everything around you, from street to office, while still enjoying music</li>
+<li>Waiting: hear important announcements while you wait with reduced background noise</li>
+</ul>
+
+<h6>Wear all day in total comfort</h6>
+<p>Super soft, pressure-relieving earpads in foamed urethane evenly distribute pressure and increase ear pad contact for a stable fit. Comfort is further enhanced by a larger and deeper ergonomic ear space structure. And with a lighter weight design, your music is the only thing you’ll notice all day.</p>
+
+<h6>Smarter than your average headphones</h6>
+<p>Everything is at your fingertips. Answer hands-free phone calls with a double tap - or change tracks, adjust the volume and make calls by touching or swiping the panel. And help from your phone’s voice assistant is just one long press away.</p>
+
+<h6>All day power and quick charging</h6>
+<p>With a huge 30 hours of battery life, you'll have enough power even for long trips away. And if you need to charge in a hurry, you can get five hours' worth of charge after just ten minutes with the optional AC adapter.</p>
+
+<h6>Specifications and features:</h6>
+<p>WH-1000XM3 headphones take you even deeper into silence with further improvements to our industry-leading noise cancellation1, and smart listening that adjusts to your situation.</p>
+<ul>
+<li>HD Noise-Canceling Processor QN1 lets you listen without distractions</li>
+<li>Unique automatic personal NC, and Atmospheric Pressure optimization</li>
+<li>Wireless freedom with Bluetooth® technology and NFC</li>
+<li>Smart Listening by Adaptive Sound Control automatically adjusts ambient sound to your activity</li>
+<li>High-quality audio with DSEE HX™ and LDAC</li>
+<li>Driver Unit: 1.57 ", dome type (CCAW Voice coil)</li>
+<li>DSEE HX: Yes</li>
+<li>Input(s): Stereo Mini Jack</li>
+<li>Frequency Response: 4 Hz-40,000 Hz</li>
+<li>Passive Operation: Yes</li>
+<li>NFC: Yes</li>
+<li>Cord Lenght: headphone cable (approx. 3.94 ft, OFC strands, gold-plated stereo mini plug)</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:209</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Champagne</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916220637235</id>
+      <title>Black</title>
+      <s:price currency="USD">348.00</s:price>
+      <s:sku>SON-886186-WH1-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916220637235</id>
+      <title>Silver</title>
+      <s:price currency="USD">348.00</s:price>
+      <s:sku>SON-959960-WH1-SI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916220473395</id>
+    <published>2019-05-28T12:37:39-04:00</published>
+    <updated>2019-05-28T12:37:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-vw295es-4k-hdr-home-theater-projector"/>
+    <title>Sony VW295ES 4K HDR Home Theater Projector</title>
+    <s:type>Projectors</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vpl-vw295es_1.jpg?v=1559061467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Projectors<br>
+        <strong>Price: </strong>
+            4998.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Big scenes are even bigger with the VW295ES 4K HDR Home Theater Projector. Screen sizes up to 200” bring lifelike 4K HDR resolution to any room. 1,500 lumens of brightness light up the action with Motion flow and Advanced Reality Creation technologies creating a crisp, sharp picture in every scene.</p>
+
+<h6>Native 4K resolution for lifelike pictures</h6>
+<p>With more than four times the resolution of Full HD, native 4K offers 8.8 million pixels (4096 x 2160) for a picture that is incredibly lifelike, which is why it is the resolution defined by the DCI (Digital Cinema Initiative) for theater distribution. See corner-to-corner clarity and watch movies from much closer than you would in Full HD.</p>
+
+<h6>Motorized zoom lens and wide lens shift</h6>
+<p>Installing this projector in your room is easy with a 2.06x motorized zoom with a wide lens shift range. Adjust the position of the projector up to 85% vertically and 31% horizontally to get just the right angle for your movies. </p>
+
+<h6>1500 lumens for high brightness</h6>
+<p>Savor the action with up to 1,500 lumens of brightness, generated by a 225-W lamp, for vibrant images even on screens up to 300"/762 cm (diag.).</p>
+
+<h6>Super-resolution Reality Creation for 4K Contents</h6>
+<p>Sony's exclusive Reality Creation technology analyzes images right down to the pixel level. It then employs pattern-matching algorithms developed over years of movie production to enhance details even without increasing digital picture noise. It also upscales existing Full HD Blu-ray Disc™ and DVD movies to near 4K quality.</p>
+
+<h6>Native 4K SXRD panel</h6>
+<p>The advanced Silicon X-tal Reflective Display (SXRD) panel technology featured in our digital theater projectors delivers native 4K (4096 x 2160) resolution images, with more than four times the detail of Full HD. Fine details are wonderfully clear and natural, without jagged edges or visible pixels.</p>
+
+<h6>General specifications:</h6>
+<p>Bring lifelike pictures to your entertainment with the HDR compatible VPL-VW295ES Home Theater Projector, with native 4K image display, 1,500 lumens brightness and Reality Creation for enhanced detail.</p>
+<ul>
+<li>Native 4K image display</li>
+<li>1500 lm brightness</li>
+<li>Reality Creation for enhanced detail</li>
+<li>HDR Compatible (HDR10/HLG)</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:297</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:tag>Projectors</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916220473395</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4998.00</s:price>
+      <s:sku>SON-919158-VW2-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

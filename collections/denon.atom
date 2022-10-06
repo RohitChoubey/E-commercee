@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehouse-theme-metal.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehouse-theme-metal.myshopify.com/collections/denon.atom"/>
+  <title>Warehouse - Metal</title>
+  <updated>2019-05-28T11:53:27-04:00</updated>
+  <author>
+    <name>Warehouse - Metal</name>
+  </author>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916165062707</id>
+    <published>2019-05-28T11:53:27-04:00</published>
+    <updated>2019-05-28T11:53:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-heos-5-wireless-speaker-works-with-alexa"/>
+    <title>Denon HEOS 5 Wireless Speaker, Works with Alexa</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/12741_743__2_334eeb74-f8ff-4e36-96d6-3327c98147d7.jpg?v=1559058814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h6>Elegance meets performance</h6>
+<p>Ideal for medium to large rooms such as dining rooms, larger bedrooms and offices or smaller living rooms.</p>
+
+<p>The HEOS 5 wireless speaker produces absolutely amazing sound right out of the box. It’s discreet, elegant and produces incredibly detailed wide range high fidelity. Ideal for medium to large rooms such as dining rooms, larger bedrooms and offices or smaller living rooms.</p>
+
+<p>This beautifully styled middle sized speaker plays cloud music, music stored on your phone or tablet, plus USB and NAS sources, too. Now you can even listen to your favorite Bluetooth enabled sources on your HEOS system. Be greedy, you’re covered.</p>
+
+<p>It also features a well-crafted blend of four custom drivers, one radiator and four Class-D amplifiers, all of which are controlled with state-of-the-art- digital signal processing, born in the studio. Translated from the tech: Really smart people engineered these medium speakers with really cool components, and you will hear it in every beat.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:217</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916165062707</id>
+      <title>White</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>DEN-924334-HEO-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916165062707</id>
+      <title>Black</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>DEN-646192-HEO-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164997171</id>
+    <published>2019-05-28T11:53:19-04:00</published>
+    <updated>2019-05-28T11:53:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-heos-3-wireless-speaker-works-with-alexa"/>
+    <title>Denon HEOS 3 Wireless Speaker, Works with Alexa</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16066_864__2_6fe74a8d-3c59-4931-ac94-e9ca1b8c4e06.jpg?v=1559058806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h6>Compact speaker delivering big HEOS Sound</h6>
+<p>Ideal for small to medium sized rooms, such as bedrooms, offices or kitchens. This compact but full-featured speaker plays cloud music, music stored on your phone or tablet, plus USB and NAS sources, too. Now you can even play content through Bluetooth. Meaning you have options.</p>
+
+<p>It also features a carefully designed blend of two custom full-range drivers and a two-channel class D amplifier, all controlled with state-of-the-art digital signal processing that was born in the recording studio. Translated from the tech: these small, powered speakers produce big, clear sound from highly tested, recording studio-grade engineering with support for high resolution audio.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>High Resolution Audio Support</li>
+<li>Bluetooth® Integrated</li>
+<li>Versatile for horizontal or vertical placement</li>
+<li>Dual custom full-range drivers powered by a two-channel Class D amplifier</li>
+<li>Use two for a perfectly synchronized stereo pair</li>
+<li>Now available – control with Amazon Alexa voice commands</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:209</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164997171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>DEN-822309-HEO-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164931635</id>
+    <published>2019-05-28T11:53:13-04:00</published>
+    <updated>2019-05-28T11:53:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-heos-1-hs2-wireless-speaker-works-with-alexa"/>
+    <title>Denon HEOS 1 HS2 Wireless Speaker, Works with Alexa</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/11763_826__1_1ec30bbc-bd08-4534-a745-e448832dd13d.jpg?v=1559058797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h6>Amazing sound from a compact, portable speaker</h6>
+
+<p>Listen to your favorite audio tracks wirelessly, indoors or outdoors, via Bluetooth and Wi-Fi audio streaming.</p>
+
+<p>The compact enclosure features humidity resistance, making the HEOS 1 ideal for listening in damp or steamy environments, such as the bathroom.  It’s also a perfect outdoor system when on the go.</p>
+
+<p>Connect your favorite portable device directly to the HEOS 1 via the USB port. There's also a stereo line input for analog audio sources.</p>
+
+<p>The HEOS 1 features advanced DSP (Digital Signal Processing) to deliver full range sound, with custom EQ sound tailoring that helps deliver a smooth, natural tonal balance, along with dual channel Class D digital audio amplification.</p>
+
+<p>Featuring custom dual drivers including a wide range mid-woofer and precision dome tweeter, the HEOS 1 mini wireless speaker enclosure is sealed for humidity resistance, making it an ideal system to use in a damp environment, indoors or outdoors.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:280</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Dark Grey</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Portable</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164931635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>DEN-240570-HEO-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164833331</id>
+    <published>2019-05-28T11:53:07-04:00</published>
+    <updated>2019-05-28T11:53:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-avrx2400h-7-2-channel-av-receiver-with-built-in-heos-wireless-technology-works-with-alexa"/>
+    <title>Denon AVR-X2400H 7.2-Ch A/V Receiver with Built-In HEOS Wireless Technology, Works with Alexa</title>
+    <s:type>A/V Receivers</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/71ppksx-cfl._sl1500.jpg?v=1559058792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>A/V Receivers<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The AVR-X2400H 7.2 channel AV Surround Receiver delivers incredibly immersive surround sound, plenty of amplifier power and unparalleled music playback options, thanks to our built-in HEOS technology, Apple AirPlay 2, and Amazon Alexa voice compatibility for seamless control.</p>
+
+<em>Now available – voice control with Amazon Alexa, Siri via Apple AirPlay 2, and Google Assistant</em>
+
+<h6>Amazing 3D Sound</h6>
+<p>Enjoy a superb surround sound experience with the latest audio formats including Dolby Atmos and DTS:X. The AVR-X2400H’s 7 amplifier design means, you can run two dedicated overhead speakers in a 5.1.2 configuration. Exclusive DTS Virtual:X™ adds the complete immersive experience regardless the number of speakers installed.</p>
+
+<h6>Ready for the future of Home Cinema</h6>
+<p>The AVR-X2400H’s advanced video section is fully compatible with the latest HDMI and HDCP 2.2 specifications and prepared for any 4K Ultra HD source. High Dynamic Range (HDR), Dolby Vision compatibility and Hybrid Log Gamma (HLG, via firmware update) are also available.</p>
+
+<h6>Powerlful 7.2 Channel AMP with Eco Mode</h6>
+<p>Featuring high current discrete power output devices on all channels, the AVR-X2400H delivers high power and is rated at a maximum of 150 watts per channel. There’s also an Auto Eco mode that adjusts the maximum power available according to the volume level as well as an on-screen Eco metre that lets you see the power consumption reduction in real time.</p>
+
+<h6>The Heart of your Wireless Network</h6>
+<p>Every sound, all your music, controlled effortlessly. Full wireless connectivity is provided via both Wi-Fi and Bluetooth and Apple Airplay 2 is supported. The built-in HEOS technology allows the AVR-X1400H to become the app-controlled heart of a whole-house wireless multi-room sound network.</p>
+
+<h6>Perfect setup from the start</h6>
+<p>The AVR-X2400H easily guides you through the set-up process to ensure the most accurate configuration. Optimise all settings for the best possible sound and video quality with your system from the get-go.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:241</s:tag>
+    <s:tag>A/V Receivers</s:tag>
+    <s:tag>Amplifiers</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164833331</id>
+      <title>Default Title</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>DEN-605340-AVR-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164702259</id>
+    <published>2019-05-28T11:53:00-04:00</published>
+    <updated>2019-05-28T11:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-avrs930h-7-2-channel-av-receiver-with-built-in-heos-wireless-technology-works-with-alexa"/>
+    <title>Denon AVR-S930H 7.2-Ch A/V Receiver with Built-In HEOS Wireless Technology, Works with Alexa</title>
+    <s:type>A/V Receivers</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/13510_713__1_9e5569c0-65ee-46be-95e8-87718b2f8b7c.jpg?v=1559058786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>A/V Receivers<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The AVR-S930H is the most advanced Denon S Series home entertainment solution with a complete set of next-generation audio and video features. Thanks to the built-in HEOS wireless technology, you can stream and control all your local or online music effortlessly from anywhere in your home with the comfortable HEOS App. Create a stunning home theater experience with the Dolby Atmos and DTS:X 3D surround sound decoders, and all the latest video technologies including Dolby Vision, HDR (High Dynamic Range) and 4K Scaling. With the second HDMI output, you can even enjoy AV sources in a another room.</p>
+
+<h6>Powerful 7 channel Discrete Amplifier with Eco Mode</h6>
+<p>Featuring high current discrete power output devices on all channels, the AVR-S930H delivers high power and is rated at a maximum of 185 watts per channel. There's also an Auto Eco mode that adjusts the maximum power available according to the volume level as well as an on-screen Eco meter that lets you see the power consumption reduction in real time. For compatibility with the widest range of loudspeakers the AVR-S930H is equipped with low impedance drive capability that provides operational stability with 4 ohm speakers.</p>
+
+<h6>Dolby Atmos</h6>
+<p>Feel every dimension in Dolby Atmos. Dolby Atmos transports you into the story with moving audio that flows all around you with breathtaking realism. Enjoy a 5.1 surround sound speaker system and 2 additional overhead speakers or 2 Dolby Atmos elevation speakers for the ultimate home theater experience - including Dolby Surround upmixer for legacy content.</p>
+
+<h6>DTS:X</h6>
+<p>DTS:X™ immersive audio places sound where it would occur naturally in space, creating a lifelike, multi-dimensional audio experience in the home. The improved immersion and heightened realism draw you into the world of your favorite movies. The included spatial remapping engine, DTS Neural:X™, gives your movie, game and music collections a new lease on life! DTS:X brings the theater home.</p>
+
+<h6>HEOS Wireless Multi-Room Music Streaming</h6>
+<p>Our HEOS technology enables the AVR-S930H to become part of the HEOS wireless multi-room system, allowing you to enjoy your favorite music anywhere – and everywhere – around your home. Share music stored on your home network, Internet radio or streaming services with HEOS wireless speakers, or even other HEOS-capable receivers, throughout the house. And it's all controlled by the free HEOS app, installed on as many smartphones and tablets as you like! The app gives you instant multi-room audio control, meaning you can command music in every room from any device: play different music from different sources in every room, group several rooms together and play the same song, perfectly synchronized, in party mode!</p>
+
+<h6>High Resolution Audio / Front USB Port</h6>
+<p>Enjoy superb audio fidelity with your favorite high resolution audio tracks. The AVR-S930H features high resolution audio decoding with multiple lossless file types including ALAC, FLAC and WAV at up to 24-bit/196-kHz along with compatibility for 2.8/5.6-MHz DSD files (DSD is the audio coding format of SACD). Play them from memory devices via the front panel USB, or from network sources – the AVR-S930H will also play lossy file types such as MP3 and WMA.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:193</s:tag>
+    <s:tag>A/V Receivers</s:tag>
+    <s:tag>Amplifiers</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164702259</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>DEN-241191-AVR-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164669491</id>
+    <published>2019-05-28T11:52:54-04:00</published>
+    <updated>2019-05-28T11:52:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-avr-x8500h-13-2-channel-av-receiver"/>
+    <title>Denon AVR-X8500H 13.2-Ch A/V Receiver</title>
+    <s:type>A/V Receivers</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/991bd65d343914dd46d33e070da6748c_78eee7d7-c109-4bc3-825c-2324705ea10c.jpg?v=1559058777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>A/V Receivers<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Denon Flagship AVR-X8500H powers the next generation of home theater with the world’s first 13.2 channel receiver that supports the latest immersive audio formats, including IMAX Enhanced, Dolby Atmos, DTS:X and unparalleled music playback options, thanks to our built-in HEOS technology, Apple AirPlay 2, and Amazon Alexa voice compatibility for seamless control.</p>
+
+<h6>Powerful 13.2 channel Home Theater Experience</h6>
+<p>The AVR-X8500H ushers in a leading-edge home theater experience with 13.2 channels that support the latest surround sound formats and 4K Ultra HD picture.</p>
+
+<h6>Supports the latest surround audio formats</h6>
+<p>Immerse yourself in multi-dimensional sound — the Denon AVR-X8500H powers IMAX Enhanced, Dolby Atmos, DTS:X. Auro-3D will be enabled via future firmware update at no additional charge.</p>
+
+<h6>Ready for the future of Home Theater</h6>
+<p>The AVR-X8500H’s advanced video section is fully compatible with the latest HDMI and HDCP 2.2 specifications and prepared for any 4K Ultra HD source. High Dynamic Range (HDR), Dolby Vision compatibility, Hybrid Log Gamma (HLG) and eARC (enhanced Audio Return Channel) are supported as well. You can also enjoy ultra-high-definition pictures from legacy analog and digital sources.</p>
+
+<h6>The Heart of your Wireless Network</h6>
+<p>Every sound, all your music, controlled effortlessly. Full wireless connectivity is provided via Bluetooth and Wi-Fi. The AVR-X8500H works with Apple Airplay and Amazon Alexa, bringing cutting-edge voice control and incredible sound to all your home entertainment. The built-in HEOS technology allows the AVR-X8500H to become the app-controlled heart of a whole-house wireless sound network.</p>
+
+<h6>Perfect setup from the start</h6>
+<p>The AVR-X8500H easily guides you through the set-up process to ensure the most accurate configuration and lets you optimize all settings for the best possible sound and video quality. The most advanced Audyssey MultEQ XT32 room measurement system guarantees the best sound in every room.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:95</s:tag>
+    <s:tag>A/V Receivers</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164669491</id>
+      <title>Black</title>
+      <s:price currency="USD">3999.00</s:price>
+      <s:sku>DEN-895212-AVR-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164669491</id>
+      <title>Silver</title>
+      <s:price currency="USD">3999.00</s:price>
+      <s:sku>DEN-254165-AVR-SI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164603955</id>
+    <published>2019-05-28T11:52:48-04:00</published>
+    <updated>2019-05-28T11:52:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-avr-x4500h-9-2-ch-high-power-4k-av-receiver-with-amazon-alexa-voice-control"/>
+    <title>Denon AVR-X4500H 9.2 Ch High Power 4K A/V Receiver with Amazon Alexa Voice Control</title>
+    <s:type>A/V Receivers</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/8b4d3ee815ae775a5785334d42f8e310_5439764f-2494-4b4b-96ec-025e0ec4283e.jpg?v=1559058773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>A/V Receivers<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 9.2 channel AVR-X4500H 4K AV receiver supports IMAX Enhanced, Dolby Atmos, DTS:X and Auro-3D for an immersive home theater experience. The advanced HDMI section of the AVR-X4500H (8 in, 3 out) features the latest video technologies, including Dolby Vison, HDR10, HLG, 4K video upscaling and HDCP 2.2 processing on all ports. Stream music from Spotify®, Pandora®, Tidal and more with AirPlay2 and HEOS built-in; control your home theater and music services with your voice through Amazon Alexa. Ideal for custom integrations, the AVR-X4500H features “ihiji Invision” and “Domotz Pro” remote system monitoring and management technology, plus an award-winning Setup Assistant for a seamless out-of-box experience.</p>
+
+<h6>Powerful 9-channel Amplifier</h6>
+<p>Featuring discrete high-current amplifiers on all channels, the AVR-X4500 delivers high-power performance at 125 watts per channel (8 ohms, THD 0.05%, 20Hz~20kHz). Low impedance drivers provide operational stability for a wide range of speakers and create a balanced, tonal sound. The AVR-X4500H features three-dimensional sound formats Dolby Atmos, DTS:X, DTS Virtual:X and Auro-3D, plus an HDMI section with HDCP 2.2 support and advanced video processing with 4K scaling for HDMI sources and two 12V trigger outputs to connect external devices.</p>
+
+<h6>Supports the latest surround audio formats</h6>
+<p>Immerse yourself in multi-dimensional sound — the Denon AVR-X4500H powers IMAX Enhanced, Dolby Atmos, DTS:X, and Auro-3D.</p>
+
+<h6>Ready for the future of Home Theater</h6>
+<p>All eight HDMI inputs — and three HDMI outputs — feature HDCP 2.2 support that lets you enjoy copy-protected content uninhibited. Watch movies and shows with 4K Ultra HD 60Hz video, 4:4:4 Pure Color sub sampling, Dolby Vision, High Dynamic Range (HDR10), Hybrid Log-Gamma (HLG), eARC (enabled via firmware update) 21:9 video, 3D and BT.2020 passthrough support for exceptional color, clarity and contrast.</p>
+
+<h6>The Heart of your Wireless Network</h6>
+<p>Every sound, all your music, controlled effortlessly. Full wireless connectivity is provided via Bluetooth and Wi-Fi. The AVR-X4500H works with AirPlay2 and Amazon Alexa, bringing cutting-edge voice control and incredible sound to all your home entertainment. The built-in HEOS technology allows the AVR-X4500H to become the app-controlled heart of a whole-house wireless sound network.</p>
+
+<h6>Perfect setup from the start</h6>
+<p>The AVR-X4500H easily guides you through the setup process to ensure the most accurate configuration. Optimize all settings for the best possible sound and video quality with your system from the get-go. The most advanced Audyssey MultEQ XT32 room measurement system provides the best sound in every room and with the Audyssey MultEQ Editor app, go under the hood and set the AVR to your exact specifications.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:284</s:tag>
+    <s:tag>A/V Receivers</s:tag>
+    <s:tag>Amplifiers</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164603955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1599.00</s:price>
+      <s:sku>DEN-174796-AVR-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164538419</id>
+    <published>2019-05-28T11:52:42-04:00</published>
+    <updated>2019-05-28T11:52:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-avr-s920w-7-2-channel-full-4k-ultra-hd-av-receiver-with-bluetooth-wi-fi"/>
+    <title>Denon AVR-S920W 7.2-Ch Full 4K Ultra HD A/V Receiver with Bluetooth &amp; Wi-Fi</title>
+    <s:type>A/V Receivers</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/11810_788__1_8fd14199-6419-4228-9164-cf6c78ab6acc.jpg?v=1559058766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>A/V Receivers<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Immerse yourself in incredible surround sound with the AVR-S920W 7.2 channel AV receiver which features Dolby Atmos surround sound decoding, delivering breathtaking surround sound with today's advanced movie soundtracks. With Dolby Atmos you'll experience the same revolutionary 3D surround sound found in premium movie theaters with the ability to create an overhead surround soundfield that dramatically expands the sonic space. Via a future firmware update the AVR-S920W will also able to decode DTS:X soundtracks that deliver an immersive 3-dimensional soundspace.</p>
+
+<p>Prepared for the future, the AVR-S920W features an advanced video processing and signal handling system including the latest HDMI 2.0a specification that's compatible with 4K Ultra HD BT.2020 full rate 60 Hz content, HDR (High Dynamic Range), 4:4:4 Pure Color sub-sampling and 21:9 aspect ratio pass-through. It's also HDCP 2.2 compliant, which is a requirement for 4K Ultra HD copy-protected content.</p>
+
+<p>Full wireless connectivity is provided by both Bluetooth and dual band Wi-Fi with dual diversity antennas that ensure robust signal transmission and reception. Stream your favorite audio tracks wirelessly to the AVR-S920W and easily control it with the Denon 2016 AVR remote available for iOS, Android and Kindle Fire smart devices.</p>
+
+<p>You can also enjoy the latest uncompressed high resolution audio tracks as the AVR-S920W decodes AIFF, ALAC, FLAC and WAV files at up to 24-bit/192-kHz resolution, along with 2.8/5.6-MHz DSD high resolution tracks.</p>
+
+
+<h6>Dolby Atmos</h6>
+<p>Dolby's revolutionary Atmos surround sound technology dispenses with channel-based coding in favor of more advanced object-based coding, giving the soundtrack designer the ability to precisely place sounds anywhere in the 3-dimensional space. Now you can enjoy this same award-winning technology at home with the AVR-S920W that lets you to connect a 5.1 surround sound speaker system and 2 additional overhead speakers or 2 Dolby Atmos elevation speakers for the ultimate home theater experience. Along with Dolby Atmos decoding the AVR-S920W also features Dolby TrueHD lossless decoding and other Dolby Digital technologies.</p>
+
+<h6>DTS:X</h6>
+<p>The latest immersive surround sound system, DTS:X features object-based audio coding that lets the soundtrack designer place sonic elements anywhere in the 3D acoustic soundspace, and provides for overhead speakers to deliver a stunning surround sound experience. Along with DTS:X decoding, the AVR-S920W features DTS-HD Master Audio decoding and other DTS audio technologies. DTS:X decoding will be available via a future firmware update.</p>
+
+<h6>Latest HDMI 2.0a Connectivity; HDCP 2.2 Compatible; 4K Ultra HD BT.2020</h6>
+<p>Featuring 8 HDMI inputs, including 1 conveniently located on the front panel along with dual HDMI outputs, the AVR-S920W incorporates an advanced video section that features the latest HDMI 2.0a specification including support for 4K Ultra HD BT.2020 60 Hz full rate video, High Dynamic Range (HDR), Wide Color Gamut, 4:4:4 Pure Color sub-sampling and 21:9 video pass-through along with support for 3D content. The AVR-S920W also features HDCP 2.2 compatibility, a requirement for 4K Ultra HD copy-protected content.</p>
+
+<h6>Smart TV Connectivity</h6>
+<p>When you connect the AVR-S920W to your Smart TV you have the option of controlling the AVR-S920W via the HDTV's remote control which lets you select an input, adjust the volume and choose the surround sound mode.</p>
+
+<h6>Multi-Room Listening</h6>
+<p>You can configure the AVR-S920W for a 7 channel home theater surround system or you can choose to have a 5 channel surround system in the main room with 2 of the amplifier channels dedicated to drive separate stereo speakers in another room. Enjoy a surround sound movie in the home theater room while others can enjoy stereo sound from a different source in a second room at the same time.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:153</s:tag>
+    <s:tag>A/V Receivers</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164538419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>DEN-841038-AVR-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164472883</id>
+    <published>2019-05-28T11:52:36-04:00</published>
+    <updated>2019-05-28T11:52:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-avr-s730h-7-2-channel-full-4k-ultra-hd-av-receiver"/>
+    <title>Denon AVR-S730H 7.2-Ch Full 4K Ultra HD A/V Receiver</title>
+    <s:type>A/V Receivers</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/13509_829__1.jpg?v=1559058761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>A/V Receivers<br>
+        <strong>Price: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The AVR-S730H represents the most affordable seven channel 3D Audio AV Receiver with renowned original Denon sound. With HEOS wireless technology built-in, you can stream and control all your local or online music effortlessly from anywhere in your home with the comfortable HEOS App. Create a stunning home theater experience with the built-in Dolby Atmos and DTS:X 3D surround sound decoders, and all the latest video technologies including Dolby Vision, HDR (High Dynamic Range) and HDCP 2.2. The ultimate in future-proofness.</p>
+
+<h6>Powerful 7 channel Discrete Amplifier with Eco Mode</h6>
+<p>Featuring high current discrete power output devices on all channels, the AVR-S730H delivers high power and is rated at a maximum of 165 watts per channel. There's also an Auto Eco mode that adjusts the maximum power available according to the volume level as well as an on-screen Eco meter that lets you see the power consumption reduction in real time. For compatibility with the widest range of loudspeakers the AVR-S730H is equipped with low impedance drive capability that provides operational stability with 4 ohm speakers.</p>
+
+<h6>Dolby Atmos</h6>
+<p>Feel every dimension in Dolby Atmos. Dolby Atmos transports you into the story with moving audio that flows all around you with breathtaking realism. Enjoy a 5.1 surround sound speaker system and 2 additional overhead speakers or 2 Dolby Atmos elevation speakers for the ultimate home theater experience - including Dolby Surround up-mixer for legacy content.</p>
+
+<h6>DTS:X</h6>
+<p>DTS:X™ immersive audio places sound where it would occur naturally in space, creating a lifelike, multi-dimensional audio experience in the home. The improved immersion and heightened realism draw you into the world of your favorite movies. The included spatial remapping engine, DTS Neural:X™, gives your movie, game and music collections a new lease on life! DTS:X brings the theater home.</p>
+
+<h6>HEOS Wireless Multi-Room Music Streaming, Controlled by Free HEOS App</h6>
+<p>Our HEOS technology enables the AVR-S730H to become part of the HEOS wireless multi-room system, allowing you to enjoy your favorite music anywhere – and everywhere – around your home. Share music stored on your home network, Internet radio or streaming services with HEOS wireless speakers, or even other HEOS-capable receivers, throughout the house. And it's all controlled by the free HEOS app, installed on as many smartphones and tablets as you like! The app gives you instant multi-room audio control, meaning you can command music in every room from any device: play different music from different sources in every room, group several rooms together and play the same song, perfectly synchronized, in party mode!</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:151</s:tag>
+    <s:tag>A/V Receivers</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164472883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">479.00</s:price>
+      <s:sku>DEN-364406-AVR-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164341811</id>
+    <published>2019-05-28T11:52:32-04:00</published>
+    <updated>2019-05-28T11:52:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-ahgc20-globe-cruiser-over-ear-wireless-noise-cancelling-headphones"/>
+    <title>Denon AHGC20 Globe Cruiser Over-Ear Wireless Noise Cancelling Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/10777_112__1_7251b051-cc2a-4bfa-837a-b12169ffa546.jpg?v=1559058755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy beautiful music in blissful silence without the hassle of tangled cords with Denon's Globe Cruiser™ AH-GC20 wireless headphones with active noise cancellation. Featuring the latest Bluetooth 4.0 Dual Mode wireless technologies including Advanced Audio Coding (AAC), the AH-GC20 over-ear headphones eliminate the need for a cable, communicating wirelessly with your smartphone, tablet and portable music player.</p>
+
+<p>Featuring elegant and contemporary European styling, the AH-GC20 headphones deliver superb sound quality along with exceptional noise cancellation, reducing ambient noise by an astonishing 99%. Equipped with the latest aptX™ wireless technologies, including aptX Low Latency and cVc (Clear Voice Capture), the AH-GC20 headphones feature soft memory foam earpads that provide a supremely comfortable fit along with additional passive noise reduction.</p>
+
+<h6>Active Noise Cancelling</h6>
+<p>Featuring our proprietary active noise cancelling system, the AH-GC20 can reduce or eliminate ambient noise effectively, and can be used when playing music, making phone calls, or by itself to give you peace and quiet in a noisy environment. Dual microphones on each earcup (one inside, one outside) help deliver remarkable voice clarity when making and receiving phone calls and contribute to the exceptional noise cancellation performance.</p>
+
+<h6>Wireless Bluetooth 4.0 Dual Mode Connectivity</h6>
+<p>With the AH-GC20, there's no need for a cable to enjoy your favorite music on your portable device, and the AH-GC20 features dual simultaneous device connectivity. For example, you can listen wirelessly to your iPad or iPod touch and send and take calls from your iPhone.</p>
+
+<h6>cVc (Clear Voice Capture)</h6>
+<p>Along with aptX Low Latency wireless audio coding that provides CD quality audio, the AH-GC20 is also equipped with Clear Voice Capture, a sophisticated noise reduction system which enhances received audio quality and includes noise suppression, adaptive equalization, automatic gain control, echo cancellation, wind noise reduction and noise dependent volume control, all designed to deliver the clearest voice quality even in harsh noisy environments.</p>
+
+<h6>Legendary Denon Fidelity</h6>
+<p>Equipped with large 40mm professionally tuned drivers, the AH-GC20 benefits from Denon's many years of studio and professional headphone expertise, delivering a natural tonal balance free from exaggerated colorations. While so many headphone brands have appeared lately, Denon has decades of advanced headphone development know-how. In fact, we've measured more than 4,000 people's ears and distribution of facial structures, to ensure that everyone everywhere can enjoy the best in sound quality and comfort.</p>
+
+<h6>Contemporary European Design</h6>
+<p>Equipped with memory foam earpads, the AH-GC20 features comfortable over-ear fit along with fatigue-free listening due to the use of advanced lightweight materials, including aluminum alloy spur hangars that feature dual axis rotation, along with a lightweight padded headband. Weighing in at only 9 ounces, the AH-GC20 lets you listen in comfort, even over many hours.</p>
+
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:152</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164341811</id>
+      <title>Default Title</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>DEN-282874-AHG-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164276275</id>
+    <published>2019-05-28T11:52:25-04:00</published>
+    <updated>2019-05-28T11:52:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-ah-mm400-music-maniac-over-ear-headphones"/>
+    <title>Denon AH-MM400 Music Maniac Over-Ear Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/10776_104__1_1043dbee-326c-4fc4-b3e5-5f9a03daf8cf.jpg?v=1559058750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover a whole new world of musical enjoyment with Denon's AH-MM400 reference class headphones, which are professionally tuned for a flat EQ and deliver a natural tonal balance that's faithful to the original musical performance.</p>
+
+<p>Designed to look as good as they sound, the AH-MM400 features a fresh European style-inspired design that combines classic styling with a modern touch.</p>
+
+<h6>Aluminum Die-cast Hangers</h6>
+<p>The earcup housings connect to the lightweight adjustable headband via aluminum alloy die-cast hangers that feature resonance-free construction, along with high rigidity for maximum durability. The AH-MM400 also features collapsible earcups for storage in the supplied carrying pouch.</p>
+
+<h6>Natural American Walnut Earcups</h6>
+<p>Featuring hand-carved natural American Walnut earcup housings, the AH-MM400 delivers a superb musical experience, with balanced tonal quality thanks to the resonance-free natural wood housings. A comfortable over-ear (circumaural) design, the AH-MM400 provides a high degree of passive acoustic isolation, letting you listen to your favorite tracks without distracting background noise interference.</p>
+
+<h6>40mm Carbon/Paper Composite</h6>
+<p>The AH-MM400 features proprietary 40mm drivers with advanced Carbon/Paper composite blend diaphragms and neodymium magnets along with Denon's exclusive Free Edge technology, which dispenses with the traditional diaphragm surround suspension to deliver extended frequency response all the way up to 40 kHz.</p>
+
+<h6>Oxygen Free Copper cables</h6>
+<p>For the utmost audio fidelity, the AH-MM400 comes with 2 detachable audio cables, both featuring high purity Oxygen Free Copper (OFC) cable technology. One cable features a built-in microphone along with a remote control for volume, track selection and smartphone control. The other longer cable is provided for connection to other devices, and both cables feature gold-plated connectors.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:111</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Oak</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164276275</id>
+      <title>Default Title</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>DEN-652163-AH--DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164177971</id>
+    <published>2019-05-28T11:52:18-04:00</published>
+    <updated>2019-05-28T11:52:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-ah-mm200bk-music-maniac-on-ear-headphones"/>
+    <title>Denon AH-MM200BK Music Maniac On-Ear Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/10241_629__1_f61e4bc4-b233-492c-abe8-da860a2e3e0f.jpg?v=1559058743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Targeted to serious music listeners, Denon’s new Music Maniac™ headphones are packed with advanced technologies, and feature proprietary drivers and housings.</p>
+
+<p>Your music will sound better than ever with Denon's AH-MM200 headphones which are professionally tuned for a flat EQ to deliver a smooth, natural and faithful tonal balance that accurately reproduces the sound of the original performance.</p>
+
+<p>Designed to look as good as they sound, the AH-MM200 features a fresh European style-inspired design that combines classic styling with a modern touch.</p><h6>Ceramic Finish Fiberglass</h6><p>Featuring a comfortable on-ear (supra-aural) design, the AH-MM200 is equipped with ellipsoid earcups constructed of fiberglass reinforced composite material that provides both light weight and high rigidity for resonance-free audio quality, and the ceramic finish provides an elegant look as well as resistance to scratches.</p>
+
+<h6>Fits &amp; Moves Like You</h6>
+<p>The AH-MM200 features a "Tuning Fork" inspired hanger design and Precision Aluminium construction with folding mechanism. The integrated controls &amp; microphone allow you to play/pause the music, answer/hang up phone calls, activate Siri® voice recognition personal assistant, and adjust volume level.</p>
+
+<h6>30mm Triple Layer Diaphragms and Neodymium Magnets</h6>
+<p>The AH-MM200 features proprietary 30mm drivers with our exclusive Triple Layer diaphragms and neodymium magnets, and are professionally tuned for a flat EQ response that delivers the most natural music experience.</p>
+
+<h6>Oxygen Free Copper cables</h6>
+<p>For the utmost audio fidelity, the AH-MM200 comes with 2 detachable audio cables, both featuring high purity Oxygen Free Copper (OFC) cable technology. One cable features a built-in microphone along with a remote control for volume, track selection and smartphone control. The other longer cable is provided for connection to other devices, and both cables feature gold-plated connectors.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:280</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164177971</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>DEN-372308-AH--DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916164112435</id>
+    <published>2019-05-28T11:52:12-04:00</published>
+    <updated>2019-05-28T11:52:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-ah-d7200-reference-over-ear-headphones"/>
+    <title>Denon AH-D7200 Reference Over-Ear Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/13200_009__1_3e4b3ec4-83b2-4648-8fb2-198b27ff4b97.jpg?v=1559058737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AH-D7200 is Denon’s new reference headphone, drawing on more than 50 years’ experience in headphone design and development. Over five decades we have refined our expertise in making extraordinary-sounding headphones so comfortable you’ll just want to keep on listening. These premium headphones use our unique, Japanese-made FreeEdge drivers, which deliver a precise pistonic motion for ultra-accurate sound with minimal distortion. The drivers are mounted on vibration-reducing engineering resin baffles, fitted into self-damping real walnut housings designed to bring warmth and life to the sound. A detachable 7N-purity copper cable, made in Japan to Denon’s exacting specification, ensures the best possible signal transmission – it’s fitted with a durable machine-cut metal plug with an ornamental copper ring. The ear cups are suspended on a headband finished in real sheepskin leather, with ergonomically curved diecast aluminium hangers, while the memory foam ear-cushions are covered with an extremely soft artificial leather developed specifically for the AH-D7200. Every part of this no-compromise design is all about sound quality, comfort – and the ultimate listening experience.</p>
+
+<h6>Ultra-high-quality connection</h6>
+<p>A detachable 7N-purity copper cable, made in Japan to Denon's exacting specification, ensure the best possible signal transmission - it's fitted with a durable machine-cut metal plug with an ornamental copper ring.</p>
+
+<h6>Unique FreeEdge driver technology</h6>
+<p>At the heart of the AH-D7200 is that 50mm FreeEdge driver diaphragm, made from a nano-fibre material chosen for its rigidity and low mass. This delivers an accurate pistonic motion without distortion, and is also self-damping to cancel out unwanted resonances within the diaphragm. It’s mounted in a soft, compliant surround, making it easier for it to move in response to the music signal without flexing or distorting, for the purest possible sound.</p>
+
+<h6>Real wood ear cups</h6>
+<p>The beautiful 100% natural walnut ear cups enhance the sound experience. They are self-damping and strong, eliminating unwanted vibrations for super-detailed reproduction that brings concert hall-like life, warmth, and musicality to your listening experience.</p>
+
+<h6>Luxurious craftmanship</h6>
+<p>The outside of the headband is adorned with natural sheepskin leather for a soft luxurious feel, while the inside uses stitched engineered leather for ultimate comfort and durability.</p>
+
+<h6>Wearing comfort</h6>
+<p>The headband deploys perfectly ergonomically contoured die-cast aluminum construction for optimized comfort and fit. The ear-pads are gently wrapped in an extremely soft engineered leather developed specifically for the AH-D7200, and memory foam, allowing them to conform to the shape of your head for the most comfortable fit. Every component of this compromise free design is all about sound quality and comfort - the ultimate listening experience.</p>
+
+<h6>Perfect Adjustment</h6>
+<p>To accomodate varied head-sizes, the adjustable headband uses positive ball-bearing click-stops for precise and repeatable adjusment. Numbered markings indicate how to restore your personal setting quickly and precisely.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:185</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Oak</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$500 to $800</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916164112435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>DEN-312312-AH--DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916163981363</id>
+    <published>2019-05-28T11:52:04-04:00</published>
+    <updated>2019-05-28T11:52:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/denon-ah-c720-in-ear-headphones"/>
+    <title>Denon AH-C720 In-Ear Headphones</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>Denon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/12678_869__1_1500x_b9a505f9-8986-45bf-a73b-5950c9008349.jpg?v=1559654098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Denon<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drawing on half a century of Denon headphone engineering experience, the new 2016 models are designed to combine comfort with no-compromise sound. Aimed at those who want the very best sound whether traveling, working or relaxing, the new in-ear models are packed with advanced Denon technologies, designed to deliver the best possible performance from compact, lightweight earphones.</p>
+<p>The AH-C720, available in black and silver, uses an 11.5mm driver, mounted in housings combining die-cast aluminium and resin, designed for rigidity and vibration-damping. Denon’s Acoustic Optimiser technology helps equalizing the air-pressure in front of and behind the driver. It’s all part of making the sound as dynamic and distortion-free as possible.</p>
+<p>The direct successor to the popular AH-C710, it’s designed for life on the move, with fibre-mesh cover on its cable for durability. Audio enthusiasts often complain about the noise generated from the cable rubbing against their chest when they’re moving. Denon’s specially designed Radial Cascade Damper system reduces cable-transmitted vibration noise, enabling you to enjoy studio-quality music on the go.</p>
+<p>In addition, the AH-C720 is fitted with Comply TX400 ear-tips, which combine with the ergonomically-shaped housings to give a secure fit for the purest sound and maximum isolation from external noise. The tips use memory foam activated by the heat of the user’s ears, and have an integral wax-guard to keep the inside of the earphones clean. Four sizes of silicon ear-tips are also provided, along with a carrying case and cable clip.</p>
+<p>To round up, the AH-C720 can be used with the dedicated Denon Audio Application for iOS and Android, allowing you to enhance the sound and tune it to suite your personal preferences. This app not only optimises the sound of portable devices, it also offers an improved player interface supporting queuing, and playlisting, and allows the user to access over 70,000 radio stations and 2 million on-demand programs via the TuneIn Internet Radio platform.</p>
+<h6>General specifications:</h6>
+<ul>
+<li>Impedance: 16 ohm</li>
+<li>Sensitivity: 110 dB/mW</li>
+<li>Maximum power input: 250 mW</li>
+<li>Frequency response: 5-40,000 (Hz)</li>
+<li>Weight: 8.6 g (not including cable)</li>
+</ul>
+<h6>Included accessories:</h6>
+<ul>
+<li>Easy to go carrying case</li>
+<li>One pair of Comply TX400 ear-tips</li>
+<li>Four pairs of silicon ear-tips (XS, S, M, L)</li>
+<li>Cable Clip</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:142</s:tag>
+    <s:tag>Brand_Denon</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916163981363</id>
+      <title>Silver</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>DEN-763012-AH--SI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916163981363</id>
+      <title>Black</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>DEN-570398-AH--BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehouse-theme-metal.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehouse-theme-metal.myshopify.com/collections/jbl.atom"/>
+  <title>Warehouse - Metal</title>
+  <updated>2019-05-28T12:10:46-04:00</updated>
+  <author>
+    <name>Warehouse - Metal</name>
+  </author>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916181545011</id>
+    <published>2019-05-28T12:10:46-04:00</published>
+    <updated>2019-05-28T12:10:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-xtreme-2-portable-wireless-bluetooth-speakers"/>
+    <title>JBL Xtreme 2 Portable Wireless Bluetooth Speakers</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/Xtreme2_Front_Camo.jpg?v=1559593971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JBL Xtreme 2 is the ultimate portable Bluetooth speaker that effortlessly delivers dynamic and immersive stereo sound. The speaker is armed with four drivers, two JBL Bass Radiators, a rechargeable 10,000mAh Li-ion battery supporting up to 15 hours of playtime. On top of these, the speaker carries a convenient USB charge out.</p>
+
+<p>The speaker is IPX7 rated, featuring a waterproof design, with rugged fabric in exclusive colors complementing the Xtreme 2. Together with JBL Connect+ it can wirelessly link more than 100 JBL Connect+ enabled speakers to elevate your listening experience and making the party even bigger. The speaker carries integrated hooks, a durable metal base, and an added bottle opener to the carrying strap adding to the consumer convenience level whilst on the go. Not to forget it's just as well a perfect audio solution for any home. Whether in the living room, poolside, or tailgating for the big game, the JBL Xtreme 2 brings bold sound, wherever!</p>
+
+<h6>Powerful Sound</h6>
+<p>A portable speaker that truly packs a punch — featuring upgraded drivers that offer big, bold sound.</p>
+
+<h6>Waterproof</h6>
+<p>IPX7 waterproof design and durable fabric means this speaker is up for any adventure. Just like you.</p>
+
+<h6>15 hours of Play</h6>
+<p>This speaker starts the party and finishes it. Built with 15 hours of battery, because a full day should be full of sound.</p>
+
+<h6>Grab &amp; Go</h6>
+<p>Harness the power of portable sound. Includes a carrying strap so you can bring it anywhere, and a bottle opener so you can celebrate when you get there.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Wireless Bluetooth Streaming</li>
+<li>JBL Connect+</li>
+<li>Durable fabric and rugged material</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Xtreme 2</li>
+<li>Micro USB Cable for charging</li>
+<li>Safety Sheet</li>
+<li>Quick Start Guide</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:180</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Camo</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Portable</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916181545011</id>
+      <title>Camouflage</title>
+      <s:price currency="USD">299.95</s:price>
+      <s:sku>JBL-779493-XTR-CA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916181545011</id>
+      <title>Black</title>
+      <s:price currency="USD">299.95</s:price>
+      <s:sku>JBL-743614-XTR-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916181545011</id>
+      <title>Red</title>
+      <s:price currency="USD">299.95</s:price>
+      <s:sku>JBL-832464-XTR-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916181545011</id>
+      <title>Blue</title>
+      <s:price currency="USD">299.95</s:price>
+      <s:sku>JBL-530319-XTR-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916181545011</id>
+      <title>Green</title>
+      <s:price currency="USD">299.95</s:price>
+      <s:sku>JBL-876459-XTR-GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916181184563</id>
+    <published>2019-05-28T12:10:31-04:00</published>
+    <updated>2019-05-28T12:10:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-under-armour-sport-wireless-train-on-ear-headphones"/>
+    <title>JBL Under Armour Sport Wireless Train On-Ear Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/jbl_ua_train_blk_side_007_x3_black.jpg?v=1559820046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UA Sport Wireless Train are built for the gym. Super Vent ear cushions keep them cool and dry while Under Armour grip material provides a soft feel and maximum stability. UA Train headphones elevate every rep with big, wireless JBL Charged Sound. With a simple touch of the UA logo, Talk Thru technology is enabled so you can talk to your training partner or coach without having to remove the headphones. Oversized controls are easy to access during an intense training session and a 16-hour battery with Speed Charge delivers an hour of playback on just five minutes’ charge. Tested and designed by athletes for durability, they’re moisture resistant and the ear cushions are hand washable. With UA Sport Wireless Train, you can get the most out of your workout.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>On-Ear fitness headphones</li>
+<li>Bluetooth connectivity</li>
+<li>Rechargeable lithium-ion battery delivers up to 16 hours of playback -- 5 minutes of charging delivers 1 hour of playback</li>
+<li>JBL 40mm dynamic speaker drivers deliver extended highs, lush mids and deep bass</li>
+<li>A micro USB charge and 3.5mm TRRS connector for passive listening</li>
+<li>TalkThru technology with the ability to control your music from the earcup</li>
+<li>Included carry case, charge cable, and audio cable</li>
+<li>Under Armour SuperVent fabric keeps you dry during workouts</li>
+<li>Under Armour grip lining provides comfort and stability</li>
+<li>Bluetooth connectivity</li>
+<li>IPX4 water resistant</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Under Armour Sport Wireless Train</li>
+<li>Carry Case</li>
+<li>Charging Cable</li>
+<li>Audio Cable</li>
+<li>Quick Start Guide</li>
+<li>Safety Sheet</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:277</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916181184563</id>
+      <title>Black</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-919286-UND-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916181184563</id>
+      <title>Black &amp; Red</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-242455-UND-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916180922419</id>
+    <published>2019-05-28T12:10:03-04:00</published>
+    <updated>2019-05-28T12:10:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-tune-600-btnc-on-ear-wireless-bluetooth-noise-canceling-headphones"/>
+    <title>JBL Tune 600 BTNC On-Ear Wireless Bluetooth Noise Canceling Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16449_929__1_fc80a6d4-9b4b-4a2e-bfc3-30118e2e2858.jpg?v=1559819534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the JBL Tune 600BTNC active noise-cancelling wireless on-ear headphones, a flat-folding lightweight and compact solution for everyday use. The JBL Tune 600BTNC feature 32mm JBL drivers that helps deliver JBL Pure Bass sound. Sound that can be enjoyed without unnecessary noise for more than 12 hours wirelessly and can be fully recharged in only 2 hours. And thanks to the additional detachable cable, music can be enjoyed endlessly in wired mode, with or without Active Noise-Cancelling. Made with durable materials and designed in four fresh colors, the JBL Tune 600BTNC allow you to connect to your world quickly thanks to buttons on the ear cups that allow for easy hands-free management of calls and music.</p>
+
+<h6>JBL Pure Bass sound</h6>
+<p>For over 70 years, JBL has engineered the precise, impressive sound found in big venues around the world. These headphones reproduce that same JBL DNA, punching out bass that’s both deep and powerful.</p>
+
+<h6>6-hour battery life</h6>
+<p>Enjoy your music and take calls for 6 hours. Get a full recharge in 2 hours.</p>
+
+<h6>Technical specifications:</h6>
+<ul>
+<li>Driver size: 12.5mm</li>
+<li>Dynamic frequency response range: 20Hz–20kHz</li>
+<li>Sensitivity: 100dB SPL/1mw</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>Pair of Tune 600BT headphones</li>
+<li>Charging cable</li>
+<li>Safety Sheet</li>
+<li>Quick Start Guide</li>
+<li>Warning Card</li>
+<li>Warranty Card</li>
+<li>QSG</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:269</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Rose</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180922419</id>
+      <title>Black</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>JBL-875753-TUN-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180922419</id>
+      <title>Blue</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>JBL-160254-TUN-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180922419</id>
+      <title>White</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>JBL-866524-TUN-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180922419</id>
+      <title>Pink</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>JBL-328617-TUN-PI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916180594739</id>
+    <published>2019-05-28T12:09:43-04:00</published>
+    <updated>2019-05-28T12:09:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-tune-205bt-wireless-earbuds"/>
+    <title>JBL Tune 205BT Wireless Earbuds</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16433_260__1_31173a53-f655-43f9-bfbd-bf02365e0401.jpg?v=1559819407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing JBL Tune 205BT wireless earbud headphones with JBL Pure Bass Sound. Thanks to the 6-hour battery life they can wirelessly stream JBL Pure Bass sound and provide hands-free call management. Inside the premium housing is a pair of 12.5 mm drivers which will punch out some serious bass, while the soft, ergonomically shaped earbuds ensure the listening experience remains comfortable for long-listening hours. In addition, a single-button remote lets you control music playback, as well as answer calls on the fly with the built-in microphone, making the JBL Tune 205BT your everyday companion for work, at home and on the go.</p>
+<h6>JBL Pure Bass sound</h6>
+<p>For over 70 years, JBL has engineered the precise, impressive sound found in big venues around the world. These headphones reproduce that same JBL DNA, punching out bass that’s both deep and powerful.</p>
+<h6>6-hour battery life</h6>
+<p>Enjoy your music and take calls for 6 hours. Get a full recharge in 2 hours.</p>
+<h6>Hands-free calls</h6>
+<p>Easily control your sound and manage calls from your headphones with the convenient three-button remote with microphone.</p>
+<h6>Technical specifications:</h6>
+<ul>
+<li>Driver size: 12.5mm</li>
+<li>Dynamic frequency response range: 20Hz–20kHz</li>
+<li>Sensitivity: 100dB SPL/1mw</li>
+<li>Maximum SPL: 106dB @1kHz</li>
+<li>Microphone sensitivity @1kHz dB v/pa: -21</li>
+<li>Impedance: 32Ω</li>
+<li>Bluetooth transmitted power: 0~4dBm</li>
+</ul>
+<h6>Package contains:</h6>
+<ul>
+<li>Pair of Tune 205BT headphones</li>
+<li>Charging cable</li>
+<li>Safety Sheet</li>
+<li>Quick Start Guide</li>
+<li>Warning Card</li>
+<li>Warranty Card</li>
+<li>QSG</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label2:Our Selection</s:tag>
+    <s:tag>__stock:192</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Champagne</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Rose</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180594739</id>
+      <title>Black</title>
+      <s:price currency="USD">31.95</s:price>
+      <s:sku>JBL-429225-TUN-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180594739</id>
+      <title>Blue</title>
+      <s:price currency="USD">31.95</s:price>
+      <s:sku>JBL-248445-TUN-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180594739</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">31.95</s:price>
+      <s:sku>JBL-138532-TUN-CH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180594739</id>
+      <title>Green</title>
+      <s:price currency="USD">31.95</s:price>
+      <s:sku>JBL-391418-TUN-GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180594739</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">31.95</s:price>
+      <s:sku>JBL-610284-TUN-RO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916180463667</id>
+    <published>2019-05-28T12:09:33-04:00</published>
+    <updated>2019-05-28T12:09:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-stage-a135c-center-loudspeaker"/>
+    <title>JBL Stage A135C Center Loudspeaker</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/JBL_Stage_A135C_34_NoGrill_14763_x1_25dfc094-dcf5-499b-b45d-a08c26cc494c.png?v=1559059782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            249.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JBL Stage is an advanced, home-stereo/home-theater speaker system that offers you the thrill of a live-concert experience, all in your living room. Featuring 1” aluminum dome tweeters with high-definition waveguide sound design and 8” woofers that register deep, signature JBL bass, the JBL Stage captures every note of the audio spectrum from high to low – and combines them into pure listening pleasure. Available in pantone black or two-tone wood, JBL Stage is a stylish addition to any theater system. Whether it’s for movies or music, the sound of your home will never be the same.</p>
+
+<h6>Two-tone unique design for wood</h6>
+<p>Enjoy all your music and movies with rich, realistic audio.</p>
+
+<h6>JBL engineering high-definition imaging waveguide design</h6>
+<p>Ensures sound quality that’s rich, lively, and accurate to a fault.</p>
+
+<h6>Long excursion powered subwoofer</h6>
+<p>The long excursion powered subwoofer provides powerful, quality bass.</p>
+
+<h6>General Specifications:</h6>
+<ul>
+<li>2 way, 6 x 3" woofer, 1" aluminum tweeter center loudspeaker</li>
+<li>6 x 3" (76mm) Polycellulose Low-Frequency Woofer</li>
+<li>New High Definition Imaging (HDI) Waveguide</li>
+<li>1” (25mm) Aluminum Dome Tweeter</li>
+<li>Recommended Amplifier Power: 20 – 150W</li>
+<li>Frequency Response: 75Hz – 40kHz</li>
+<li>Sensitivity: 90dB @ 1M, 2.83V</li>
+<li>Nominal Impedance: 6 Ohms</li>
+<li>Crossover Frequencies: 2.5kHz</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Stage A135C Center Loudspeaker</li>
+<li>Owner’s Manual</li>
+<li>Warranty Card</li>
+<li>4 x Feet Pads</li>
+<li>4 x Metal Levelling Feet</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:152</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180463667</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.95</s:price>
+      <s:sku>JBL-759459-STA-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916180332595</id>
+    <published>2019-05-28T12:09:23-04:00</published>
+    <updated>2019-05-28T12:09:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-stage-a125c-center-loudspeaker"/>
+    <title>JBL Stage A125C Center Loudspeaker</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/JBL_Stage_A125C_Hero_NoGrill_114774_x1_7cfbb51e-05e5-4385-8d18-6e4ea5be901a.png?v=1559059772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            249.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JBL Stage is an advanced, home-stereo/home-theater speaker system that offers you the thrill of a live-concert experience, all in your living room. Featuring 1” aluminum dome tweeters with high-definition waveguide sound design and 8” woofers that register deep, signature JBL bass, the JBL Stage captures every note of the audio spectrum from high to low – and combines them into pure listening pleasure. Available in pantone black or two-tone wood, JBL Stage is a stylish addition to any theater system. Whether it’s for movies or music, the sound of your home will never be the same.</p>
+
+<h6>Two-tone unique design for wood</h6>
+<p>Enjoy all your music and movies with rich, realistic audio.</p>
+
+<h6>JBL engineering high-definition imaging waveguide design</h6>
+<p>Ensures sound quality that’s rich, lively, and accurate to a fault.</p>
+
+<h6>Long excursion powered subwoofer</h6>
+<p>The long excursion powered subwoofer provides powerful, quality bass.</p>
+
+<h6>General Specifications:</h6>
+<ul>
+<li>2 way, dual 5.25" woofer, 1" aluminum tweeter center loudspeaker</li>
+<li>Dual 5.25" (133mm) Polycellulose Low-Frequency Woofer</li>
+<li>New High Definition Imaging (HDI) Waveguide</li>
+<li>1” (25mm) Aluminum Dome Tweeter</li>
+<li>Recommended Amplifier Power: 20 – 150W</li>
+<li>Frequency Response: 75Hz – 40kHz</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Stage A125C Compact Center Loudspeaker</li>
+<li>Owner’s Manual</li>
+<li>Warranty Card</li>
+<li>4 x Feet Pads</li>
+<li>4 x Metal Levelling Feet</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:171</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180332595</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.95</s:price>
+      <s:sku>JBL-477165-STA-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916180168755</id>
+    <published>2019-05-28T12:09:12-04:00</published>
+    <updated>2019-05-28T12:09:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-stage-a120p-subwoofer"/>
+    <title>JBL Stage A120P 12&quot; Powered Subwoofer</title>
+    <s:type>Subwoofers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/JBL_Stage_A120P_Hero_NoGrill_14824_x1_c222eba4-16ee-4bb6-aaf2-9f0d24d00281.png?v=1559059762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Subwoofers<br>
+        <strong>Price: </strong>
+            449.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JBL Stage is an advanced, home-stereo/home-theater speaker system that offers you the thrill of a live-concert experience, all in your living room. Featuring 1” aluminum dome tweeters with high-definition waveguide sound design and 8” woofers that register deep, signature JBL bass, the JBL Stage captures every note of the audio spectrum from high to low – and combines them into pure listening pleasure. Available in pantone black or two-tone wood, JBL Stage is a stylish addition to any theater system. Whether it’s for movies or music, the sound of your home will never be the same.</p>
+
+<h6>Two-tone unique design for wood</h6>
+<p>Enjoy all your music and movies with rich, realistic audio.</p>
+
+<h6>JBL engineering high-definition imaging waveguide design</h6>
+<p>Ensures sound quality that’s rich, lively, and accurate to a fault.</p>
+
+<h6>Long excursion powered subwoofer</h6>
+<p>The long excursion powered subwoofer provides powerful, quality bass.</p>
+
+<h6>General Specifications:</h6>
+<ul>
+<li>2 way, 6 x 3" woofer, 1" aluminum tweeter center loudspeaker</li>
+<li>6 x 3" (76mm) Polycellulose Low-Frequency Woofer</li>
+<li>New High Definition Imaging (HDI) Waveguide</li>
+<li>1” (25mm) Aluminum Dome Tweeter</li>
+<li>Recommended Amplifier Power: 20 – 150W</li>
+<li>Frequency Response: 75Hz – 40kHz</li>
+<li>Sensitivity: 90dB @ 1M, 2.83V</li>
+<li>Nominal Impedance: 6 Ohms</li>
+<li>Crossover Frequencies: 2.5kHz</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Stage A135C Center Loudspeaker</li>
+<li>Owner’s Manual</li>
+<li>Warranty Card</li>
+<li>4 x Feet Pads</li>
+<li>4 x Metal Levelling Feet</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:211</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Subwoofers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180168755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">449.95</s:price>
+      <s:sku>JBL-754925-STA-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916180103219</id>
+    <published>2019-05-28T12:08:59-04:00</published>
+    <updated>2019-05-28T12:08:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-stage-1200b-sealed-enclosure-with-12-300mm-subwoofer"/>
+    <title>JBL Stage 1200B Sealed Enclosure with 12&quot; (300mm) Subwoofer</title>
+    <s:type>Subwoofers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/stage1200b_hero-1605x1605px_f730918d-0958-45f2-b8c0-e0d7bed9d733.png?v=1559059750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Subwoofers<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JBL Stage is an advanced, home-stereo/home-theater speaker system that offers you the thrill of a live-concert experience, all in your living room. Featuring 1” aluminum dome tweeters with high-definition waveguide sound design and 8” woofers that register deep, signature JBL bass, the JBL Stage captures every note of the audio spectrum from high to low – and combines them into pure listening pleasure. Available in pantone black or two-tone wood, JBL Stage is a stylish addition to any theater system. Whether it’s for movies or music, the sound of your home will never be the same.</p>
+
+<h6>Two-tone unique design for wood</h6>
+<p>Enjoy all your music and movies with rich, realistic audio.</p>
+
+<h6>JBL engineering high-definition imaging waveguide design</h6>
+<p>Ensures sound quality that’s rich, lively, and accurate to a fault.</p>
+
+<h6>Long excursion powered subwoofer</h6>
+<p>The long excursion powered subwoofer provides powerful, quality bass.</p>
+
+<h6>General Specifications:</h6>
+<ul>
+<li>2 way, 6 x 3" woofer, 1" aluminum tweeter center loudspeaker</li>
+<li>6 x 3" (76mm) Polycellulose Low-Frequency Woofer</li>
+<li>New High Definition Imaging (HDI) Waveguide</li>
+<li>1” (25mm) Aluminum Dome Tweeter</li>
+<li>Recommended Amplifier Power: 20 – 150W</li>
+<li>Frequency Response: 75Hz – 40kHz</li>
+<li>Sensitivity: 90dB @ 1M, 2.83V</li>
+<li>Nominal Impedance: 6 Ohms</li>
+<li>Crossover Frequencies: 2.5kHz</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Stage A135C Center Loudspeaker</li>
+<li>Owner’s Manual</li>
+<li>Warranty Card</li>
+<li>4 x Feet Pads</li>
+<li>4 x Metal Levelling Feet</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:159</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Subwoofers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916180103219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>JBL-577045-STA-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916179775539</id>
+    <published>2019-05-28T12:08:48-04:00</published>
+    <updated>2019-05-28T12:08:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-reflect-mini-2-wireless-in-ear-sport-headphones-with-three-button-remote-and-microphone"/>
+    <title>JBL Reflect Mini 2 Wireless In-Ear Sport Headphones with Three-Button Remote and Mic</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16070_752__1.jpg?v=1559819316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing a wireless headphone designed to match your love for sport with your active lifestyle. The JBL Reflect Mini 2 fits every ear shape and size with ergonomic silicone tips and patented Freebit™ enhancers, available in 3 sizes for customized comfort. Its sweatproof, lightweight aluminum design is stylish and feels effortless, while a 3-button remote and mic keeps music and calls conveniently close at hand. Its reflective cable keeps you more visible during nighttime routines. And with 10 hours of battery life powering signature JBL sound, you can keep moving without ever missing a beat. With the touch of a button you can conveniently manage your calls and access the voice assistant.</p>
+
+<h6>JBL Signature Sound</h6>
+<p>The world renowned JBL sound that has been perfected for over 70 years tuned to provide the most epic sounding soundtrack for your active life.</p>
+
+<h6>10 hour battery life with speed charge</h6>
+<p>Wireless Bluetooth streams audio for 10 hours to keep you rocking from a morning gym session all the way through a full day’s work. Quickly recharge the battery in 15 minutes for an hour of playback time.</p>
+
+<h6>Lightweight</h6>
+<p>Featherweight, durable aluminum construction for long lasting comfort in all of your athletic or everyday activities.</p>
+
+<h6>Package contains:</h6>
+<ul>
+<li>Reflect Mini 2</li>
+<li>3 Sizes of ergonomic sport ear tips (S, M, L)</li>
+<li>3 x Enhancer</li>
+<li>Sport Carry pouch</li>
+<li>Safety Sheet</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:131</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916179775539</id>
+      <title>Black</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>JBL-208183-REF-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916179775539</id>
+      <title>Blue</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>JBL-984491-REF-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916179349555</id>
+    <published>2019-05-28T12:08:26-04:00</published>
+    <updated>2019-05-28T12:08:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-reflect-fit-in-ear-wireless-headphones-with-heart-rate-monitor"/>
+    <title>JBL Reflect Fit In-Ear Wireless Headphones with Heart-Rate Monitor</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16261_692__1_c88bff0d-c093-4161-b682-396d6fdfd728.jpg?v=1559818989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JBL Reflect Fit Heart Rate wireless sports headphones with JBL Signature Sound are designed to help you train in the zone. With its heart monitor technology, compatible with most Heart Rate enabled fitness apps, you can stream the pulse readings directly to your phone for data analysis and receive real-time updates through the headphones with just a single touch. The secure fit ergonomics design adapts to your movement for a distraction-free wearing experience. This, combined with its sweat-proof construction, makes the JBL Reflect Fit the perfect workout companion. The Reflect Fit is not only great for workouts, it’s also the perfect partner for any moment of your active lifestyle: thanks to the extended 10-hour battery life and integrated microphone with vibration call alert, you will never miss a beat or a call.</p>
+
+<h6>JBL Signature Sound</h6>
+<p>For over 70 years, JBL has engineered the precise, naturally articulated sound found in high-end cinemas, arenas and recording studios around the world. That legendary JBL sound is now available anywhere personal audio travels.</p>
+
+<h6>Live Heart Rate feedback</h6>
+<p>Get instant Heart Rate read-outs without touching your phone or device.</p>
+
+<h6>Hands-free calls + Vibration Alerts</h6>
+<p>Never miss a call thanks to Call Vibration Alerts, the headphones vibrate to alert you of an incoming call.</p>
+
+<h6>Package contains:</h6>
+<ul>
+<li>Pair of JBL Reflect Fit Headphones</li>
+<li>3 Sizes of ergonomic sport ear tips (S, M, L)</li>
+<li>Carrying pouch</li>
+<li>Safety Sheet</li>
+<li>Quick Start Guide</li>
+<li>Warning Card</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:130</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916179349555</id>
+      <title>Black</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>JBL-853283-REF-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916179349555</id>
+      <title>Red</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>JBL-814783-REF-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916179349555</id>
+      <title>Blue</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>JBL-755484-REF-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916179349555</id>
+      <title>Teal</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>JBL-636719-REF-TE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916179152947</id>
+    <published>2019-05-28T12:08:11-04:00</published>
+    <updated>2019-05-28T12:08:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-premium-sound-2-0-channel-home-theater-stereo-system"/>
+    <title>JBL Premium Sound 2.0-Ch Home Theater Stereo System</title>
+    <s:type>Home Cinema</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/12072_591__1_cd51e78b-dc74-494e-8ddf-0ba4e1ab4fd2.jpg?v=1559059703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Home Cinema<br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now the music on your device can be in the room, without wires or complex speaker configurations. Inspired by the legendary JBL Century L100 studio monitor, the JBL Authentic L8 blends classic acoustic speaker designs and advanced wireless technology. It offers a real, gloss black wooden enclosure, exceptional audio quality and easy wireless connectivity to a wide range of devices via AirPlay, DLNA and Bluetooth. Harman Signal Doctor technology improves the quality of compressed audio streams making your music sound amazing, wherever it comes from.</p>
+
+<p>The free JBL Music Flow app lets you easily control the speaker with iOS or Android mobile devices, and even charge compatible mobile devices on the speaker's built-in USB ports, or wirelessly with the optional Qi charging pad. Enjoy studio- quality JBL stereo sound from a single, stylish enclosure.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Wireless connectivity for AirPlay, DLNA and Bluetooth devices</li>
+<li>Stunning, full-range sound with 24 bit/ 96 kHz studio quality electronics</li>
+<li>Easy setup and configuration via JBL Music Flow mobile app</li>
+<li>USB charging for your mobile devices</li>
+<li>1/8" (3.5mm) audio input for use with wired devices</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:219</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916179152947</id>
+      <title>Default Title</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku>JBL-697118-PRE-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916179054643</id>
+    <published>2019-05-28T12:07:56-04:00</published>
+    <updated>2019-05-28T12:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-playlist-wireless-speaker-with-chromecast-built-in"/>
+    <title>JBL Playlist Wireless Speaker with Chromecast Built-In</title>
+    <s:type>Portable Speakers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/14094_045__3_8ebd62bc-3334-4f09-82d9-e3029109239b.jpg?v=1559820232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Portable Speakers<br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JBL Playlist speakers have Chromecast built-in, so you can instantly cast music from your favorite music app, radio, or podcast to your speaker using your smart device. You can control the speakers from anywhere in the house on your iOS or Android device(s) in the house on your device(s) -- iPhone®, iPad®, Android™ phone or tablet, Mac® or Windows® laptop, or Chromebook.</p>
+
+<h6>Easily cast music to your speakers</h6>
+<p>With Chromecast built-in, just tap the Cast button from your favorite mobile music apps to instantly start playing on the speakers. Then control the speakers right from your phone -- search, play, pause, and turn up the volume -- anywhere in the house.</p>
+
+<h6>Listen to your favorites, anytime</h6>
+<p>Choose from millions of songs from popular music services like Spotify, Pandora, Google Play™ Music, TuneIn and iHeartRadio or catch up on current events with NPR podcasts. New apps are constantly being added so there’s no end to the music, online radio stations, and podcasts you can enjoy. Discover more at https://www.google.com/cast/apps/.</p>
+
+<h6>Spotify Connect, a better way to listen at home</h6>
+<p>Play Spotify through your speakers, laptop and TV, using the Spotify app as a remote. Use the "One Touch" Play feature on the Playlist speaker to play your favorite playlist instantly.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>30-watt Playback System with 2x 2.25" Speakers</li>
+<li>Chromecast and Bluetooth Audio Receivers</li>
+<li>Dual-band Wi-Fi Support</li>
+<li>Chromecast and Bluetooth Audio Receivers</li>
+<li>Dual-band Wi-Fi Support</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Playlist Wireless Speaker</li>
+<li>Regional Power Cord(s)</li>
+<li>Quick Start Guide</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:240</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916179054643</id>
+      <title>Blue</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>JBL-773433-PLA-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916179054643</id>
+      <title>White</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>JBL-635355-PLA-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916178661427</id>
+    <published>2019-05-28T12:07:23-04:00</published>
+    <updated>2019-05-28T12:07:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-live-650btnc-wireless-over-ear-nc-headphones"/>
+    <title>JBL Live 650BTNC Wireless Over-Ear NC Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/71pP4VbeXJL._SL1500_d8ba3b8e-8851-4a9d-8758-9c9cb2a78911.jpg?v=1559820313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In your world, music is essential, so slip on a pair of JBL Live 650BTNC wireless over-ear noise-cancelling headphones and elevate your day. Equipped with powerful 40mm drivers, JBL Live 650BTNC headphones deliver JBL Signature Sound punctuated with enhanced bass so every track on every playlist pops. And when the music is the only thing that matters, the active Noise-Cancelling technology allows you to block-out ambient sounds so nothing disturbs your groove. Need some help getting through the day? Easily access the Google Assistant or Amazon Alexa with a tap on the ear cup and play your favorite playlist, text your friend or check the weather and much more, without glancing at your phone. But that’s not all. With a cool, lightweight and comfortable design, you’ll enjoy up to 30 hours (20 hours with BT + ANC) of music streaming with 2 hours of recharging time, multi-point connection capabilities and a convenient detachable cable with remote/mic, that lets you play on even when the battery goes off. Rock out uninterrupted with the JBL Live 650BTNC headphones.</p>
+
+<h6>JBL Signature Sound</h6>
+<p>40mm drivers and a sound signature that can be found in the most famous venues all around the world.</p>
+
+<h6>Press play. Mute distractions</h6>
+<p>Keep the noise away and stay focused on the music with Active Noise Cancelling.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Google Voice Assistant compatible</li>
+<li>Hands-free calls</li>
+<li>Multi Point Connection</li>
+<li>Comfort-fit fabric headband</li>
+<li>My JBL Headphones App</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Live 650BTNC headphones</li>
+<li>Charging Cable</li>
+<li>Carrying Pouch</li>
+<li>Warranty Card</li>
+<li>Aux Cable</li>
+<li>Safety Sheet</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:177</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916178661427</id>
+      <title>Black</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-693574-LIV-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916178661427</id>
+      <title>Blue</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-341719-LIV-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916178661427</id>
+      <title>White</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-267687-LIV-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916177940531</id>
+    <published>2019-05-28T12:06:40-04:00</published>
+    <updated>2019-05-28T12:06:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-live-200-in-ear-neckband-headphones"/>
+    <title>JBL Live 200 In-Ear Neckband Headphones</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/live200_alt_black-1605x1605px_2759d426-fa10-421a-9b00-2cbbb07f8a24.png?v=1559820460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make the most out of every moment and keep in touch with your world in style with the JBL Live 200BT. Delivering JBL Signature Sound with wireless streaming along with their flexible neckband, these in-ear headphones allow you to connect in comfort while on the go. Enjoy the great sound delivered by their 8mm drivers with their punchy bass performance. Stream your playlists for up to 10 hours and then fully recharge the battery in just 2 hours. Crafted with premium materials in a wide range of colors, the JBL Live 200BT headphones keep you connected thanks to a 3-button remote, microphone and multi-point connection capabilities for seamless switching between devices. Easy access to voice assistants enables seemless integration to every part of your world. And to further elevate your comfort and on-the-go convenience, users will enjoy their magnetic buds for tangle-free use as well as the soft touch ear-tips included in multiple sizes.</p>
+
+<h6>JBL Signature Sound</h6>
+<p>The legendary JBL Signature Sound as found at concerts, in the studio and in the home is now available in a headphone.</p>
+
+<h6>10 Hours battery life - 2 Hours recharging time</h6>
+<p>Enjoy long-lasting fun and fast recharging thanks to best in class 10 hours of play time and 2 hour quick charge.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Powered by large 8mm drivers</li>
+<li>Enhanced bass performance and legendary JBL Signature</li>
+<li>Accented with premium aluminum finishes</li>
+<li>Crafted to deliver comfort and on-the-go</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Live 200BT</li>
+<li>3 x Sizes of ear tips</li>
+<li>Carry pouch</li>
+<li>Warranty Card</li>
+<li>Safety Sheet</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:160</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177940531</id>
+      <title>Black</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-224982-LIV-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177940531</id>
+      <title>Blue</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-275801-LIV-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177940531</id>
+      <title>Green</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-559622-LIV-GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177940531</id>
+      <title>Red</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-938322-LIV-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177940531</id>
+      <title>White</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-274395-LIV-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916177449011</id>
+    <published>2019-05-28T12:06:15-04:00</published>
+    <updated>2019-05-28T12:06:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-live-100-in-ear-headphones"/>
+    <title>JBL Live 100 In-Ear Headphones</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/live100_alt_black-1605x1605px.png?v=1559820632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make the most out of your day and keep in touch with your world in style with the new JBL Live 100. Powered by large 8mm drivers, they deliver enhanced bass performance and legendary JBL Signature Sound, while elevating the moment. Accented with premium aluminum finishes, the JBL LIVE 100 headphones not only look cool but keep you connected thanks to their universal remote and a microphone which enables hands-free calls and voice assistance when used with most smart phones. Crafted to deliver comfort and on-the-go convenience, users will appreciate the multiple sized ear-tips and tangle-free fabric cable as well as a lightweight carrying case for easy storage.</p>
+
+<h6>JBL Signature Sound</h6>
+<p>Large 8mm drivers drive full-bandwidth, powerful sound.</p>
+
+<h6>Hands-free calls with voice assistant</h6>
+<p>Easily control music, phone calls and access your voice assistant with the one-button remote control and microphone.</p>
+
+<h6>Comfort fit</h6>
+<p>Headphones are ergonomically designed to fit the unique contour of listeners’ ears. Listeners experience unprecedented comfort—allowing a longer, more enjoyable experience.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Powered by large 8mm drivers</li>
+<li>Enhanced bass performance and legendary JBL Signature</li>
+<li>Accented with premium aluminum finishes</li>
+<li>Crafted to deliver comfort and on-the-go</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Live 100</li>
+<li>3 x Sizes of ear tips</li>
+<li>Carry pouch</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:149</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177449011</id>
+      <title>Black</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-510807-LIV-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177449011</id>
+      <title>Red</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-187606-LIV-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177449011</id>
+      <title>White</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-415741-LIV-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916177285171</id>
+    <published>2019-05-28T12:06:00-04:00</published>
+    <updated>2019-05-28T12:06:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-link-20-voice-activated-portable-speaker"/>
+    <title>JBL Link 20 Voice Activated Portable Speaker</title>
+    <s:type>Portable Speakers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15570_163__1_964fec71-2198-4dae-b423-06beaa4bdee4.jpg?v=1559820773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Portable Speakers<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JBL Link 20 is a voice activated portable speaker with Wi-Fi and Bluetooth® enabled that delivers rich stereo sound. It has the Google Assistant built-in. It’s your own personal Google. Always ready to help. You can ask it questions. And tell it to do things. The more you use it, the more useful it gets. Just start with “Ok Google” – a simple voice request triggers your JBL Link 20 to play music, podcasts or radio from services like Google Play Music, Spotify, Pandora and more. This compact speaker is powered by a 6000mAh rechargeable Li-ion battery that offers 10 hours of continuous, high-quality audio playtime. Sporting durable, waterproof fabric materials, JBL Link 20 is ready to take the party everywhere. And with the Chromecast built-in, you can instantly start streaming to JBL Link 20 from your favorite music apps.</p>
+
+<h6>Get help from your Google Assistant</h6>
+<p>JBL Link 20 has the Google Assistant built-in. It is your own personal Google. Always ready to help.</p>
+
+<h6>Hands-free voice control</h6>
+<p>Far-field voice recognition allows for easy hands-free operation. Ask questions across the room and the JBL Link 20 will respond. Check out compatible services and more.</p>
+
+<h6>Simple setup with the Google Home app on iOS &amp; Android</h6>
+<p>With the free Google Home app on iOS &amp; Android, you can easily setup and manage your JBL Link 20.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Chromecast built-in</li>
+<li>24 bit/96kHz High quality sound, powered by the cloud</li>
+<li>Multi-room playback across speakers that have Chromecast built-in</li>
+<li>2.4/5GHz Wi-Fi connection network support</li>
+<li>Wireless Bluetooth® streaming</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Link 20</li>
+<li>USB Cable</li>
+<li>USB Adapter</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:281</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Light Grey</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Portable</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177285171</id>
+      <title>Black</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>JBL-729961-LIN-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177285171</id>
+      <title>White</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>JBL-709729-LIN-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+    <published>2019-05-28T12:05:34-04:00</published>
+    <updated>2019-05-28T12:05:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-go-2-portable-bluetooth-waterproof-speaker"/>
+    <title>JBL Go2 Portable Bluetooth Speaker</title>
+    <s:type>Portable Speakers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16568_174__1_ae3d9105-352b-40d7-960e-5d2b80795ad8.jpg?v=1560192339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Portable Speakers<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JBL Go 2 is a full-featured waterproof Bluetooth speaker to take with you everywhere. Wirelessly stream music via Bluetooth for up to 5 hours of continuous JBL quality sound. Making a splash with its new IPX7 waterproof design, Go 2 gives music lovers the opportunity to bring their speaker poolside, or to the beach. Go 2 also offers crystal clear phone call experience with its built-in noise-cancelling speakerphone. Crafted in a compact design with 12 eye-catching colors to choose from, Go 2 instantly raises your style profile to all-new levels.</p>
+<h6>Wireless Bluetooth Streaming</h6>
+<p>Wirelessly stream high-quality sound from your smartphone or tablet.</p>
+<h6>Rechargeable Battery</h6>
+<p>Built-in, rechargeable Li-ion battery supports up to 5 hours of playtime.</p>
+<h6>Waterproof design</h6>
+<p>The IPX7 waterproof housing makes Go 2 perfect for worry-free listening by the beach or poolside, or even in it.</p>
+<h6>Features:</h6>
+<ul>
+<li>Wireless Bluetooth Streaming</li>
+<li>JBL Connect+</li>
+<li>Voice Assistant Integration</li>
+<li>JBL Bass Radiator</li>
+</ul>
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Go 2</li>
+<li>Micro USB Cable for charging</li>
+<li>Safety Sheet</li>
+<li>Quick Start Guide</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:145</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Champagne</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Light Blue</s:tag>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Portable</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Red</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-711474-GO--RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Black</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-827477-GO--BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Blue</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-703221-GO--BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Champagne</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-147876-GO--CH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Cinnamon</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-301394-GO--CI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Cyan</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-838517-GO--CY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Grey</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-328566-GO--GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Green</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-647058-GO--GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Mint</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-470622-GO--MI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Navy</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-569001-GO--NA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Orange</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-490713-GO--OR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916177055795</id>
+      <title>Yellow</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>JBL-688367-LIN-YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916176597043</id>
+    <published>2019-05-28T12:04:53-04:00</published>
+    <updated>2019-05-28T12:04:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-flip-4-waterproof-portable-bluetooth-speaker"/>
+    <title>JBL Flip 4 Waterproof Portable Bluetooth Speaker</title>
+    <s:type>Portable Speakers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/13549_790__2_73a2a189-b3d5-4ec8-a4c3-b506e1beab70.jpg?v=1559820925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Portable Speakers<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JBL Flip 4 is the next generation in the award-winning Flip series; it is a portable Bluetooth speaker that delivers surprisingly powerful stereo sound. This compact speaker is powered by a 3000mAh rechargeable Li-ion battery that offers up to 12 hours of continuous, high-quality audio playtime. Sporting durable, waterproof fabric materials that are available in 6 vibrant colors, Flip 4 is the all purpose, all weather companion that takes the party everywhere. It also features a built-in noise and echo cancelling speakerphone for crystal clear conference calls, and JBL Connect+ technology that can wirelessly links more than 100 JBL Connect+ enabled speakers together to amplify the listening experience. With a simple button press, you can activate and talk to Siri or Google Now from your JBL Flip 4.</p>
+<h6>Wireless Bluetooth Streaming</h6>
+<p>Wirelessly connect up to 3 smartphones or tablets to the speaker and take turns playing powerful stereo sound.</p>
+<h6>12 hours of playtime</h6>
+<p>Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime.</p>
+<h6>IPX7 Waterproof</h6>
+<p>No more worrying about rain or spills; you can even submerge Flip 4 in water.</p>
+<h6>Features:</h6>
+<ul>
+<li>Wireless Bluetooth Streaming</li>
+<li>JBL Connect+</li>
+<li>Voice Assistant Integration</li>
+<li>JBL Bass Radiator</li>
+</ul>
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Flip 4</li>
+<li>JBL Micro USB Cable</li>
+<li>Safety Sheet</li>
+<li>Quick Start Guide</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:211</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Camo</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Portable</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916176597043</id>
+      <title>Black</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>JBL-883413-FLI-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916176597043</id>
+      <title>Blue</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>JBL-619195-FLI-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916176597043</id>
+      <title>Grey</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>JBL-883235-FLI-GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916176597043</id>
+      <title>Red</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>JBL-743364-FLI-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916176597043</id>
+      <title>Teal</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>JBL-540457-FLI-TE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916176597043</id>
+      <title>White</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>JBL-883655-FLI-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916176597043</id>
+      <title>Camouflage</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>JBL-434349-FLI-CA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916175712307</id>
+    <published>2019-05-28T12:04:12-04:00</published>
+    <updated>2019-05-28T12:04:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-everest-310-on-ear-wireless-headphones-with-google-assist"/>
+    <title>JBL Everest 310 On-Ear Wireless Headphones, with Google Assist</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/jbl_everest_310_brown_hero-1605x1605px_2.png?v=1559755467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slip on the JBL Everest 310 and you’ll experience up to 20 hours of wireless freedom, the thrill of mind blowing, Legendary JBL Pro Audio sound and the ergonomic comfort offered by premium material finishes and a snug fit. Share Me 2.0 technology allows you to connect and share your music with friends, via Bluetooth. A quick 2-hour recharge, a sleek flat-fold design and a compact hard carrying case make these headphones the perfect companion for your busy lifestyle. A built in microphone facilitates crystal clear hands-free calls, and easy controls on the ear cup let you take charge of your music. Available in four metallic finishes, these headphones put your passion and life, front and center. Dare to listen.</p>
+
+<h6>20 Hour battery, quick recharge in 2 hours</h6>
+<p>Micro USB charging built in battery provides 20 hours of playing time, with quick recharge in just 2 hours.</p>
+
+<h6>Echo cancelling microphone</h6>
+<p>Built in microphone with echo cancellation technology for crystal clear, hands-free calls.</p>
+
+<h6>Comfort fit</h6>
+<p>Headphones are ergonomically designed to fit the unique contour of listeners’ ears. Listeners experience unprecedented comfort—allowing a longer, more enjoyable experience.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Bluetooth Connectivity: wirelessly enjoy all your music</li>
+<li>Legendary JBL Pro Audio Sound: Experience the same elevated experience and incredible sound JBL has been delivering to concert halls, studios and living rooms for 70 years.</li>
+<li>Connect and Share: With ShareMe 2.0 technology, now you can pair your headphones with other Bluetooth headphones to share your music, videos, and games across any brand – wirelessly.</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>Headphones</li>
+<li>Detachable remote cable</li>
+<li>Charging cable</li>
+<li>Carrying case</li>
+<li>Warranty Card</li>
+<li>QSG</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:251</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Purple</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916175712307</id>
+      <title>Brown</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-526091-EVE-BR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916175712307</id>
+      <title>Gun Metal</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-379228-EVE-GU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916175712307</id>
+      <title>Purple</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-332594-EVE-PU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916175712307</id>
+      <title>Silver</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-555699-EVE-SI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916175351859</id>
+    <published>2019-05-28T12:03:57-04:00</published>
+    <updated>2019-05-28T12:03:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-endurance-peak-waterproof-sport-in-ear-headphones-with-built-in-remote-and-microphone"/>
+    <title>JBL Endurance Peak Waterproof Sport In-Ear Headphones with Built-In Remote and Mic</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/jbl1_068c39fa-2534-4627-903f-1594ff6482f7.jpg?v=1559755285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            119.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Free yourself from all constraints and be ready to reach a new level of performance with the JBL Endurance PEAK headphones. Enjoy the freedom of a fully wireless workout without the need to recharge the headphones for as long as 28 hours (4h + 24h backup power). But if you feel like you still have more to give, it only takes 10 minutes of recharging for another hour of motivating music.</p>
+
+<p>Thanks to the PowerHook™ technology, the JBL Endurance PEAK headphones conveniently power on and off as you start wearing them, so they’re ready to attack each and every workout whenever you are. In addition, the PowerHook™ lets you switch off your TWS buds without reaching for your charging case each time. With their IPX7 waterproof design, the JBL Endurance PEAK are also guaranteed never to hurt or fall out and feature a flexible around the ears hook for extra security. In addition, the JBL Endurance PEAK headphones work in both mono and stereo mode and allow you to seamlessly control your sound or calls directly on the earpiece using their convenient touch controls. And when your workout is over, simply put your headphones in the rugged storage case.</p>
+
+<h6>Truly wireless to reach new peaks</h6>
+<p>The freedom of true wireless allows the music to take over and pushes you to higher peaks.</p>
+
+<h6>28 hours of combined playback</h6>
+<p>Enjoy more than a day of wireless audio, with 4 hours of continuous playback and 24 hours of backup power from the charging case.</p>
+
+<h6>PowerHook™</h6>
+<p>The flexible and secure ear hook design automatically turns the power on/off when putting on or taking off the earphones. These headphones can switch on and off without the need to replace them back in their case every time.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Waterproof</li>
+<li>8 Hour Battery Life</li>
+<li>Secure / Comfort Fit</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>Headphones</li>
+<li>3 sizes of ear tips</li>
+<li>Enhancer</li>
+<li>Charging Cable</li>
+<li>Charging Case</li>
+<li>Warranty Card</li>
+<li>Safety Sheet / QSG</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:150</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916175351859</id>
+      <title>Black</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>JBL-792443-END-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916175351859</id>
+      <title>Blue</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>JBL-499617-END-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916175351859</id>
+      <title>Red</title>
+      <s:price currency="USD">119.95</s:price>
+      <s:sku>JBL-903101-END-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916174860339</id>
+    <published>2019-05-28T12:03:23-04:00</published>
+    <updated>2019-05-28T12:03:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-endurance-500-jump-in-ear-bluetooth-sport-headphones"/>
+    <title>JBL Endurance 500 Jump In-Ear Bluetooth Sport Headphones</title>
+    <s:type>Earbuds</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/jbl-endurance-jump_alt2_black-1605x1605px_new_d4abc796-728e-441c-a9f8-f4082f6f5059.jpg?v=1559755126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Earbuds<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JBL Endurance JUMP headphones have your back when it’s time to take your workout leaps and bounds ahead. Guaranteed never to hurt or fall out, these buds let you turn on the energy – instantly. Slip on the PowerHook™ design and they automatically power on. Move in confidence with a wireless neckband and TwistLock™ ear tips. Endure the elements with IPX7 waterproofing and 8-hours of battery life. And if that’s not enough, be ready for more in a few minutes thanks to a convenient Speed Charge battery.</p>
+
+<h6>8 hours of wireless playback with Speed Charge battery</h6>
+<p>Micro USB charging built in battery provides 20 hours of playing time, with quick recharge in just 2 hours.</p>
+
+<h6>PowerHook™</h6>
+<p>Secure fit ear hook design, which automatically turns the power on/off when putting on or taking off the earphones.</p>
+
+<h6>Never hurt. Never fall out.</h6>
+<p>Thanks to TwistLock™ and FlexSoft™ technologies, these headphones are lightweight and ergonomically built to ensure comfort and stability no matter the workout.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Waterproof</li>
+<li>8 Hour Battery Life</li>
+<li>Secure / Comfort Fit</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>Headphones</li>
+<li>3 sizes of ear tips</li>
+<li>Enhancer</li>
+<li>Charging cable</li>
+<li>Sport Carry Pouch</li>
+<li>Warranty Card</li>
+<li>Safety Sheet / QSG</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:145</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174860339</id>
+      <title>Black</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-538178-END-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174860339</id>
+      <title>Blue</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-851471-END-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174860339</id>
+      <title>Red</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-903190-END-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174860339</id>
+      <title>Teal</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-481287-END-TE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174860339</id>
+      <title>Yellow</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>JBL-215791-END-YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916174598195</id>
+    <published>2019-05-28T12:03:09-04:00</published>
+    <updated>2019-05-28T12:03:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-e65btnc-wireless-over-ear-noise-cancelling-headphones-with-mic-and-one-button-remote"/>
+    <title>JBL E65BTNC Wireless Over-Ear Noise-Cancelling Headphones with Mic and One-Button Remote</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15361_093__1_45d10175-63d4-4883-a349-c14257bd1516.jpg?v=1559755036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JBL E65BTNC headphones combine eye catching design and premium materials to deliver the world-renowned JBL Signature Sound with wireless convenience and superior active noise cancelling capabilities. With a soft, comfortable fabric headband and angled, form fitting, ear cushions for longer, more enjoyable and immersive listening sessions, the JBL E65BTNC headphones provide active noise-cancelling for both wired and wireless mode. They also provide 24 hours of battery life in Bluetooth mode (15 hours in Bluetooth and noise cancelling mode) and can be completely recharged in just two hours. Multi-tasking is made easy as the JBL E65BTNC headphones will seamlessly switch between two devices ensuring that you never miss a call while enjoying your favorite playlist or watching a movie. In addition, you will also enjoy a detachable, tangle free fabric cord with one button remote, 3 different color options and a flat folding design for easy transportation.</p>
+
+<h6>JBL Signature Sound</h6>
+<p>The legendary JBL Signature sound as found in theaters, arenas and studios around the world is now available in a headphone.</p>
+
+<h6>Active Noise Cancelling</h6>
+<p>Active noise cancelling reduces outside noise for a more immersive sound experience.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>24-hour battery life with Bluetooth on and ANC off; 15-hour battery life with Bluetooth on and ANC on</li>
+<li>2-hour charging for a full day entertainment</li>
+<li>Seamlessly switch between devices</li>
+<li>Comfort-fit fabric headband</li>
+<li>One-button remote with fabric cable</li>
+</ul>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL E65BTNC headphones</li>
+<li>Charging Cable</li>
+<li>Detachable Cable</li>
+<li>Warranty Card</li>
+<li>Warning Card</li>
+<li>Safety Sheet</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:212</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Light Grey</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174598195</id>
+      <title>Black</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>JBL-880673-E65-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174598195</id>
+      <title>Blue</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>JBL-669918-E65-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174598195</id>
+      <title>White</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>JBL-927583-E65-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916174434355</id>
+    <published>2019-05-28T12:02:57-04:00</published>
+    <updated>2019-05-28T12:02:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-e55bt-quincy-edition-wireless-over-ear-headphones"/>
+    <title>JBL E55BT Quincy Edition Wireless Over-Ear Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/E55BT_Quincy_Rose_Hero.jpg?v=1559754961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JBL E55BT wireless over-ear headphones bring the signature sound of JBL right to your ears. The E55BT is one of our most versatile packages ever, featuring up to 20 hours of battery life and an innovative, stylish fabric headband that emphasises your fashion quotient. The ergonomic around-ear design means that your entertainment continues and your fun factor gets amped up no matter what you’re doing – working, commuting, or just making your way around town. Multi-device connectivity allows you to seamlessly switch between two devices, so you never miss a call. With a sleek appearance, various color options and the added convenience of a detachable cable with remote and microphone, you’ll never want to be seen without your E55BT headphones.</p>
+<h6>Seamlessly switch between devices</h6>
+<p>Effortlessly switch from music on your portable device to a call from your phone, so that you never miss a call.</p>
+<h6>Comfort-fit fabric headband</h6>
+<p>Comfort-fit and stylish fabric headband complements the sleek look of the headphones.</p>
+<h6>Two-hour recharge time</h6>
+<p>A rapid two-hour charging gets you up to 20 hours of audio playback.</p>
+<h6>Features:</h6>
+<ul>
+<li>JBL Signature Sound: delivered by powerful 50mm drivers in a sleek, stylish design.</li>
+<li>Up to 20-hour battery life: Enjoy an entire day or more of wireless audio without having to plug your headphones back in to charge.</li>
+<li>Connect and Share: With ShareMe 2.0 technology, now you can pair your headphones with other Bluetooth headphones to share your music, videos, and games across any brand – wirelessly.</li>
+</ul>
+<h6>Package contains:</h6>
+<ul>
+<li>Headphones</li>
+<li>Detachable remote cable</li>
+<li>Charging cable</li>
+<li>Carrying case</li>
+<li>Warranty Card</li>
+<li>QSG</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label2:Our Selection</s:tag>
+    <s:tag>__stock:264</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Rose</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174434355</id>
+      <title>Dusty Rose</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-324120-E55-DU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174434355</id>
+      <title>Space Grey</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-393434-E55-SP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916174270515</id>
+    <published>2019-05-28T12:02:46-04:00</published>
+    <updated>2019-05-28T12:02:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-cruise-bluetooth-handlebar-speaker-kit"/>
+    <title>JBL Cruise Bluetooth Handlebar Speaker Kit</title>
+    <s:type>Portable Speakers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/71xgvlswl9l._sl1500_f9c4a3a6-e543-4aba-b0b9-bf09899f1639.jpg?v=1559059376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Portable Speakers<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JBL Cruise is a purpose built audio system specifically engineered for the needs of Motorcycle and Scooter applications. Far safer than using in-ear headphones, Cruise will provide more smiles per gallon. Easily stream music using any Bluetooth enabled device and keep it charged via the integrated USB port. A pair of 65mm transducers, powered by a built-in digital amplifier, produces a concert experience like no other. All of this technology and performance is packaged in glove friendly, IPX5 rated package that mounts to nearly any motorcycle or scooter utilizing our JBL's patent pending mirror integration mount. And for the rider that likes to customize, Cruise is easily paintable to match their style.</p>
+
+<h6>Wireless Bluetooth Streaming</h6>
+<p>Enjoy a JBL experience wirelessly via Bluetooth.</p>
+
+<h6>USB charge out</h6>
+<p>5V, 1A power output to charge Smartphones via USB.</p>
+
+<h6>IPX5 Waterproof</h6>
+<p>For outdoor use, no need to worry about the forecast.</p>
+
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Cruise</li>
+<li>6 x Installation Bolts</li>
+<li>6 x Installation Nuts</li>
+<li>Quick Start Guide</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:275</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916174270515</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.95</s:price>
+      <s:sku>JBL-950530-CRU-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+    <published>2019-05-28T12:01:53-04:00</published>
+    <updated>2019-05-28T12:01:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/jbl-clip-3-portable-waterproof-wireless-bluetooth-speaker"/>
+    <title>JBL Clip 3 Portable Waterproof Wireless Bluetooth Speaker</title>
+    <s:type>Portable Speakers</s:type>
+    <s:vendor>JBL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/16047_417__1_dcd9694a-a473-46e8-9368-d0aaadbce069.jpg?v=1560250249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JBL<br>
+        <strong>Type: </strong>Portable Speakers<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like no other, the JBL Clip 3 is a unique ultra-portable, ultra-rugged and waterproof Bluetooth® speaker that is small in size but with surprisingly big sound. The upgraded durable and fully integrated carabiner clips to your clothes, belt loop or backpack, making the Clip 3 your outdoor companion on every adventure. The Clip 3 is IPX7 waterproof and offers 10 hours of playtime, powered by a 1000mAh rechargeable Li-ion battery, allowing you to bring your music with you. A built-in noise and echo-cancelling speakerphone gives you crystal clear calls with the press of a button.</p>
+<h6>Sound to go</h6>
+<p>Never leave awesome sound at home again. Clip it on with the built-in carabiner, press play and make the moment pop.</p>
+<h6>Waterproof</h6>
+<p>A speaker and a submersible in one. Immerse yourself in sound that’s not afraid of a little H2O.</p>
+<h6>Features:</h6>
+<ul>
+<li>Wireless Bluetooth Streaming</li>
+<li>10 Hours of Playtime</li>
+<li>IPX7 Waterproof</li>
+<li>Integrated Carabiner</li>
+<li>Speakerphone</li>
+</ul>
+<h6>Package contains:</h6>
+<ul>
+<li>JBL Clip 3</li>
+<li>Micro USB Cable for charging</li>
+<li>Safety Sheet</li>
+<li>Quick Start Guide</li>
+<li>Warranty Card</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:214</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_JBL</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Camo</s:tag>
+    <s:tag>Color_Champagne</s:tag>
+    <s:tag>Color_Dark Grey</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Color_Rose</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Portable</s:tag>
+    <s:tag>Portable Speakers</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+      <title>Black</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>JBL-580619-CLI-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+      <title>Camo</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>JBL-240001-CLI-CA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+      <title>Forest Green</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>JBL-785065-CLI-FO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+      <title>Grey</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>JBL-443532-CLI-GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+      <title>Pink</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>JBL-517052-CLI-PI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+      <title>Red</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>JBL-806041-CLI-RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+      <title>Sand</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>JBL-443554-CLI-SA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+      <title>Teal</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>JBL-989869-CLI-TE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916173156403</id>
+      <title>White</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>JBL-803211-CLI-WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

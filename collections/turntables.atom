@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehouse-theme-metal.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehouse-theme-metal.myshopify.com/collections/turntables.atom"/>
+  <title>Warehouse - Metal</title>
+  <updated>2019-05-28T12:35:36-04:00</updated>
+  <author>
+    <name>Warehouse - Metal</name>
+  </author>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916218409011</id>
+    <published>2019-05-28T12:35:36-04:00</published>
+    <updated>2019-05-28T12:35:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-ps-hx500-hi-res-usb-turntable"/>
+    <title>Sony PS-HX500 Hi-Res USB Turntable</title>
+    <s:type>Turntables</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/11910_163__1_d6abac00-2eb0-4f32-ab5b-40a3b1be2c70.jpg?v=1559124626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Turntables<br>
+        <strong>Price: </strong>
+            398.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet the turntable that plays records and lets you convert tracks to portable, Hi-Res Audio for the authentic sound of vinyl that goes with you. Sit back and enjoy superior quality analog sound or plug it into your PC to digitally capture the music at its best for personal listening on compatible Hi-Res Audio players. It's vinyl reborn.</p>
+<p>Enjoy all the smooth and warm sound expressions of your vinyl thanks to high-quality audio technologies that ensure the best possible analog playback. The integrated shell improves durability and stabilizes the cartridge for superior focusing and dimensionality of sound, while its lightweight structure improves traceability.</p>
+<em>Supports both phono and line output so you can play through integrated amp or external phono EQ.Turntable Speed - 33 1/3 r/min, 45 r/min.</em>
+<h6>High-quality audio technology for the best analog sound</h6>
+<p>Enjoy all the smooth and warm sound expressions of your vinyl thanks to high-quality audio technologies that ensure the best possible analog playback.</p>
+<h6>New tonearm design</h6>
+<p>The integrated shell improves durability and stabilizes the cartridge for superior focusing and dimensionality of sound, while its lightweight structure improves traceability.</p>
+<h6>Built-in Phono EQ</h6>
+<p>Supports both phono and line output so you can play through integrated amp or external phono EQ.</p>
+<h6>Digitally capture analog in Hi-Res Audio</h6>
+<p>Breathe new life into analog masterpieces with Hi-Res audio up to DSD quality. Just hook up the PS-HX500 turntable to your PC via USB, play a record and digitally archive the music from your favorite vinyl recordings in Hi-Res.</p>
+<h6>Vinyl goes portable</h6>
+<p>The HX500's supplied software lets you use a PC or Mac to conveniently edit tracks from both sides of an album and transfer them in high resolution to a compatible portable player or device for playback—anywhere and anytime.</p>
+<h6>Stability in motion</h6>
+<p>The PS-HX500 turntable uses the latest techniques to deliver extremely stable rotation for optimal and natural delivery of your music.</p>
+<h6>Features:</h6>
+<ul>
+<li>Highly stable belt drive system: the optimized spindle-bearing construction stabilizes the belt drive to achieve natural sound reproduction.</li>
+<li>High quality 0.20-inch rubber mat: excellent adherence to the record’s surface minimizes unnecessary resonance for clean sound.</li>
+<li>Aluminum die cast platter: the high-inertia aluminum die cast platter offers superb balance between strength and mass.</li>
+<li>Acoustic-grade MDF cabinet: the 1.18-inch thick MDF cabinet has excellent sonic characteristics for accurate soundstage reproduction.</li>
+<li>Insulated structure: the entire turntable structure is thoroughly insulated, including rubber dampers to eliminate vibration from racks and other peripherals.</li>
+<li>Glass epoxy circuit board: using glass epoxy resin for the circuit board helps to provide better sound quality and stability.</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:137</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218409011</id>
+      <title>Default Title</title>
+      <s:price currency="USD">398.00</s:price>
+      <s:sku>SON-569350-PS--DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916204187699</id>
+    <published>2019-05-28T12:22:17-04:00</published>
+    <updated>2019-05-28T12:22:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/pioneer-pl-990-automatic-stereo-turntable"/>
+    <title>Pioneer PL-990 Automatic Stereo Turntable</title>
+    <s:type>Turntables</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/11337_041__1_2371cb96-e9a6-41e3-a153-5fe90ebf0744.jpg?v=1559060540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Turntables<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The PL-990 is a fully automatic turntable with a built-in phono equalizer that has the ability to connect directly to a line or auxiliary input. It also includes a moving magnet cartridge that has a diamond stylus.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Two speeds so you can play LPs and 45s</li>
+<li>Fully automatic operation means you push a single button to play a record and the unit automatically suts itself off</li>
+<li>Low-mass straight tone arm: Highly sensitive and resistant to resonance, track records better</li>
+<li>Universal-type cartridge connector</li>
+<li>Moving magnet cartridge included</li>
+<li>Built-in phono Equalizer - Simply connect to any auxilliary/line Input on your amplifier or mini Audio system</li>
+<li>P-mount cartridge</li>
+<li>Low-vibration, belt-drive design</li>
+<li>Rubber platter mat</li>
+<li>Vibration-absorbing feet</li>
+<li>Hinged dust cover</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:262</s:tag>
+    <s:tag>Brand_Pioneer</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916204187699</id>
+      <title>Default Title</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>PIO-987561-SE--DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916202123315</id>
+    <published>2019-05-28T12:21:23-04:00</published>
+    <updated>2019-05-28T12:21:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/marantz-tt42-fully-automatic-belt-drive-turntable-with-cartridge"/>
+    <title>Marantz TT42 Fully Automatic Belt Drive Turntable</title>
+    <s:type>Turntables</s:type>
+    <s:vendor>Marantz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/71CLrXGeyGL._SL1500_5294da24-1be6-4a63-8ef5-c0f0377818bf.png?v=1559060487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marantz<br>
+        <strong>Type: </strong>Turntables<br>
+        <strong>Price: </strong>
+            329.00 - 359.00
+            <a href="https://warehouse-theme-metal.myshopify.com/products/marantz-tt42-fully-automatic-belt-drive-turntable-with-cartridge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Combining classic turntable design with modern audio technologies, the Marantz TT42 Turntable plays back your vinyl collection with stunning audio quality. This turntable features a fully automatic mechanism that plays records with a touch of a button. A low-coloration tone arm, DC servo motor, and belt drive ensure pristine, interference-free playback.</p>
+
+<ul>
+<li>Enjoy your vinyl collection with stunning audio quality thanks to modern audio technologies.</li>
+<li>Low-coloration tone arm, DC servo motor, and belt drive ensure pristine, interference-free playback.</li>
+</ul>
+
+<h6>Vinyl Record Playing with Modern Convenience</h6>
+<p>Have you noticed the resurgence of vinyl record sales in recent years? Fueled by the fact that many treasured albums have not been issued in digital format, and with newer artists continuing to release music on vinyl, turntables are popping up in living rooms all over the world.</p>
+
+<p>The Marantz TT42 Turntable combines old school record playing with convenient, high-performance features. The turntable is fully automatic: with a push of the "play" button, the tone arm precisely lifts itself onto the record groove, saving you the trouble of having to manually position the stylus. Once playback has concluded, the tone arm safely returns to its resting position without scuffing your record.</p>
+
+<h6>A Quality Mechanism for High-Fidelity Playback</h6>
+<p>The TT42 turntable is outfitted with a low-coloration tone arm that resists resonance for a clear, balanced sound. A high quality, moving magnet cartridge is preset at the factory for proper tracking and smooth response. In addition, the turntable's DC servo belt drive keeps the motor running at a constant speed for optimum performance. The TT42 is designed to produce a stunning, nuanced, and distortion-free audio performance.</p>
+
+<p>A version of the TT42 with a phono preamp, the TT42P, which features built-in phono input circuitry, is also available to accommodate multi-channel receivers that lack a proper phono input.
+</p>
+
+<p>The Marantz TT42 Turntable comes complete with a clear plastic dust cover and is backed by a three-year limited warranty, subject to the full warranty terms and conditions.</p>
+
+<h6>Package contains:</h6>
+<ul>
+<li>TT42 Turntable</li>
+<li>Plastic Dust Cover</li>
+<li>User's Manual</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:279</s:tag>
+    <s:tag>Brand_Marantz</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202123315</id>
+      <title>Cartridge</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku>MAR-913764-TT4-CA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202123315</id>
+      <title>On-Board Phono EQ</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>MAS-253054-DYN-ON</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916201926707</id>
+    <published>2019-05-28T12:21:19-04:00</published>
+    <updated>2019-05-28T12:21:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/marantz-tt-15s1-reference-belt-drive-turntable-with-cartridge"/>
+    <title>Marantz TT-15S1 Reference Belt Drive Turntable with Cartridge</title>
+    <s:type>Turntables</s:type>
+    <s:vendor>Marantz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/51tge77swjl._sl1280_b0ce4a0d-b818-4bad-af83-8ee389c48eaf.jpg?v=1559060482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marantz<br>
+        <strong>Type: </strong>Turntables<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Analog recording is still very alive. Quality turntables are still in demand. Digital discs simply set new performance standards that turntables must meet. Many cherished records may never be issued on digital formats. Good turntables are now more important than ever. Marantz embraces an audiophile quality turntable with AC servo belt-drive and low-coloration tone arm to answer the need for a high performance source component for the analog record.</p>
+<h6>General specifications:</h6>
+<ul>
+<li>Low-Resonance High-Density Acrylic Chassis and Platter</li>
+<li>Floating Motor Mount Construction</li>
+<li>Asynchronous AC Motor</li>
+<li>Belt Drive System with Endless Silicon Belt</li>
+<li>Anodized Aluminum Straight Type Tone Arm</li>
+<li>Magnetic Type Anti-Skating Mechanism</li>
+<li>Fine Adjustable Counter Weight</li>
+<li>Solid Aluminum 3 points Support Feet</li>
+<li>Wood Base, High Quality MM Cartridge</li>
+<li>"Clever Clamp" by Souther Engineering</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:298</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Brand_Marantz</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$800 to $1500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916201926707</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1499.00</s:price>
+      <s:sku>MAR-632313-TT4-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916163063859</id>
+    <published>2019-05-28T11:51:19-04:00</published>
+    <updated>2019-05-28T11:51:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn70sp-replacement-stylus"/>
+    <title>Audio-Technica VMN70SP Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn70sp_1_sq.jpg?v=1559058682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM670SP</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Conical (3mil) stylus</li>
+<li>Nude Rectangular Shank construction</li>
+<li>Grey</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:297</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916163063859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>CAM-685854-AUD-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162998323</id>
+    <published>2019-05-28T11:51:16-04:00</published>
+    <updated>2019-05-28T11:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn60slc-replacement-stylus"/>
+    <title>Audio-Technica VMN60SLC Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn60slc_1_sq.jpg?v=1559058678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM760SLC</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Special Line Contact stylus</li>
+<li>Nude Rectangular Shank construction</li>
+<li>Black</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:225</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$500 to $800</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162998323</id>
+      <title>Default Title</title>
+      <s:price currency="USD">529.00</s:price>
+      <s:sku>AUD-466375-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162965555</id>
+    <published>2019-05-28T11:51:12-04:00</published>
+    <updated>2019-05-28T11:51:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn50sh-replacement-stylus"/>
+    <title>Audio-Technica VMN50SH Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn50sh_1_sq.jpg?v=1559058674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM750SH</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Shibata stylus</li>
+<li>Nude Square Shank construction</li>
+<li>Brown</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:250</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162965555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku>AUD-386631-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162900019</id>
+    <published>2019-05-28T11:51:08-04:00</published>
+    <updated>2019-05-28T11:51:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn40ml-replacement-stylus"/>
+    <title>Audio-Technica VMN40ML Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn40ml_1_sq.jpg?v=1559058671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            209.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM740ML &amp; VM540ML</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Microlinear stylus</li>
+<li>Nude Rectangular Shank construction</li>
+<li>Red</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:261</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162900019</id>
+      <title>Default Title</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>AUD-580506-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162867251</id>
+    <published>2019-05-28T11:51:04-04:00</published>
+    <updated>2019-05-28T11:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn30en-replacement-stylus"/>
+    <title>Audio-Technica VMN30EN Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn30en_1_sq.jpg?v=1559058667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM530EN</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Elliptical Nude stylus</li>
+<li>Nude Round Shank construction</li>
+<li>Orange</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:224</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162867251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>AUD-760350-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162670643</id>
+    <published>2019-05-28T11:51:01-04:00</published>
+    <updated>2019-05-28T11:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn20eb-replacement-stylus"/>
+    <title>Audio-Technica VMN20EB Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn20eb_1_sq.jpg?v=1559058663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM520EB</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Elliptical Bonded stylus</li>
+<li>Bonded Round Shank construction</li>
+<li>Blue</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:188</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162670643</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>AUD-228159-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162572339</id>
+    <published>2019-05-28T11:50:57-04:00</published>
+    <updated>2019-05-28T11:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vmn10cb-replacement-stylus"/>
+    <title>Audio-Technica VMN10CB Replacement Stylus</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vmn10cb_1_sq.jpg?v=1559058660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Replacement stylus for VM510CB &amp; VM610MONO</em>
+<p>Even the finest diamond stylus becomes worn after an extended period of play.The styli in our VM cartridges are no different. But it is easy to replace the stylus and continue to use your cartridge. Our renewed VM cartridges have 7 styli and 3 types of bodies to choose from. Not only is it not necessary to buy an entirely new cartridge, but you can also enjoy the experience of upgrading your stylus or trying a new cartridge/stylus combination.</p>
+
+<p>The cartridge becomes worn after an extended period of play, even the finest diamond stylus. Our VM cartridges can be used again for a long time only by replacing the stylus. Our renewed VM cartridges have 7 styli and 3 types of bodies. Not only it is not necessary to buy the cartridge itself, but also you experience the enjoyment of upgrade or various combination of VM cartridges.</p>
+
+<h6>General specifications:</h6>
+<ul>
+<li>Conical Bonded stylus</li>
+<li>Bonded Round Shank construction</li>
+<li>Blue</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:149</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Light Blue</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162572339</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>AUD-591241-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162539571</id>
+    <published>2019-05-28T11:50:53-04:00</published>
+    <updated>2019-05-28T11:50:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vm750sh-dual-moving-magnet-cartridge"/>
+    <title>Audio-Technica VM750SH Dual Moving Magnet Cartridge</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vm750sh_1_sq.jpg?v=1559058655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The VM750SH Shibata stylus cartridge is a premier 700 Series model in Audio-Technica’s new VM cartridge line – a line that harks back to A-T’s early days as a manufacturer primarily of high-end phono cartridges, while also incorporating today’s advanced technology. Like all VM cartridges, the VM750SH is equipped with dual magnets that are positioned to match the left and right channels in the stereo record groove for outstanding channel separation and extended frequency response. The cartridge’s Shibata stylus provides greater surface contact with the record groove than an elliptical stylus does, resulting in the pickup of ultra-high frequencies with less groove stress and distortion. Includes mounting hardware.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>VM dual magnet cartridge with Shibata stylus</li>
+<li>Aluminum tapered cantilever</li>
+<li>Paratoroidal coils improve generating efficiency</li>
+<li>Center shield plate between the left and right channels reduces crosstalk</li>
+<li>Die-cast aluminum alloy housing reduces vibration and adds a natural electrical shiel</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:132</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162539571</id>
+      <title>Default Title</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>AUD-144191-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162441267</id>
+    <published>2019-05-28T11:50:50-04:00</published>
+    <updated>2019-05-28T11:50:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vm740ml-dual-moving-magnet-cartridge"/>
+    <title>Audio-Technica VM740ML Dual Moving Magnet Cartridge</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vm740ml_1_sq.jpg?v=1559058652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The VM740ML MicroLine® stylus cartridge is a premier 700 Series model in Audio-Technica’s new VM cartridge line – a line that harks back to A-T’s early days as a manufacturer primarily of high-end phono cartridges, while also incorporating today’s advanced technology. Like all VM cartridges, the VM740ML is equipped with dual magnets that are positioned to match the left and right channels in the stereo record groove for outstanding channel separation and extended frequency response. The cartridge’s MicroLine® stylus allows it to trace the record groove with incredible accuracy, resulting in nuanced audio reproduction that elliptical and conical styli simply can’t match. The stylus’s multilevel shape also wears better than other styli, while reducing the wear on your records. Includes mounting hardware.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>VM dual magnet cartridge with MicroLine® stylus</li>
+<li>Aluminum tapered cantilever</li>
+<li>Paratoroidal coils improve generating efficiency</li>
+<li>Center shield plate between the left and right channels reduces crosstalk</li>
+<li>Die-cast aluminum alloy housing reduces vibration and adds a natural electrical shield</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:299</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162441267</id>
+      <title>Default Title</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku>AUD-534139-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162375731</id>
+    <published>2019-05-28T11:50:46-04:00</published>
+    <updated>2019-05-28T11:50:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vm540ml-dual-moving-magnet-cartridge"/>
+    <title>Audio-Technica VM540ML Dual Moving Magnet Cartridge</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vm540ml_1_sq.jpg?v=1559058648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The VM540ML MicroLine® stylus cartridge is the premier 500 Series model in Audio-Technica’s new VM cartridge line – a line that harks back to A-T’s early days as a manufacturer primarily of high-end phono cartridges, while also incorporating today’s advanced technology. Like all VM cartridges, the VM540ML is equipped with dual magnets that are positioned to match the left and right channels in the stereo record groove for outstanding channel separation and extended frequency response. The cartridge’s MicroLine® stylus allows it to trace the record groove with incredible accuracy, resulting in nuanced audio reproduction that elliptical and conical styli simply can’t match. The stylus’s multilevel shape also wears better than other styli, while reducing the wear on your records. Includes mounting hardware.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>VM dual magnet cartridge with MicroLine® stylus</li>
+<li>Aluminum cantilever</li>
+<li>Paratoroidal coils improve generating efficiency</li>
+<li>Center shield plate between the left and right channels reduces crosstalk</li>
+<li>Durable low-resonance polymer cartridge housing</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:84</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162375731</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>AUD-222784-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162342963</id>
+    <published>2019-05-28T11:50:43-04:00</published>
+    <updated>2019-05-28T11:50:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vm530en-dual-moving-magnet-cartridge"/>
+    <title>Audio-Technica VM530EN Dual Moving Magnet Cartridge</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vm530en_1_sq.jpg?v=1559058646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The VM530EN is a top-end elliptical stylus cartridge in Audio-Technica’s new VM cartridge line – a line that harks back to A-T’s early days as a manufacturer primarily of high-end phono cartridges, while also incorporating today’s advanced technology. Like all VM cartridges, the VM530EN is equipped with dual magnets that are positioned to match the left and right channels in the stereo record groove for outstanding channel separation and extended frequency response. The cartridge’s lightweight 0.3 x 0.7 mil elliptical nude stylus reduces the execution mass of the vibration system, enabling fuller frequency reproduction and less tracking distortion than a bonded stylus. Includes mounting hardware.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>VM dual magnet cartridge with 0.3 x 0.7 mil elliptical nude stylus</li>
+<li>Aluminum cantilever</li>
+<li>Paratoroidal coils improve generating efficiency</li>
+<li>Center shield plate between the left and right channels reduces crosstalk</li>
+<li>Durable low-resonance polymer cartridge housing</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:186</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162342963</id>
+      <title>Default Title</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>AUD-102027-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916162277427</id>
+    <published>2019-05-28T11:50:40-04:00</published>
+    <updated>2019-05-28T11:50:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-vm520eb-dual-moving-magnet-cartridge"/>
+    <title>Audio-Technica VM520EB Dual Moving Magnet Cartridge</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/vm520eb_1_sq.jpg?v=1559058642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The VM520EB is part of the 500 Series in Audio-Technica’s new VM cartridge line – a line that harks back to A-T’s early days as a manufacturer primarily of high-end phono cartridges, while also incorporating today’s advanced technology. Like all VM cartridges, the VM520EB is equipped with dual magnets that are positioned to match the left and right channels in the stereo record groove for outstanding channel separation and extended frequency response. The cartridge’s 0.3 x 0.7 mil elliptical bonded stylus tracks the record groove with high accuracy for outstanding audio reproduction. Includes mounting hardware.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>VM dual magnet cartridge with 0.3 x 0.7 mil elliptical stylus</li>
+<li>Aluminum cantilever</li>
+<li>Paratoroidal coils improve generating efficiency</li>
+<li>Center shield plate between the left and right channels reduces crosstalk</li>
+<li>Durable low-resonance polymer housing</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:169</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916162277427</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>AUD-259505-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916161294387</id>
+    <published>2019-05-28T11:49:44-04:00</published>
+    <updated>2019-05-28T11:49:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-at-oc9ml-ii-dual-moving-microcoil-cartridge"/>
+    <title>Audio-Technica AT-OC9ML/II Dual Moving MicroCoil Cartridge</title>
+    <s:type>Audio Accessories</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/at_oc9ml_ii_1_sq_f224ece0-b13d-4999-98e3-377c9118ca44.jpg?v=1559058587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Audio Accessories<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moving coil cartridge with MicroLine® diamond tip, for the best in clarity, transparency, precise stereo imaging, lower distortion and even wear for extended vinyl and stylus life. A-T Vector-Aligned design, with two moving coils mounted at 90 degrees in place of the two moving magnets.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Frequency Response: 15-50,000 Hz</li>
+<li>Channel Separation: 31/21 (dB at 1 kHz/10 kHz)</li>
+<li>Vertical Tracking Force: 1.25-1.75 grams</li>
+<li>Stylus Construction	Nude square shank</li>
+<li>Recommended Load Impedance: 20 ohms</li>
+<li>Output: 0.4 (mV at 1 kHz, 5 cm/sec)</li>
+<li>Channel Balance: 1.0 dB</li>
+<li>Stylus Shape: MicroLine®</li>
+<li>Cantilever: Gold-plated boron</li>
+<li>Mount: Half-inch</li>
+</ul>
+
+<em>Note: Moving coil cartridges require receivers or preamps with compatible inputs; their stylus assemblies are not field-replaceable.</em>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:253</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audio Accessories</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Price_$500 to $800</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916161294387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>AUD-348570-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916161130547</id>
+    <published>2019-05-28T11:49:38-04:00</published>
+    <updated>2019-05-28T11:49:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-at-lp7-fully-manual-belt-drive-turntable"/>
+    <title>Audio-Technica AT-LP7 Fully Manual Belt-Drive Turntable</title>
+    <s:type>Turntables</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/at_lp7_1_sq.jpg?v=1559125443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Turntables<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Audio-Technica began in 1962 as a designer and manufacturer of high-end phonograph cartridges, bringing to the audio world the innovative Dual Moving Magnet stereo cartridge with its outstanding channel separation, extended frequency response and superb tracking.</p>
+
+<p>The AT-LP7 builds on this heritage. Recognizing the critical role a cartridge plays in reproducing high-fidelity audio from vinyl, we designed this fully manual, belt-drive turntable around our VM cartridge line, incorporating the finest materials and structures in support of the cartridge’s performance. The AT-LP7 comes with a VM520EB Dual Moving Magnet Cartridge with a 10 g AT-HS10 headshell and 0.3 x 0.7 mil elliptical bonded stylus. That stylus can be replaced with any of the other six styli available in the VM line, giving users an easy means of upgrading the stylus without buying a whole new cartridge.</p>
+
+<p>The headshell attaches to a J-shaped tone arm that takes its inspiration from the classic A-T models of the 1960s and ’70s. The tone arm features a metallic gimbal suspension system and precision bearings to mitigate tracking errors, and includes an adjustable counterweight and anti-skate control. The height of the tone arm can be adjusted from 0 mm to 6 mm to accommodate a wide variety of cartridges.</p>
+
+<p>The turntable chassis is constructed of 40 mm-thick MDF (medium density fiberboard), an excellent anti-vibration damping material that limits low-frequency acoustical feedback. The anti-resonance platter is made of 20 mm-thick polyoxymethylene and is driven by a sensor-monitored motor that ensures a continuously accurate platter rotation speed of 33-1/3 or 45 RPM. The AT-LP7 also includes a built-in switchable phono/line preamp for connection to components with or without a dedicated phono input, and a selector switch to designate operation with a moving magnet or moving coil cartridge.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Fully manual, belt-drive operation with two speeds: 33-1/3 and 45 RPM</li>
+<li>Motor features a speed-sensor system to maintain accurate platter rotation speed</li>
+<li>VM520EB Dual Moving Magnet Cartridge provides outstanding channel separation and extended frequency response, and allows for easy replacement with any VM stylus</li>
+<li>J-shaped tone arm features a metallic gimbal suspension system and precision bearings for excellent tracking</li>
+<li>Built-in switchable phono pre-amplifier with selectable modes for moving magnet or moving coil cartridges</li>
+<li>20 mm-thick, anti-resonance, polyoxymethylene platter</li>
+<li>40 mm-thick MDF (medium density fiberboard) chassis</li>
+<li>Lightweight AT-HS10 headshell</li>
+<li>Includes dual RCA (male) to dual RCA (male) stereo cable, 45 RPM adapter, and dust cover</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:253</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$500 to $800</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916161130547</id>
+      <title>Default Title</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku>AUD-655654-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916160311347</id>
+    <published>2019-05-28T11:48:44-04:00</published>
+    <updated>2019-05-28T11:48:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-at-lp3wh-fully-automatic-belt-drive-stereo-turntable"/>
+    <title>Audio-Technica AT-LP3WH Fully Automatic Belt-Drive Stereo Turntable</title>
+    <s:type>Turntables</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/at_lp3_wh_1_sq.jpg?v=1559125846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Turntables<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The AT-LP3 fully automatic belt-drive turntable lets you take your analog listening experience to the next level with advanced features not typically found on automatic turntables. The balanced straight tone arm comes with a 1/2" mount universal headshell and AT91R Dual Moving Magnet phono cartridge, giving you excellent high-fidelity performance, plus the option to use other moving magnet or moving coil cartridges of your choosing.</p>
+
+<p>A hydraulically damped lift control allows the stylus to be precisely and safely lowered and raised at any point on a record. Yet the turntable also offers fully automatic operation, so you can simply press the Start button to begin play and the Stop button to lift and return the tone arm and shut off the turntable (the stop function occurs automatically when a record has played all the way through).</p>
+
+<p>The AT-LP3 is constructed of anti-vibration damping materials that limits low-frequency feedback. Resonance is further reduced by the turntable’s die-cast aluminum platter and accompanying 4 mm rubber damping mat. Equipped to play both 33-1/3 and 45 RPM records, the AT-LP3 features a built-in switchable phono preamp and an attached dual RCA output cable that enable it be connected to a home stereo, powered speakers and other components whether they have a dedicated turntable input or not.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Fully automatic belt-drive turntable operation with two speeds: 33-1/3, 45 RPM</li>
+<li>Balanced straight tone arm with hydraulically damped lift control and rest</li>
+<li>Built-in switchable phono/line pre-amplifier with attached dual RCA output cable</li>
+<li>Switchable pre-amp modes for moving magnet and moving coil cartridges</li>
+<li>Anti-resonance, die-cast aluminum platter with 4 mm thick rubber mat</li>
+<li>Damped base construction for reduced low-frequency feedback coloration</li>
+<li>Includes 45 RPM adapter and removable hinged dust cove</li>
+<li>
+</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:253</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916160311347</id>
+      <title>Default Title</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>AUD-242638-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916136620083</id>
+    <published>2019-05-28T11:29:19-04:00</published>
+    <updated>2019-05-28T11:29:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-at-lp1240-usbxp-direct-drive-professional-dj-turntable-usb-analog"/>
+    <title>Audio-Technica AT-LP1240-USBXP Direct-Drive Professional DJ Turntable, USB &amp; Analog</title>
+    <s:type>Turntables</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/at_lp1240_usb_1_sq.jpg?v=1559124992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Turntables<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This superbly made, professional quality DJ turntable is designed primarily for use in clubs, touring and mobile DJ applications. It can also be used by music lovers to play their record collections at home. Its sleek, elegant matte-black and silver design fits into any stereo music or home entertainment system, and its built-in switchable phono pre-amp enables it to be used with a wide variety of receivers, powered speakers and other A/V components. As an added benefit, the turntable offers a USB output that allows direct connection to a computer for easy LP-to-digital conversion.</p>
+
+<p>Built to deliver exceptional music reproduction even under the most demanding conditions of professional use, the AT-LP1240-USBXP utilizes a powerful direct-drive 16-pole, three-phase motor for quick startup, unwavering speed stability along with easy back-cueing, forward and reverse play and quiet operation at 33-1/3, 45 or 78 RPM. The turntable features an S-shaped tone arm with adjustable tracking force (counterweight) and anti-skate adjustment. It comes with the AT-HS1 universal 1/2"-mount headshell and the AT-XP5 DJ phono cartridge.</p>
+
+<p>Additional DJ-friendly features including a damped cast-aluminum platter with stroboscopic speed markings and slip mat, an illuminated speed indicator and adjustable pitch control, dual start/stop buttons, a removable stylus target light, a dedicated tone arm grounding lug, a hydraulically damped lift lever and a locking tone arm rest that keeps the arm and cartridge in place during transport.</p>
+
+<p>Audacity® and other compatible third-party software packages can be used to convert the audio on a record to MP3, WAV or other format digital audio files.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Direct-drive, high-torque, multipole motor for demanding DJ use</li>
+<li>Fully manual operation</li>
+<li>Start and brake control adjustments</li>
+<li>Selectable 33/45/78 RPM speeds</li>
+<li>Professional anti-resonance, damped die-cast aluminum platter with DJ-style slip mat</li>
+<li>Balanced S-shaped tone arm with hydraulically damped lift control, anti-skate, height adjustment and lockable rest</li>
+<li>Audacity and other compatible third-party software packages can be used to create digital files from vinyl records</li>
+<li>Built-in switchable phono pre-amplifier with detachable RCA output cables</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:253</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916136620083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku>AUD-567515-TEC-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916136456243</id>
+    <published>2019-05-28T11:29:15-04:00</published>
+    <updated>2019-05-28T11:29:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/audio-technica-at-lp120bk-usb-direct-drive-professional-turntable-usb-analog"/>
+    <title>Audio Technica AT-LP120BK-USB Direct-Drive Professional Turntable, USB &amp; Analog</title>
+    <s:type>Turntables</s:type>
+    <s:vendor>Audio Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/ddb8441854ef37a88204ece2eeaad80d.jpg?v=1559058572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio Technica<br>
+        <strong>Type: </strong>Turntables<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Audio-Technician's AT-LP120-USB direct-drive, high-torque professional turntable is perfect for DJs and other music enthusiasts, especially in an era that many would call "post vinyl," when it's no longer the norm for audio/video receivers or even integrated amplifiers to offer a dedicated phono input. Connect the Audio Technical ATLP120 to your computer to digitize your old LPs (laptop not included). It also includes a selectable internal stereo phono preamplifier and a USB output that connects directly to your computer-perfect for digitizing your old LPs to high-quality MP3 or FLAC files for playback from your computer.</p>
+
+<h6>Features include:</h6>
+<ul>
+<li>Forward and reverse play capability</li>
+<li>Cast aluminum platter with slip mat and a start/stop button</li>
+<li>Direct drive high-torque motor with selectable 33/45/78 RPM speeds</li>
+<li>Selectable high-accuracy quartz-controlled pitch lock and pitch change slider control with +/-10% or +/-20% adjustment ranges</li>
+<li>Removable hinged dust cover</li>
+</ul>
+
+<p>A selectable internal stereo phono pre-amplifier allows the turntable to plug directly to components with no dedicated turntable input. A USB cable and adapter cables are included along with Mac and PC-compatible Audacity software to digitize your LPs.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:293</s:tag>
+    <s:tag>Brand_Audio Technica</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Turntables</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916136456243</id>
+      <title>Black</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>AUD-518856-TEC-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

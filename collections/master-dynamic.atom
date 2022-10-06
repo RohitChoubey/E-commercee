@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehouse-theme-metal.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehouse-theme-metal.myshopify.com/collections/master-dynamic.atom"/>
+  <title>Warehouse - Metal</title>
+  <updated>2019-05-28T12:21:49-04:00</updated>
+  <author>
+    <name>Warehouse - Metal</name>
+  </author>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916202975283</id>
+    <published>2019-05-28T12:21:49-04:00</published>
+    <updated>2019-05-28T12:21:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/master-dynamic-mw60-wireless-over-ear-headphones"/>
+    <title>Master Dynamic MW60 Wireless Over-Ear Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/2714e34d94372f824fe0a4ade01e3e8f.jpg?v=1559060512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            549.00 - 608.00
+            <a href="https://warehouse-theme-metal.myshopify.com/products/master-dynamic-mw60-wireless-over-ear-headphones">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The MW60 is a top of the line award winning wireless headphone. High performance 45mm neodymium drivers and a signal range 4x industry standard with a 16 hour battery life combine for the highest performance. Premium leather, patent pending stainless steel components and a 'form-meets-function' exposed all-aluminum antenna, come together to create uncompromised durability, style and best-in-class signal range.</p>
+
+<p>The MW60 Wireless Over Ear Headphones have the perfect balance of aesthetics, strength, comfort and sound and are engineered to last.</p>
+
+<h6>Designed for Decades of Use</h6>
+<p>The MW60 features the highest performance technical features. These include a 45mm Neodymium driver to deliver the best sound quality, Bluetooth 4.1 with Aptx and our patent pending aluminum antenna for unparalleled connectivity.</p>
+
+<h6>Appointed with the Finest Materials</h6>
+<p>We build our products using only the finest and most durable luxury materials, maintaining the perfect balance of aesthetics, strength, comfort and utility. Engineered to last using premium leather, lambskin memory foam ear pads and stainless details.</p>
+
+<h6>Tuned for a Rich, Warm Sound</h6>
+<p>We sought a natural, detailed, live sound signature for our headphones. Our expansive soundscape captures the detail that well recorded music has to offer. Our tuning was designed to complement a diversity of tastes and musical genres.</p>
+
+<h6>Complemented by Functional Details</h6>
+<p>We carefully crafted essential functions and practical details into our designs, from the easily replaceable parts, to separating the microphone from the remote for increased vocal clarity. These details ensure that in addition to the high quality sound and design, they are comfortable and easy to use.</p>
+
+<h6>Features:</h6>
+<p>Technical features including a 3x industry average Bluetooth signal range and a 16-hour rechargeable battery combine with premium materials, a minimal industrial aesthetic and our signature rich, warm sound.</p>
+<ul>
+<li>Heavy Grain Premium Leather: Heavy grain premium cowhide on headband exterior surface and ear cup accents, soft lambskin on headband interior and ear pads.</li>
+<li>Omni-Directional Dual Microphone: Noise-isolating microphone to provide greater clarity.</li>
+<li>Tactile Controls: Intuitive controls similar to those found in elegant timepieces.</li>
+<li>Genuine Lambskin Ear Pads: Memory foam, wrapped in lambskin, providing superior comfort and breathability, removable for cleaning.</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:254</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Master &amp; Dynamic</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$500 to $800</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202975283</id>
+      <title>Black / No</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>MAS-240534-DYN-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202975283</id>
+      <title>Black / Yes</title>
+      <s:price currency="USD">608.00</s:price>
+      <s:sku>MAS-959112-DYN-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202975283</id>
+      <title>Brown/Silver / Yes</title>
+      <s:price currency="USD">608.00</s:price>
+      <s:sku>PIO-326792-ELI-BR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202975283</id>
+      <title>Brown/Silver / No</title>
+      <s:price currency="USD">608.00</s:price>
+      <s:sku>PIO-326792-ELI-BR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916202713139</id>
+    <published>2019-05-28T12:21:38-04:00</published>
+    <updated>2019-05-28T12:21:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/master-dynamic-mw50-wireless-on-ear-headphones"/>
+    <title>Master Dynamic MW50S1+ 2-In-1 Wireless On/Over-Ear Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/31d110f22db0eb9f6a4afac7392a71ce_07b08595-b743-4d6e-aee8-023f18c15a39.jpg?v=1559060505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our MW50+ Wireless Headphones are the mobile wireless thinking cap: wireless tools to help focus, inspire, and transport your mind. Designed for decades of use, our Bluetooth headphones are built with only the finest materials and tuned to provide a rich, detailed and expansive sound. Form meets function with interchangeable on &amp; over ear pads, exposed all-aluminum antenna provides best-in-class signal range. Now with IPX4 &amp; one-third lighter weight than our MW60s, our MW50+s are the perfect wireless headphones for home, office or travel.</p>
+<p>Choose on-ear for rich, expansive sound on-the-go, or over-ear for full sound isolation. These premium wireless headphones feature an all-aluminum antenna that provides best-in-class signal range, exclusive drivers that use Beryllium for superior acoustics, and ear cups that fold flat for portability and comfort.</p>
+<h6>Appointed with the Finest Materials</h6>
+<p>We build our products using only the finest and most durable luxury materials, maintaining the perfect balance of aesthetics, strength, comfort and utility. Engineered to last using premium leather, lambskin memory foam ear pads and stainless details.</p>
+<h6>Tuned for a Rich, Warm Sound</h6>
+<p>We sought a natural, detailed, live sound signature for our headphones. Our expansive soundscape captures the detail that well recorded music has to offer. Our tuning was designed to complement a diversity of tastes and musical genres.</p>
+<h6>Complemented by Functional Details</h6>
+<p>We carefully crafted essential functions and practical details into our designs, from the easily replaceable parts, to separating the microphone from the remote for increased vocal clarity. These details ensure that in addition to the high quality sound and design, they are comfortable and easy to use.</p>
+<h6>Features:</h6>
+<ul>
+<li>Interchangeable ear pads for on-ear headphones or over-ear headphones</li>
+<li>Bluetooth 4.1 with aptX and wired 3.5mm options</li>
+<li>Custom 40mm Beryllium diaphragm drivers</li>
+<li>Intuitive on-device controls</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label1:New</s:tag>
+    <s:tag>__stock:207</s:tag>
+    <s:tag>Brand_Master &amp; Dynamic</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202713139</id>
+      <title>Black/Silver</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>MAS-652969-DYN-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202713139</id>
+      <title>Brown/Silver</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>MAS-294560-DYN-BR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202713139</id>
+      <title>Black/Black</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>MAS-624938-DYN-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916202582067</id>
+    <published>2019-05-28T12:21:33-04:00</published>
+    <updated>2019-05-28T12:21:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/master-dynamic-mh40-over-ear-headphones"/>
+    <title>Master Dynamic MH40 Over-Ear Headphones</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/MH40G1A_Angle_800x800_800x800_cb2cf077-2d35-42e2-897d-e0c5b893b084.jpg?v=1559060496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The MH40 is Master &amp; Dynamic's best-selling, award-winning wired headphone. In this premium over-ear headphone, Master &amp; Dynamic has married the highest technical specs with a sophisticated design that delights style-conscious audiophiles all over the world. High-performing 45mm Neodymium drivers and rich tuning provide a warm, detailed soundscape. The MH40 wired headphones are crafted to withstand decades of use with premium aluminum, stainless steel in high-strain areas, durable cowhide on the external headband and soft lambskin on the inner headband.</p>
+
+<p>The removable, magnetically-connected ear pads feature memory foam wrapped in lambskin for premium comfort. These closed back headphones boast a variety of key features that make the MH40 stand out from competitors in every way. Besides an iconic design and technical superiority, these wired headphones feature oxygen-free copper cables for pure sound and reduced noise, dual audio jacks for shared listening, and seamless. These headphones are the perfect balance of aesthetics, strength, comfort and utility.</p>
+
+<h6>Technically Superior:</h6>
+<p>Master &amp; Dynamic has a deep passion for designing technically sophisticated products that look as beautiful as they sound. The MH40 premium headphones feature the most advanced technology including high-performance 45mm Neodymium drivers. Other key features include dual audio ports, mute button, removable ear pads and an in-line mic.</p>
+
+<h6>Choice Materials</h6>
+<p>These over-ear headphones are built with luxury materials that create an iconic, durable, and timeless look. An aluminum body is enhanced with stainless steel in all high-strain areas. Premium cowhide leather outfits the external headband while the inner headband and memory foam ear pads are wrapped in soft lambskin for endless comfort.</p>
+
+<h6>Premium Sound</h6>
+<p>We sought a natural, detailed, live sound signature for these MH40 wired headphones. Our expansive soundscape captures the detail that well-recorded music has to offer and our tuning was designed to complement a diversity of musical genres. Our headphones have been widely reviewed and regarded as an industry leader for sound quality.</p>
+
+<h6>Functional Details</h6>
+<p>We carefully crafted essential functions and practical details into our over-ear headphone design, from the easily removable lambskin ear pads to increased vocal clarity through an omni-directional microphone. Details like these ensure that in addition to the high-quality sound and design, these comfortable headphones are easy to use.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Noise isolating over-ear headset</li>
+<li>Stainless steel components in all high-strain areas</li>
+<li>Custom 45mm Neodymium high-performance drivers</li>
+<li>Interchangeable lambskin ear pads</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:178</s:tag>
+    <s:tag>Brand_Master &amp; Dynamic</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202582067</id>
+      <title>Default Title</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>MAS-890427-DYN-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916202352691</id>
+    <published>2019-05-28T12:21:29-04:00</published>
+    <updated>2019-05-28T12:21:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/master-dynamic-ma770-wireless-speaker"/>
+    <title>Master Dynamic MA770 Wireless Speaker</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/master-dynamic-ma770-8.jpg?v=1560251078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Master &amp; Dynamic has partnered with renowned architect Sir David Adjaye to design a bold and immersive new speaker. The WiFi or Bluetooth-connected speaker is made of an acoustically superior proprietary concrete composite. Audio componentry incorporates efficient dual 4” woven Kevlar long throw woofers and a 1.5” titanium tweeter. A magnetically attached stainless steel grille is removable for those that prefer the look of the exposed components and hand-finished concrete.</p>
+
+<h6>Sculptural Composition</h6>
+<p>Cast in a new geometric form, the proprietary concrete composite provides exceptional acoustic benefits such as increased dampening, reduced resonance, and a purer sound. The dampening properties are so high that the speaker can play at full volume without causing a record to skip or the table and floor to vibrate.</p>
+
+<h6>Premium Materials</h6>
+<p>Outfitted with dual 4" woven long throw woofers, a 1.5" titanium tweeter and diamond-cut anodized aluminum controls. An elegant, magnetically attached steel grille is removable for those that prefer the look of the exposed components and hand-finished concrete.</p>
+
+<h6>Immersive Sound</h6>
+<p>Constructed in a seamless, sealed concrete composite form, the speaker (16 x 20 x 10 in) easily fills a large room with sonically sophisticated sound, powered by 100 Watts of Class D amplification. It can be used as a single unit, stereo pair or multi-room setup via Chromecast built-in.</p>
+
+<p>Warranty: we offer a limited 2-year warranty against defects.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:84</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Master &amp; Dynamic</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916202352691</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1800.00</s:price>
+      <s:sku>MAS-986351-DYN-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

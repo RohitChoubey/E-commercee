@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehouse-theme-metal.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehouse-theme-metal.myshopify.com/collections/walkmans.atom"/>
+  <title>Warehouse - Metal</title>
+  <updated>2019-05-28T12:35:26-04:00</updated>
+  <author>
+    <name>Warehouse - Metal</name>
+  </author>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916218310707</id>
+    <published>2019-05-28T12:35:26-04:00</published>
+    <updated>2019-05-28T12:35:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-nw-e395-walkman-audio-player"/>
+    <title>Sony NW-E395 Walkman Audio Player</title>
+    <s:type>Walkmans</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/ed76e14287e12bcc72bccc4bc7ee3815_3632e180-75e2-4b3b-a49e-71a9e69b5907.jpg?v=1559728206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Walkmans<br>
+        <strong>Price: </strong>
+            93.00 - 249.00
+            <a href="https://warehouse-theme-metal.myshopify.com/products/sony-nw-e395-walkman-audio-player">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lightweight Walkman® can play MP3s for up to 50 hours between charges, and with a simple drag and drop interface it’s easy to load up all your music. The easy-to-use controls let you find the right song, view photos and tune the radio in seconds.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Great-sounding music in one step with ClearAudio+</li>
+<li>4, 8 or 16 GB on-board storage</li>
+<li>Easy drag and drop file transfer on PC and Mac®</li>
+<li>Plays PCM, AAC, WMA and MP3 files</li>
+<li>Up to 35 hours of battery life</li>
+<li>Alarm and timer function, Playlists compatible, Earbud style Headphones and USB cable included</li>
+<li>Charging Time (full charge) : 2 hours</li>
+<li>Actual battery life will vary based on product settings, usage patterns and environmental conditions.</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:234</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Price_$0 to $100</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:tag>Walkmans</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218310707</id>
+      <title>Black / 4GB</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>SON-578733-NW--BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218310707</id>
+      <title>Black / 8GB</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>SON-123669-NW--BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218310707</id>
+      <title>Black / 16GB</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>SON-695494-NW--BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218310707</id>
+      <title>Red / 4GB</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>SON-626609-NW--RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218310707</id>
+      <title>Red / 8GB</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>SON-670406-NW--RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218310707</id>
+      <title>Red / 16GB</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>SON-395041-PS--RE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916218048563</id>
+    <published>2019-05-28T12:35:08-04:00</published>
+    <updated>2019-05-28T12:35:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-nw-a26hnym-hi-res-walkman-digital-music-player-with-noise-cancellation"/>
+    <title>Sony NW-A26HNYM Hi-Res Walkman Digital Music Player with Noise Cancellation</title>
+    <s:type>Walkmans</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/sel-asset-550914_2_1d685539-eb04-4db3-afc2-2888fd9c8ff9.jpg?v=1559728102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Walkmans<br>
+        <strong>Price: </strong>
+            318.00 - 398.00
+            <a href="https://warehouse-theme-metal.myshopify.com/products/sony-nw-a26hnym-hi-res-walkman-digital-music-player-with-noise-cancellation">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give every track the headspace it deserves. Coupling the hear-to-believe clarity of High-Resolution Audio, with premium Noise Canceling headphones, the NW-A20 series puts you at the heart of the music you love.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>High-Resolution Audio compatible</li>
+<li>DSEE HX upscaling restores quality to compressed files</li>
+<li>S-Master HX digital amplifier for pure sound quality</li>
+<li>Great-sounding music in one step with ClearAudio+</li>
+<li>Includes Noise Canceling headphones</li>
+<li>Hear music at its best with this 32/64GB Hi-Res Walkman, Focus on the music with the included Noise Cancelling headphones, Playback; FLAC, WAV, AIFF, ALAC, MP3 files and more</li>
+<li>Listen longer with up to 50 hours of battery life, Upscale compressed audio files to near Hi-Res quality with DSEE HX, S-Master HX digital amp delivers accurate, detailed music playback</li>
+<li>Drag &amp; drop from iTunes for Mac or Windows, Compact, slim design with microSD memory slot, Easy to navigate with the 2.2” QVGA LCD display</li>
+<li>Enjoy high-quality wireless music streaming via Bluetooth</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:205</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Light Grey</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:tag>Walkmans</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218048563</id>
+      <title>Yellow / 16GB</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>SON-637686-NW--YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218048563</id>
+      <title>Yellow / 32GB</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>SON-680187-NW--YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218048563</id>
+      <title>Silver / 16GB</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>SON-861374-NW--SI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218048563</id>
+      <title>Silver / 32GB</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku>SON-423786-NW--SI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218048563</id>
+      <title>Dark Silver / 16GB</title>
+      <s:price currency="USD">398.00</s:price>
+      <s:sku>SON-580937-NW--DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916218048563</id>
+      <title>Dark Silver / 32GB</title>
+      <s:price currency="USD">398.00</s:price>
+      <s:sku>SON-519691-NW--DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916203696179</id>
+    <published>2019-05-28T12:22:07-04:00</published>
+    <updated>2019-05-28T12:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/pioneer-hi-res-digital-audio-player-xdp-300rs"/>
+    <title>Pioneer Hi-Res Digital Audio Player XDP-300R(S)</title>
+    <s:type>Walkmans</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/14051_165__1_baafaba0-2418-47b0-bf4a-4b9efca03e33.jpg?v=1559060531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Walkmans<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy hi-res audio with the silver XDP-300R Digital Audio Player from Pioneer. This portable player features a 4.7" capacitive touchscreen display that makes navigating through favorite tracks and playlists easy and intuitive. The XDP-300R supports multiple audio formats, including up to 11.2 MHz DSD, 384 kHz/24-bit PCM, FLAC, ALAC, WAV, AIFF, and MQA files. It comes with 32GB of built-in memory and features dual microSD card slots for expanding the base storage even further. The XDP-300R is equipped with both 2.5mm balanced and 3.5mm headphone outputs. It also supports Bluetooth and Wi-Fi technology for streaming audio. Audio can also be played via the micro-USB-B/OTG digital output.</p>
+<h6>General specifications:</h6>
+<ul>
+<li>In addition to the DAC and amplifier of the highest class, also equipped with Android OS. Equipped with a high-resolution model / highest level of DAC and amplifier also corresponding to the balance output by two groups, adopting the audio-grade parts. 300R dedicated tuning</li>
+<li>Equipped with ESS manufactured by DAC "ES9018K2M" amplifier "SABRE9601K" one by each of the two groups</li>
+<li>Corresponds to the most recent "MQA". MQA Limited is corresponding to the reproduction of became the developer "MQA" / â— 2 one of balance drive that you can select according to preference</li>
+<li>High Precision EQ-HD / Club Sound Boost</li>
+<li>High precision graphic equalizer which can adjust the volume of up to 16,384 band (frequency band)</li>
+</ul>
+<h6>Playback a Multitude of High Quality Audio Sources</h6>
+<p>The XDP-300R supports all your current audio from MP3’s to streaming music from your favorite internet apps. With playback support for up to 11.2MHz DSD, 384kHz/24 bit PCM, FLAC, ALAC, WAV, AIFF, and MQA it is possible to enjoy many existing Hi-Res audio formats. Equipped with both 2.5 mm balanced output and 3.5 mm headphone output; audio can also be output via Micro USB-B/OTG digital output, and wireless output to connect the XDP-300R offers a wide selection of headphones and peripherals. Compatible Formats: DSD(DSF/DSDIFF)/FLAC/ALAC/WAV/AIFF/MQA/OggVorbis/MP3/AAC.</p>
+<h6>High Resolution Playback with Twin DAC &amp; Amp Setup</h6>
+<p>Incorporating twin unit ESS Technology DAC “ES9018K2M” and AMP “SABRE 9601K” each allows for extreme high resolution audio and component audio design philosophy while still maintaining a realistic power envelop for a portable device.</p>
+<h6>Large capacity storage and battery life</h6>
+<p>Equipped with 2 micro SD card slots (up to 200GBs each) ,the internal memory of 32GBs (including system area), have access to up to 432GBs of storage for music, movies, and apps. With up to 16 hours of Hi-Res audio playback, play to your heart's content.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:146</s:tag>
+    <s:tag>Bluetooth</s:tag>
+    <s:tag>Brand_Pioneer</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Price_$500 to $800</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:tag>Walkmans</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916203696179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">699.99</s:price>
+      <s:sku>PIO-434147-HI--DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

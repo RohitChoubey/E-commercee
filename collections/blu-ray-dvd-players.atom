@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehouse-theme-metal.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehouse-theme-metal.myshopify.com/collections/blu-ray-dvd-players.atom"/>
+  <title>Warehouse - Metal</title>
+  <updated>2019-05-28T12:36:23-04:00</updated>
+  <author>
+    <name>Warehouse - Metal</name>
+  </author>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916219064371</id>
+    <published>2019-05-28T12:36:23-04:00</published>
+    <updated>2019-05-28T12:36:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/sony-ubpx1000es-4k-ultra-hd-blu-ray-disc-player"/>
+    <title>Sony UBPX1000ES 4K Ultra HD Blu-Ray Disc Player</title>
+    <s:type>Home Cinema</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/13890_220__1.jpg?v=1559061387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Home Cinema<br>
+        <strong>Price: </strong>
+            498.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Come home to a more immersive experience with 4K HDR playback, Dolby Atmos 3D surround sound and a design that’s optimized for custom home theater installations. Built for optimum video and audio performance, this universal player enhances playback on non-HDR TVs with HDR to SDR conversion, grants access to the latest 4K HDR streaming services7, and supports playback of almost any disc or file format including Hi-Res Audio.</p>
+
+<h6>Get closer to reality with 4K Ultra HD Blu-ray™</h6>
+<p>Play 4K Ultra HD movies2 at 4x the resolution of full 1080p HD, letting you watch your favorite scenes with a level of detail and clarity like never before.</p>
+
+<h6>Discover new depths of realism</h6>
+<p>Go deeper into the detail with High Dynamic Range (HDR). Combined with the clarity of 4K, HDR allows for a greater range of color contrast and brightness, enhancing details from the original film format.</p>
+
+<h6>Experience Dolby Atmos® and DTS:X® object-based surround sound</h6>
+<p>With Dolby Atmos®3D and DTS:X object-based surround sound, you'll feel like you're inside the action as the sounds of people, music and objects move all around you in three-dimensional space.</p>
+<ul>
+<li>Dolby Atmos treats sounds as separate objects, releasing them from typical channels to move freely around and even above you, for deeply immersive surround sound.</li>
+<li>DTS:X can create an unlimited number of audio objects that adapt to your speakers in real time to get the biggest impact out of every movie soundtrack.</li>
+</ul>
+
+<h6>Play anything</h6>
+<p>The UBP-X1000's playing power goes far beyond the 4K UHD Blu-ray Discs™. You can watch, listen to, and stream almost anything you like — including most high-definition video and High-Resolution Audio formats, and a host of popular streaming services.</p>
+
+<h6>The natural home for all your best equipment</h6>
+<p>Bring all your AV technology together and connect it to the UBP-X1000. Ideal for home movies and music streaming services like Spotify, it has high-quality connections to suit any technophile.</p>
+
+<h6>Sound that stays with you</h6>
+<p>Use the free Sony | Music Center app on your mobile or tablet to stream content wirelessly from your UBP-X1000 to other connected speakers and devices in your home. It's the smart way to keep your entertainment and lifestyle flowing together.</p>
+
+<h6>General specifications:</h6>
+<p>Come home to a more immersive experience with 4K HDR playback, Dolby Atmos® 3D surround sound3 and a design that’s optimized for custom home theater installations.</p>
+<ul>
+<li>See the unrivalled visual clarity of 4K UHD Blu-ray™</li>
+<li>Hear more detail with High-Resolution Audio and DSEE HX</li>
+<li>Anti-vibration construction for clearer sound</li>
+<li>Play almost any disc and file format</li>
+<li>Stunning picture with 4K upscaling up to 60p</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:284</s:tag>
+    <s:tag>Blu-Ray &amp; DVD Players</s:tag>
+    <s:tag>Brand_Sony</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916219064371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">498.00</s:price>
+      <s:sku>SON-487444-UBP-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916211626035</id>
+    <published>2019-05-28T12:29:08-04:00</published>
+    <updated>2019-05-28T12:29:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-ubd-m9500-za-4k-uhd-blu-ray-player"/>
+    <title>Samsung UBD-M9500/ZA 4K UHD Blu-Ray Player</title>
+    <s:type>Home Cinema</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15036_152__1.jpg?v=1559060954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Home Cinema<br>
+        <strong>Price: </strong>
+            397.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the incredibly life-like images with true 4K UHD playback.  Plus, with the UHD Upscaling feature, all your lower definition content will automatically refine to near UHD quality.</p>
+
+<h6>The most lifelike spectrum of colors</h6>
+<p>Enjoy realistic picture quality like never before. The Ultra HD Blu-ray Player offers twice the color range of existing conventional Blu-ray players and 64 times higher color expression, surpassing the digital cinema standard.</p>
+
+<h6>Get HDR resolution, automatically</h6>
+<p>Forget the hassle of changing your TV settings. The UBD-M8500 recognizes HDR content and automatically optimizes your Samsung TV settings, so you see content at its best – every time.</p>
+
+<h6>Easy entertainment with a seamless UI</h6>
+<p>All your content, accessible from one place. Samsung's  simple, intuitive SmartHub® user interface gives you quick access to key menu features without having to go back to the home screen while playing a disc.</p>
+
+<h6>Enjoy studio quality sound</h6>
+<p>Experience professional studio quality sound at home. HD Audio preserves the quality and richness of the original sound through 192 kHz/24bit without down sampling. The UBD-M8500 also support Dolby Atmos and DTS:X audio formats.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>4K Ultra HD Blu-Ray</li>
+<li>HDR</li>
+<li>Built-in WiFi</li>
+<li>Smart Blu-Ray</li>
+<li>HDMI</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:78</s:tag>
+    <s:tag>Blu-Ray &amp; DVD Players</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916211626035</id>
+      <title>Default Title</title>
+      <s:price currency="USD">397.99</s:price>
+      <s:sku>SAM-648643-UBD-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916211527731</id>
+    <published>2019-05-28T12:29:00-04:00</published>
+    <updated>2019-05-28T12:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-ubd-m8500-za-4k-uhd-blu-ray-player"/>
+    <title>Samsung UBD-M8500/ZA 4K UHD Blu-Ray Player</title>
+    <s:type>Home Cinema</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/15032_919__1.jpg?v=1559060946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Home Cinema<br>
+        <strong>Price: </strong>
+            297.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the incredibly life-like images with true 4K UHD playback.  Plus, with the UHD Upscaling feature, all your lower definition content will automatically refine to near UHD quality.</p>
+
+<h6>The most lifelike spectrum of colors</h6>
+<p>Enjoy realistic picture quality like never before. The Ultra HD Blu-ray Player offers twice the color range of existing conventional Blu-ray players and 64 times higher color expression, surpassing the digital cinema standard.</p>
+
+<h6>Get HDR resolution, automatically</h6>
+<p>Forget the hassle of changing your TV settings. The UBD-M8500 recognizes HDR content and automatically optimizes your Samsung TV settings, so you see content at its best – every time.</p>
+
+<h6>Easy entertainment with a seamless UI</h6>
+<p>All your content, accessible from one place. Samsung's  simple, intuitive SmartHub® user interface gives you quick access to key menu features without having to go back to the home screen while playing a disc.</p>
+
+<h6>Enjoy studio quality sound</h6>
+<p>Experience professional studio quality sound at home. HD Audio preserves the quality and richness of the original sound through 192 kHz/24bit without down sampling. The UBD-M8500 also support Dolby Atmos and DTS:X audio formats.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>4K Ultra HD Blu-Ray</li>
+<li>HDR</li>
+<li>Built-in WiFi</li>
+<li>Smart Blu-Ray</li>
+<li>HDMI</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:123</s:tag>
+    <s:tag>Blu-Ray &amp; DVD Players</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$250 to $500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916211527731</id>
+      <title>Default Title</title>
+      <s:price currency="USD">297.99</s:price>
+      <s:sku>SAM-906408-UBD-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916206645299</id>
+    <published>2019-05-28T12:23:58-04:00</published>
+    <updated>2019-05-28T12:23:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/samsung-bd-j7500-za-blu-ray-player"/>
+    <title>Samsung BD-J7500/ZA Blu-Ray Player</title>
+    <s:type>Home Cinema</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/0741b9a2f3f6ad1384d11de6279c0af4_f0d59789-1bef-4d1c-9e1b-3a10f2dfb127.jpg?v=1559060643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Home Cinema<br>
+        <strong>Price: </strong>
+            247.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Upscale your videos, TV shows, and movies to nearly four times 1080p HD, and watch your favorite scenes with a level of detail and clarity like never before. Turn any TV into the ultimate home entertainment hub with full access to all your favorite web and TV content, including games, movies, smart apps, and videos.</p>
+
+<h6>Quick start mode</h6>
+<p>Your Smart Blu-ray™ player is ready when you are with a start-up timeof 0.5 seconds – compared to nearly 10 seconds for most Blu-ray™ players.</p>
+
+<h6>3D Blu-Ray</h6>
+<p>Dive into the action in jaw-dropping Full HD, 2D, and 3D. Watch as your favorite characters practically leap off the screen when you pair your 3D Blu-ray™ player with Samsung 3D TV and Active 3D glasses.</p>
+
+<h6>Built-in dual WiFi</h6>
+<p>Sync and stream all of your favorite TV shows, games, apps, and more with built-in Dual Band Wireless. Access and share your TV and multimedia content from your PC and mobile devices for a truly connected home media experience.</p>
+
+<h6>Multi-room link ocmpatible</h6>
+<p>The Samsung Blu-ray™ Player easily integrates into your Multiroom Link. Pop in a CD and hear its incredible sound on any Multiroom Link enabled speaker in your home.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>4K UHD Upscaling</li>
+<li>Built-in WiFi</li>
+<li>3D Blu-Ray</li>
+<li>Multiroom compatibility</li>
+<li>HDMI</li>
+</ul>
+
+
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:127</s:tag>
+    <s:tag>Blu-Ray &amp; DVD Players</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$100 to $250</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916206645299</id>
+      <title>Default Title</title>
+      <s:price currency="USD">247.99</s:price>
+      <s:sku>SAM-111089-BD--DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916203401267</id>
+    <published>2019-05-28T12:22:02-04:00</published>
+    <updated>2019-05-28T12:22:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/pioneer-elite-universal-disc-player-udp-lx500"/>
+    <title>Pioneer UDP-LX500 Elite Universal Disc Player</title>
+    <s:type>Home Cinema</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/UDP-LX500_B__front.jpg?v=1559060525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Home Cinema<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elite’s brand-new universal disc player brings the spectacle of Ultra HD Blu-ray to your home entertainment, with four times the resolution of 1080P Full HD. Featuring three-block internal layout, Ultra rigid construction, and double-layered chassis for a robust build, 6-layered main circuit board, SDR/HDR preset mode, and support for HDR10/Dolby vision for quality picture, as well as premium audio DAC and zero signal terminal for high-grade sound, The UDP-LX500 lets you enjoy the highest video resolution as well as your other digital disc collections.</p>
+
+<h6>Ultra HD Blu-ray Playback</h6>
+<p>Certified by the UHD Alliance, the new Elite UDP-LX500 meets or exceeds strict performance specifications for resolution (4K – 4 times sharper than HD), high dynamic range (HDR – brilliant brights, deepest darks), and wide color spectrum (more lifelike colors). It also focuses on other video and audio attributes including immersive audio (multi-dimensional sound) among others.</p>
+
+<h6>Three-Block Internal Layout</h6>
+<p>The blocks for power supply, drive/digital processing, and analog audio are separated into three to eliminate electrical and magnetic interference between the blocks.</p>
+
+<h6>6-Layered Main Circuit Board for High S/N Ratio</h6>
+<p>A 6-layered IVH is used for the main circuit board to thoroughly eliminate digital noise. This optimizes the digital signal wiring and minimises GND impedance, and dramatically improves S/N ratio in audio/video signal processing. The 18 Gbps transmission through the latest HDMI standard becomes even more precise.</p>
+
+<h6>PQLS Jitter-less Sound Transmission</h6>
+<p>With the precision quartz controller on a compatible AV receiver, Pioneer’s PQLS (Precision Quartz Lock System) eliminates distortion caused by timing errors.</p>
+
+<p>It controls the amount of audio signals from the AV receiver to the UDP-LX500, giving the best possible digital-to-analog conversion. UDP-LX500 supports PQLS 2ch Audio, Multi-Surround, and Bit-stream.</p>
+
+<h6>Zero Signal Terminal</h6>
+<p>The Zero Signal Terminal is a Pioneer-original feature dedicated to tuning audio and video quality without signal transmission. By connecting the Zero Signal Terminal with the audio/video input terminal of an AV receiver etc., the reference level (GND) of the audio/video signals is aligned between the two devices, and the potential difference is suppressed, allowing a precise and high-quality signal transmission.</p>
+
+<h6>Features:</h6>
+<ul>
+<li>Ultra HD Blu-ray playback</li>
+<li>Three-block internal layout (power supply, drive/Digital processing, analog audio)</li>
+<li>6-Layered main circuit board for high S/N Ratio</li>
+<li>PQLS jitter-less sound transmission</li>
+<li>Elite products are backed by a three-year parts and labor warranty</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>                
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em>                                                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:115</s:tag>
+    <s:tag>Blu-Ray &amp; DVD Players</s:tag>
+    <s:tag>Brand_Pioneer</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_$800 to $1500</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916203401267</id>
+      <title>Default Title</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku>PIO-204397-ELI-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehouse-theme-metal.myshopify.com/products/1916201631795</id>
+    <published>2019-05-28T12:20:54-04:00</published>
+    <updated>2019-05-28T12:20:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehouse-theme-metal.myshopify.com/products/marantz-sa10s1-sa-10-super-audio-cd-player"/>
+    <title>Marantz SA-10 Super Audio CD Player</title>
+    <s:type>Home Cinema</s:type>
+    <s:vendor>Marantz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0065/3095/7363/products/71lg8qwlybl._sl1500.jpg?v=1559060458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marantz<br>
+        <strong>Type: </strong>Home Cinema<br>
+        <strong>Price: </strong>
+            6999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Super Audio CD player with USB DAC and digital inputs:</p>
+<ul>
+<li>All-new SACD-M3 transport mechanism for CD, Super Audio CD and more</li>
+<li>Playback of high-resolution audio compilations on DVD-ROM</li>
+<li>USB input for hi-res audio up to PCM / DXD 384kHz/32bit and DSD11.2MHz</li>
+<li>Isolation of USB and digital inputs to remove noise from connected sources</li>
+<li>Innovative upsampling to DSD and filtering using unique Marantz Musical Mastering - Stream technology</li>
+<li>All-new custom-designed 1-bit direct Marantz Musical Mastering -Conversion from DSD to analogue</li>
+<li>High-quality analogue output stage with Marantz HDAMs</li>
+<li>Generous power supply using toroidal transformer</li>
+<li>Dedicated headphone amplifier with all-discrete construction</li>
+</ul>
+<p>The new Marantz SA-10 is the latest model in a range of high-end players stretching all the way back to the dawn of CD: in the original CD-63, launched in 1983, it had the first high-end performance-tuned CD player, and that expertise has continued to be developed over more than 30 years. The SA-10 is designed to sets new standards, whether with music on disc or content streamed from a computer, and to become the New Reference in digital audio.</p>
+<p>To achieve that, the SA-10 is a completely new design, drawing on all that experience in making great-sounding players but with virtually every part redesigned. That involved both innovation and some unique thinking, all in the cause of getting the best possible performance across a wide range of digital audio formats. The new model is an exceptional player of both CD and SACD discs, but can also play high-resolution music stored on computer-burned discs, as well as being a high-end digital to analogue converter for computer-stored music.</p>
+<p>From the unique new disc transport designed for this player all the way through to a complete rethink of the way digital audio data is converted into analogue signals, the SA-10 is a ‘clean sheet’ design, the result of painstaking research and development and extensive listening in Marantz’s custom-built listening facilities. That’s symptomatic of the way Marantz has always done things: while it always aims for the most elegant engineering solution, the listening test is always the final arbiter. It’s all to do with that simple phrase running through the heart of everything the company does: ‘Because Music Matters’.</p>
+<p>This is a demo store. This product can be bought on <a href="https://www.hideflifestyle.com/">HiDEF Lifestyle eshop</a>.</p>
+<em>All logos, images, descriptions and brands are the property of their respective owners.</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:224</s:tag>
+    <s:tag>Blu-Ray &amp; DVD Players</s:tag>
+    <s:tag>Brand_Marantz</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Home Cinema</s:tag>
+    <s:tag>Price_More than $1500</s:tag>
+    <s:tag>Professional Audio</s:tag>
+    <s:variant>
+      <id>https://warehouse-theme-metal.myshopify.com/products/1916201631795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6999.00</s:price>
+      <s:sku>MAR-329535-SA1-DE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
